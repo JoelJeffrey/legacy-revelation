@@ -7,6 +7,7 @@ var channels = require('../channels');
 var GlobalView = require('views/GlobalView.js');
 var BaseView = require('views/BaseView.js');
 var HomeView = require('views/HomeView.js');
+var HomeView = require('views/PatchNotesView.js');
 
 module.exports = Backbone.Marionette.Controller.extend({
 
@@ -23,6 +24,7 @@ module.exports = Backbone.Marionette.Controller.extend({
     bootstrap: function() {
         this.globalView = new GlobalView();
         this.baseView = new BaseView();
+        this.index();
 
         channels.globalChannel.on('navigate', this.navigate, this);
     },
@@ -51,8 +53,9 @@ module.exports = Backbone.Marionette.Controller.extend({
         app.mainRegion.show(this.homeView);
     },
 
-    product: function(slug) {
-        console.log(slug);
+    patchNotes: function() {
+        this.patchNotesView = new PatchNotesView();
+        app.modalRegion.show(this.patchNotesView);
     },
 
     defaultHandler: function(route) {

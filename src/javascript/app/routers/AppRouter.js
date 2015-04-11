@@ -5,6 +5,7 @@ module.exports = Marionette.AppRouter.extend({
 
     appRoutes: {
         '(/)': 'index',
+        'patch-notes(/)': 'patchNotes',
         '*default': 'defaultHandler'
     },
 
