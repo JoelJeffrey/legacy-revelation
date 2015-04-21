@@ -10,7 +10,6 @@ button {
 
 .btn {
     display: inline-block;
-    font-family: 'Neuzeit Gro T OT Black';
     font-size: 1.8em;
     text-transform: uppercase;
     letter-spacing: 0.2em;
@@ -28,50 +27,12 @@ button {
 
     &.disabled,
     &[disabled] {}
-
-    &.btn-view-line {
-        display: block;
-        width: 4.5em;
-        height: 4.5em;
-        padding: 0.5em;
-        border: 3px solid $white;
-        border-radius: 50%;
-        color: $white;
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    &.btn-scroll-down, &.btn-scroll-down-product {
-        display: block;
-        padding: 1em;
-        background-image: url(../images/arrow-down-white.png);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: 24px 15px;
-        text-indent: -999em;
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    &.btn-buy-now {
-        font-size: 1.4em;
-        border: 3px solid $black;
-        padding: 0.3em;
-        margin: 0 0 0 1em;
-    }
-
-    &.btn-back {
+    
+    &.btn-close {
         position: absolute;
-        top: 0.5em;
-        left: 0.5em;
-        width: 50px;
-        height: 50px;
-        text-indent: -999em;
-        background-image: url(../images/noise/btn-back.svg);
-        background-repeat: no-repeat;
-        background-size: cover;
+        right: 1em;
+        top: 1em;
+        color: $white;
     }
 
 }

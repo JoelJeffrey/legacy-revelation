@@ -8,6 +8,9 @@ var GlobalView = require('views/GlobalView.js');
 var BaseView = require('views/BaseView.js');
 var HomeView = require('views/HomeView.js');
 var PatchNotesView = require('views/PatchNotesView.js');
+var GameOverviewView = require('views/GameOverviewView.js');
+var CompanyView = require('views/CompanyView.js');
+var BuyView = require('views/BuyView.js');
 
 module.exports = Backbone.Marionette.Controller.extend({
 
@@ -58,6 +61,21 @@ module.exports = Backbone.Marionette.Controller.extend({
     patchNotes: function() {
         this.patchNotesView = new PatchNotesView();
         app.modalRegion.show(this.patchNotesView);
+    },
+
+    gameOverview: function() {
+        this.gameOverviewView = new GameOverviewView();
+        app.modalRegion.show(this.gameOverviewView);
+    },
+
+    company: function() {
+        this.companyView = new CompanyView();
+        app.modalRegion.show(this.companyView);
+    },
+
+    buy: function() {
+        this.buyView = new BuyView();
+        app.modalRegion.show(this.buyView);
     },
 
     defaultHandler: function(route) {

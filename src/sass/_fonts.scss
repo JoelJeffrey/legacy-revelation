@@ -13,29 +13,3 @@
 //     font-weight: normal !important;
 //     font-style: normal;
 // }
-
-@font-face {
-  font-family: 'Neuzeit Gro T OT Black';
-  src: url('../URW NeuzeitGroteskTOT-Bla.eot'); /* IE9 Compat Modes */
-  src: url('../URW NeuzeitGroteskTOT-Bla.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../URW NeuzeitGroteskTOT-Bla.woff') format('woff'), /* Modern Browsers */
-       url('../URW NeuzeitGroteskTOT-Bla.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../URW NeuzeitGroteskTOT-Bla.svg#4fa1e3eb33e14866af0c564de28c193b') format('svg'); /* Legacy iOS */
-
-  font-style:   normal;
-  font-weight:  400;
-}
-
-@font-face {
-  font-family: 'Trade Gothic LT Std Bold';
-  src: url('../TradeGothicLTStd-Bold.eot'); /* IE9 Compat Modes */
-  src: url('../TradeGothicLTStd-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../TradeGothicLTStd-Bold.woff') format('woff'), /* Modern Browsers */
-       url('../TradeGothicLTStd-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../TradeGothicLTStd-Bold.svg#c1d3633691e9c5760d75ea5ff51c9393') format('svg'); /* Legacy iOS */
-
-  font-style:   normal;
-  font-weight:  700;
-}
-
-

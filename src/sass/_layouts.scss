@@ -1,7 +1,42 @@
 //
 // Layouts
 // ---------------------------
+.app {
+	height: 100%;
+	padding-top: 2em;
+	background: url(../images/Final_Background.jpg) no-repeat center center;
+	background-size: cover;
+	
+	.header {
+		width: 80%;
+		margin: 0 auto;
+		padding: .5em 4em 0;
+		border-radius: 10px;
 
-.app {}
+		background: $legacyBlack;
+		color: $white;
+		.logo {
+			display: inline-block;
+		}
+		#region-main-menu {
+			display: inline-block;
+		}
+		.main-menu {
+			float: right;
+			li {
+				list-style: none;
+			}
+			a {
+				padding: 3em;
+
+				color: $white;
+				&:hover {
+					text-decoration: none;
+					background: darken($black, 10%);
+				}
+			}
+		}
+	}
+}
 
 .page {}
