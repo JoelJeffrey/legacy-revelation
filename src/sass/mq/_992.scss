@@ -1,4 +1,51 @@
 //
 // 992 Breakpoint
 // ---------------------------
+.header {
+	width: 100%;
+	height: 200px;
+	margin: 0 auto;
+	padding: 5em 0 0 21%;
+	border-radius: 10px;
+	text-align: left;
 
+	background: url(../images/TextFlare_1.png) no-repeat left;
+	background-size: 100% 100%;
+	color: $white;
+	
+	.logo {
+		display: inline-block;
+		text-align: center;
+		font-size: 4em;
+		padding-top: 10px;
+		line-height: 1.1em;
+		.legacy {
+			color: $black;
+			// font-family: $vanHelsing;
+		}
+	}
+	#region-main-menu {
+		display: inline-block;
+	}
+	.main-menu {
+		float: right;
+		bottom: 25px;
+		text-align: right;
+		display: block;
+		position: relative;
+		li {
+			list-style: none;
+		}
+		a {
+			padding: .5em 1em;
+			font-size: 1.6em;
+			color: $white;
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+	.menu-toggle {
+		display: none;
+	}
+}

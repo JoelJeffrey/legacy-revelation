@@ -5,20 +5,29 @@
 	width: 100%;
 	height: 100%;
 	padding: 8%;
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 0.6);
 
 	@extend %absolute-center;
 	.modal-inner {
-		height: 80%;
-		width: 80%;
-		padding: 2em;
+		min-height: 400px;
+		width: 60%;
+		padding: 0 2em 2em;
 
 		color: $white;
-		background: $legacyBlack;	
+		background: rgba($legacyBlack, 0.9);
+		box-shadow: inset 1px 1px 20px #000;
 
 		@extend %absolute-center;
+		top: 55%;
+		.modal-content {
+			background: rgba(00, 00, 00, 0.5);
+			padding: 2em;
+			font-size: 16px;
+			line-height: 26px;
+		}
 		h1 {
 			text-align: center;
+			margin: 20px 0;
 		}
 	}
 }
