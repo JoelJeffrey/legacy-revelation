@@ -54,6 +54,10 @@
             opacity: 0;
             visibility: hidden;
         }
+
+        @media (min-width: 992px) {
+		    display: none;
+		}
     }
 
     .hamburger {
