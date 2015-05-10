@@ -11,7 +11,6 @@ var PatchNotesView = require('views/PatchNotesView.js');
 var GameOverviewView = require('views/GameOverviewView.js');
 var CompanyView = require('views/CompanyView.js');
 var BuyView = require('views/BuyView.js');
-var LegacyCharacterSelectView = require('views/LegacyCharacterSelectView.js');
 
 module.exports = Backbone.Marionette.Controller.extend({
 

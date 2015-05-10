@@ -5,6 +5,7 @@ var Velocity = require('libs/velocity');
 var channels = require('channels');
 var MainMenuView = require('views/MainMenuView');
 var UpdateMenuView = require('views/UpdateMenuView');
+var LegacyCharacterSelectView = require('views/LegacyCharacterSelectView');
 
 module.exports = Marionette.LayoutView.extend({
 
@@ -14,6 +15,7 @@ module.exports = Marionette.LayoutView.extend({
 
     regions: {
         regionMainMenu: '#region-main-menu',
+        regionLegacyCharacterSelect: '#region-legacy-character-select',
         regionUpdateMenu: '#region-update-menu'
     },
 
@@ -39,6 +41,10 @@ module.exports = Marionette.LayoutView.extend({
     initMainMenuView: function() {
         this.mainMenuView = new MainMenuView();
         this.regionMainMenu.show(this.mainMenuView);
+    },
+    initLegacyCharacterSelectView: function() {
+        this.legacyCharacterSelectView = new LegacyCharacterSelectView();
+        this.regionLegacyCharacterSelect.show(this.legacyCharacterSelectView);
     },
     initUpdateMenuView: function() {
         this.updateMenuView = new UpdateMenuView();
