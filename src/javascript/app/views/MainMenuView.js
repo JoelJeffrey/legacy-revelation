@@ -1,6 +1,7 @@
 var BaseView = require('views/BaseView');
 var template = require('templates/main-menu.hbs');
 var constants = require('utils/constants');
+var channels = require('../channels');
 
 module.exports = BaseView.extend({
 
@@ -19,6 +20,8 @@ module.exports = BaseView.extend({
     initialize: function(options) {
         console.log(options);
         this.menuOpen = false;
+
+        channels.globalChannel.on('menu:close', this.closeMenu, this);
     },
 
     onShow: function() {
@@ -26,6 +29,13 @@ module.exports = BaseView.extend({
 
     onClickHamburger: function () {
         this.toggleMenu();
+    },
+
+    closeMenu: function() {
+        this.bindUIElements();
+        this.menuOpen = false;
+        this.ui.mainMenu.removeClass(constants.MENU_OPEN_CLASS);
+        this.ui.hamburger.removeClass(constants.MENU_OPEN_CLASS);
     },
 
     toggleMenu: function () {

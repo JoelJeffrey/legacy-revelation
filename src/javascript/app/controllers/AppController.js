@@ -46,6 +46,8 @@ module.exports = Backbone.Marionette.Controller.extend({
             trigger: trigger
         });
 
+        channels.globalChannel.trigger('menu:close');
+
     },
 
     /* View Routes
