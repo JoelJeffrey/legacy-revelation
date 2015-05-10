@@ -39,13 +39,58 @@
 			}
 		}
 	}
-	.menu-toggle {
-		position: absolute;
-		top: 30px;
-		left: 30px;
-		height: 50px;
-		padding: 5px;
-		width: 50px;
-		background: $black;
-	}
+	.toggle-menu {
+        position: absolute;
+        top: 1em;
+        left: 1em;
+        height: 5em;
+        width: 5em;
+        display: inline-block;
+        opacity: 1;
+        background-color: $black;
+        transition: all 0.3s $easeDefault;
+
+        &.hide-toggle-menu {
+            opacity: 0;
+            visibility: hidden;
+        }
+    }
+
+    .hamburger {
+        backface-visibility: hidden;
+        margin: 0;
+        padding: 1.75em;
+        cursor: pointer;
+        @include user-select(none);
+        .bar {
+            width: 14px;
+            height: 2px;
+            margin-bottom: 4px;
+            background-color: $white;
+            transition: transform 0.6s 0s $easeDefault, background-color 0.6s 0s;
+            &:nth-child(2) {
+                transition: transform 0.6s 0.2s $easeDefault, background-color 0.6s 0s;
+            }
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        &.menu-is-open {
+            .bar:first-child {
+                transition: transform 0.6s 0s $easeDefault, background-color 0.6s 0s;
+                transform: rotate(45deg) translateY(9px) translateX(2px);
+                transform-origin: 50%,100%;
+            }
+            .bar:nth-child(2) {
+                transition: transform 0.6s 0s $easeDefault, background-color 0.6s 0s;
+                transform: scaleX(0.01);
+            }
+            .bar:nth-child(3) {
+                transition: transform 0.6s 0s $easeDefault, background-color 0.6s 0s;
+                transform-origin: 50%,0%;
+                transform: rotate(-45deg) translateY(-7px) translateX(-1px);
+            }
+        }
+    }
 }
