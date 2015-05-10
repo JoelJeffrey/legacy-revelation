@@ -30,11 +30,19 @@
 	.main-menu {
 		float: right;
 		bottom: 25px;
-		text-align: right;
-		display: block;
+		top: auto;
 		position: relative;
+		width: auto;
+		height: auto;
+		background-color: transparent;
+
+		ul {
+			margin: 0;
+		}
+
 		li {
-			list-style: none;
+			display: inline-block;
+			margin: 0;
 		}
 		a {
 			padding: .5em 1em;

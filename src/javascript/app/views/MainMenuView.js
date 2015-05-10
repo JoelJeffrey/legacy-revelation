@@ -8,7 +8,8 @@ module.exports = BaseView.extend({
 
     ui: {
         hamburger: '.hamburger',
-        toggleMenu: '.toggle-menu'
+        toggleMenu: '.toggle-menu',
+        mainMenu: '.main-menu'
     },
 
     events: {
@@ -31,8 +32,10 @@ module.exports = BaseView.extend({
         this.menuOpen = !this.menuOpen;
 
         if (this.menuOpen) {
+            this.ui.mainMenu.addClass(constants.MENU_OPEN_CLASS);
             this.ui.hamburger.addClass(constants.MENU_OPEN_CLASS);
         } else {
+            this.ui.mainMenu.removeClass(constants.MENU_OPEN_CLASS);
             this.ui.hamburger.removeClass(constants.MENU_OPEN_CLASS);
         }
     },
