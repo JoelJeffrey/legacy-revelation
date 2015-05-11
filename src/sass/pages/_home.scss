@@ -1,3 +1,14 @@
 //
 // Page: Home
 // ---------------------------
+.legacy-character-select {
+	margin: 10em auto 0;
+	padding: 1em;
+	width: 400px;
+	text-align: center;
+	background: $black;
+	.legacy-select-inner {
+		padding: 1em;
+		background: darken($black, 10%);
+	}
+}
