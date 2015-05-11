@@ -1,12 +1,13 @@
-var BaseView = require('views/BaseView');
+var Marionette = require('backbone.marionette');
 var template = require('templates/legacy-character-select.hbs');
+var CharacterItemView = require('views/CharacterItemView');
+module.exports = Marionette.CollectionView.extend({
 
-module.exports = BaseView.extend({
+    childView: CharacterItemView,
 
-    template: template,
+    tagName: 'ul',
 
-    templateHelpers: function() {
-    },
+    // template: template,
 
     initialize: function(options) {
         console.log(options);
