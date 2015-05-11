@@ -7,6 +7,7 @@ module.exports = Marionette.CollectionView.extend({
     childView: CharacterItemView,
 
     tagName: 'ul',
+    className: 'legacy-character-select',
 
 	childView: CharacterItemView,
 

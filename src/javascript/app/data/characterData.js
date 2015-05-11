@@ -3,14 +3,26 @@ module.exports = [
     {
         "slug": "jarax",
         "title": "Jarax",
-        "imgThumb": "jarax-thumb.png",
-        "img": "jarax.png"
+        "imgThumb": "xakovi_thumb.png",
+        "img": "jarax.png",
+        "journal": "Jarax",
+        "characterSheet": "Jarax"
     },
     {
-        "title": "someCharacter2"
+        "slug": "jarax",
+        "title": "Jarax",
+        "imgThumb": "xakovi_thumb.png",
+        "img": "jarax.png",
+        "journal": "Jarax",
+        "characterSheet": "Jarax"
     },
     {
-        "title": "someCharacter3"
+        "slug": "jarax",
+        "title": "Jarax",
+        "imgThumb": "xakovi_thumb.png",
+        "img": "jarax.png",
+        "journal": "Jarax",
+        "characterSheet": "Jarax"
     }
 
 ];

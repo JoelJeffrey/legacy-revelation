@@ -27,11 +27,11 @@
 }
 @font-face {
   font-family: 'Van Helsing';
-  src: url('Van-Helsing.eot'); /* IE9 Compat Modes */
-  src: url('Van-Helsing.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('Van-Helsing.woff') format('woff'), /* Modern Browsers */
-       url('Van-Helsing.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('Van-Helsing.svg#af1af1ef81810130b0ea3e55089f7e8c') format('svg'); /* Legacy iOS */
+  src: url('../fonts/Van-Helsing.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Van-Helsing.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Van-Helsing.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/Van-Helsing.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Van-Helsing.svg#af1af1ef81810130b0ea3e55089f7e8c') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  400;
