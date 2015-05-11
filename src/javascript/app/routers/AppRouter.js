@@ -9,6 +9,7 @@ module.exports = Marionette.AppRouter.extend({
         'game-overview(/)': 'gameOverview',
         'company(/)': 'company',
         'buy(/)': 'buy',
+        'character(/)(:slug)(/)': 'showCharacters',
         '*default': 'defaultHandler'
     },
 

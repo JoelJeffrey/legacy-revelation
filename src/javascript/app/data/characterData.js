@@ -9,15 +9,15 @@ module.exports = [
         "characterSheet": "Jarax"
     },
     {
-        "slug": "jarax",
-        "title": "Jarax",
+        "slug": "Arax",
+        "title": "Arax",
         "imgThumb": "xakovi_thumb.png",
         "img": "jarax.png",
         "journal": "Jarax",
         "characterSheet": "Jarax"
     },
     {
-        "slug": "jarax",
+        "slug": "Zero",
         "title": "Jarax",
         "imgThumb": "xakovi_thumb.png",
         "img": "jarax.png",

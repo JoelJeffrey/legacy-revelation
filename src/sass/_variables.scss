@@ -40,6 +40,7 @@ $sans:                      sans-serif !default;
 $serif:                     serif !default;
 $vanHelsing:                'Van Helsing' !default;
 $sylfaen:                   'Sylfaen' !default;
+$artifika:                  'Artifika' !default;
 
 $thin:                      100 !default;
 $light:                     300 !default;
@@ -49,11 +50,11 @@ $bold:                      600 !default;
 $ultraBold:                 800 !default;
 
 $baseFontSize:              10px !default;
-$baseFontFamily:            $sylfaen !default;
+$baseFontFamily:            $sylfaen, $sans !default;
 $baseLineHeight:            22px !default;
 
 $headingsFontWeight:        $bold !default;
-$headingsFontFamily:        'Artifika', serif !default;
+$headingsFontFamily:        $artifika, $sans !default;
 $headingsColor:             inherit !default;
 
 // Borders

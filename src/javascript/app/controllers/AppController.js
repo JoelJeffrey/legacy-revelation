@@ -11,6 +11,7 @@ var PatchNotesView = require('views/PatchNotesView.js');
 var GameOverviewView = require('views/GameOverviewView.js');
 var CompanyView = require('views/CompanyView.js');
 var BuyView = require('views/BuyView.js');
+var characterData = require('../data/characterData');
 
 module.exports = Backbone.Marionette.Controller.extend({
 
@@ -78,6 +79,12 @@ module.exports = Backbone.Marionette.Controller.extend({
     buy: function() {
         this.buyView = new BuyView();
         app.modalRegion.show(this.buyView);
+    },
+
+    showCharacters: function(slug) {
+        console.log(slug);
+        var characterInfo = _.where(characterData, {slug: "" + slug + ""});
+        console.log(characterInfo);
     },
 
     defaultHandler: function(route) {
