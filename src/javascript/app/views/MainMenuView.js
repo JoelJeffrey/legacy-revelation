@@ -18,7 +18,7 @@ module.exports = BaseView.extend({
     },
 
     initialize: function(options) {
-        console.log(options);
+        // console.log(options);
         this.menuOpen = false;
 
         channels.globalChannel.on('menu:close', this.closeMenu, this);

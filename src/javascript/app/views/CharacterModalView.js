@@ -1,5 +1,5 @@
 var BaseView = require('views/BaseView');
-var template = require('templates/modal-game-overview.hbs');
+var template = require('templates/modal-legacy-character.hbs');
 
 module.exports = BaseView.extend({
 
@@ -9,7 +9,7 @@ module.exports = BaseView.extend({
     },
 
     initialize: function(options) {
-        console.log(options);
+        console.log(this.model);
     },
 
     onShow: function() {

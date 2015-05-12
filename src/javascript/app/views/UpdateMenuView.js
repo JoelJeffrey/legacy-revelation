@@ -9,7 +9,7 @@ module.exports = BaseView.extend({
     },
 
     initialize: function(options) {
-        console.log(options);
+        // console.log(options);
     },
 
     onShow: function() {

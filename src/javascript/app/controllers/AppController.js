@@ -12,6 +12,7 @@ var GameOverviewView = require('views/GameOverviewView.js');
 var CompanyView = require('views/CompanyView.js');
 var BuyView = require('views/BuyView.js');
 var characterData = require('../data/characterData');
+var CharacterModalView = require('views/CharacterModalView');
 
 module.exports = Backbone.Marionette.Controller.extend({
 
@@ -82,13 +83,16 @@ module.exports = Backbone.Marionette.Controller.extend({
     },
 
     showCharacters: function(slug) {
-        console.log(slug);
-        var characterInfo = _.where(characterData, {slug: "" + slug + ""});
-        console.log(characterInfo);
+        var characterInfo = _.where(characterData, {slug: slug})[0];
+        this.characterModalView = new CharacterModalView({
+            model: new Backbone.Model(characterInfo)
+        });
+
+        app.modalRegion.show(this.characterModalView);
     },
 
     defaultHandler: function(route) {
-        console.log('%cRoute /%s does not exist', 'color:white; background:gray; padding: 0 0.25em', route);
+        // console.log('%cRoute /%s does not exist', 'color:white; background:gray; padding: 0 0.25em', route);
     }
 
 });

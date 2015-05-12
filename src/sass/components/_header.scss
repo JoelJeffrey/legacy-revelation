@@ -34,7 +34,7 @@
 
 		&.menu-is-open {
 			transform: translate3d(0, 0, 0);
-			z-index: 2000;
+			z-index: 10;
 		}
 
 		@media (min-width: 992px) {
@@ -53,7 +53,7 @@
 		}
 
 		ul {
-			margin: 10em 0 0 1em;
+			margin: 10em 0 0 0;
 			padding: 0;
 		}
 
@@ -82,7 +82,7 @@
         opacity: 1;
         background-color: $black;
         transition: all 0.3s $easeDefault;
-        z-index: 10;
+        z-index: 20;
 
         &.hide-toggle-menu {
             opacity: 0;
