@@ -10,7 +10,7 @@ var express = require('express'),
 var app = express();
 
 // static folder setup
-app.use(express.static(path.join(__dirname, './static/')));
+app.use(express.static(path.join(__dirname, './build/')));
 
 // initialize authentication
 // cors
