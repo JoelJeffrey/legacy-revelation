@@ -9,13 +9,15 @@
 	padding: 1em 2em;
 	display: inline-block;
 	text-align: center;
-	background: $black;
+	background: #333333;
 	position: relative;
+	border-radius: 5px;
 	box-shadow: inset 1px 1px 20px #000;
 	.character-list {
+		border-radius: 5px;
 		padding: 1.5em 1.5em 0 1.5em;
 		text-align: left;
-		background: darken($black, 10%);
+		background: rgba(22, 22, 22, 0.9);
 		display: inline-block;
 	}
 	li {
