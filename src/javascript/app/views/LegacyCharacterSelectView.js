@@ -10,11 +10,13 @@ module.exports = Marionette.CompositeView.extend({
     template: template,
 
     ui: {
-        showBtn: '.btn-show'
+        showBtn: '.btn-show',
+        hideBtn: '.btn-hide'
     },
 
     events: {
-        'click @ui.showBtn': 'onClickShowBtn'
+        'click @ui.showBtn': 'onClickShowBtn',
+        'click @ui.hideBtn': 'onClickHideBtn'
     },
 
     initialize: function(options) {
@@ -27,6 +29,14 @@ module.exports = Marionette.CompositeView.extend({
     onClickShowBtn: function(event) {
         console.log('click show btn');
         //do stuff here
+        $('.legacy-character-select-wrapper').removeClass('hidden');
+        this.removeClass('hidden');
+    },
+    onClickHideBtn: function(event) {
+        console.log('click hide btn');
+        //do stuff here
+        $('.legacy-character-select-wrapper').addClass('hidden');
+        this.ui.showBtn.removeClass('hidden');
     }
 
 });

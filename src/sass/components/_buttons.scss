@@ -37,5 +37,34 @@ button {
             height: 30px;
         }
     }
+    &.btn-hide {
+        display: block;
+        position: absolute;
+        bottom: -28px;
+        box-shadow: inset 1px 1px 10px #000;
+        text-transform: uppercase;
+        background: rgba($black, 0.7);
+        padding: .3em 2em;
+        font-size: 1.2em;
+        right: 0;
+        color: $white;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    &.btn-show {
+        position: absolute;
+        bottom: 0px;
+        padding: .5em 6em;
+        color: $white;
+        box-shadow: inset 1px 1px 10px #000;
+        text-transform: uppercase;
+        background: rgba($black, 0.7);
+        text-align: center;
 
+        @extend %horizontal-center;
+        &:hover {
+            text-decoration: none;
+        }
+    }
 }
