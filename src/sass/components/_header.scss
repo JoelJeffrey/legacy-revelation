@@ -28,7 +28,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		background-color: $black;
+		background-color: #333333;
 		transform: translate3d(-100%, 0, 0);
 		transition: transform 0.3s $easeDefault;
 
@@ -80,7 +80,7 @@
         left: 1em;
         display: inline-block;
         opacity: 1;
-        background-color: $black;
+        background-color: #333333;
         transition: all 0.3s $easeDefault;
         z-index: 20;
 

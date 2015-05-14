@@ -22,9 +22,11 @@ module.exports = Marionette.LayoutView.extend({
     },
 
     ui: {
+        showBtn: '.btn-show'
     },
 
     events: {
+        'click @ui.showBtn': 'onClickShowBtn'
     },
 
     templateHelpers: function() {
@@ -39,6 +41,14 @@ module.exports = Marionette.LayoutView.extend({
         this.initMainMenuView();
         this.initUpdateMenuView();
         this.initLegacyCharacterSelectView();
+    },
+
+    onClickShowBtn: function(event) {
+        console.log('click show btn');
+        //do stuff here
+        $('.legacy-character-select-wrapper').removeClass('is-hidden');
+        $('.btn-hide').removeClass('is-hidden');
+        this.ui.showBtn.addClass('is-hidden');
     },
 
     initMainMenuView: function() {

@@ -4,6 +4,7 @@
 .legacy-character-select-wrapper {
 	text-align: center;
 	margin-top: 7em;
+	@extend %transition-all-slow;
 }
 .legacy-character-select {
 	padding: 1em 2em;
