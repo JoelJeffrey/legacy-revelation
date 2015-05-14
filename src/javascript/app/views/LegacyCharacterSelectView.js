@@ -9,11 +9,24 @@ module.exports = Marionette.CompositeView.extend({
 
     template: template,
 
+    ui: {
+        showBtn: '.btn-show'
+    },
+
+    events: {
+        'click @ui.showBtn': 'onClickShowBtn'
+    },
+
     initialize: function(options) {
         console.log(options);
     },
 
     onShow: function() {
+    },
+
+    onClickShowBtn: function(event) {
+        console.log('click show btn');
+        //do stuff here
     }
 
 });
