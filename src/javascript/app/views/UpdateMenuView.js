@@ -13,6 +13,11 @@ module.exports = BaseView.extend({
     },
 
     onShow: function() {
+    	setTimeout(this.fadeAnimation, 10);
+    },
+
+    fadeAnimation: function() {
+    	$('.modal-wrap').removeClass('is-hidden');
     }
 
 });

@@ -18,7 +18,7 @@ module.exports = Marionette.CompositeView.extend({
     },
 
     initialize: function(options) {
-        console.log(options);
+        // console.log(options);
     },
 
     onShow: function() {

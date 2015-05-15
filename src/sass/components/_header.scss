@@ -11,7 +11,7 @@
 	.logo {
 		margin: 0;
 		text-align: center;
-		font-size: 4em;
+		font-size: 3.8em;
 		line-height: 33px;
 		.legacy {
 			color: #222;
@@ -68,9 +68,11 @@
 			font-size: 1.6em;
 			color: $white;
 			font-family: $artifika;
+			@extend %transition-all;
 
 			&:hover {
 				text-decoration: none;
+				color: darken($white, 15%);
 			}
 		}
 	}

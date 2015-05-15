@@ -6,3 +6,11 @@
 	background-position: center center;
 	background-size: cover;
 }
+.modal-wrap {
+	.character-image {
+		position: fixed;
+	}
+	.character-description {
+		margin-left: 200px;
+	}
+}

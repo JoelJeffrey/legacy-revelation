@@ -16,7 +16,11 @@ button {
     -webkit-font-smoothing: antialiased;
     color: $black;
 
-    &:hover {}
+    @extend %transition-all;
+
+    &:hover {
+
+    }
 
     &:focus {
         outline: none;
@@ -40,16 +44,19 @@ button {
     &.btn-hide {
         display: block;
         position: absolute;
-        bottom: -28px;
+        bottom: 5px;
         box-shadow: inset 1px 1px 10px #000;
         text-transform: uppercase;
         background: rgba($black, 0.7);
-        padding: .3em 2em;
+        padding: 0.1em 2em;
         font-size: 1.2em;
-        right: 0;
+        right: 20px;
         color: $white;
+        border-radius: 5px;
         &:hover {
             text-decoration: none;
+            color: darken($white, 10%);
+            background: #333;
         }
     }
     &.btn-show {
@@ -67,6 +74,8 @@ button {
         @extend %transition-all-slow;
         &:hover {
             text-decoration: none;
+            color: darken($white, 10%);
+            background: #333;
         }
     }
 }

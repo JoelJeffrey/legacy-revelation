@@ -18,7 +18,7 @@ module.exports = BaseView.extend({
     initialize: function(options) {
     },
 
-    onShow: function() {
+    onShow: function() {   
     }
 
 });

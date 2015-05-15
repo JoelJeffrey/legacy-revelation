@@ -4,7 +4,7 @@
 .header {
 	width: 100%;
 	margin: 0 auto;
-	padding: 2em 0 0 21%;
+	padding: 2em 0 0 22%;
 	border-radius: 10px;
 	text-align: left;
 
@@ -22,6 +22,7 @@
 	}
 	#region-main-menu {
 		display: inline-block;
+		width: 70%;
 	}
 	.main-menu {
 		float: right;
@@ -42,8 +43,8 @@
 			margin: 0;
 		}
 		a {
-			padding: .5em 1em;
-			font-size: 1.6em;
+			padding: .5em .7em;
+			font-size: 1.5em;
 			color: $white;
 			&:hover {
 				text-decoration: none;
