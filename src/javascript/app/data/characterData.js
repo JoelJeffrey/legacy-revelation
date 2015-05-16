@@ -1,28 +1,13 @@
 module.exports = [
-
     {
-        "slug": "jarax",
-        "title": "Jarax",
-        "imgThumb": "xakovi_thumb.png",
-        "img": "jarax.png",
-        "journal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
-        "characterSheet": "Download Char Sheet"
-    },
-    {
-        "slug": "arax",
-        "title": "Arax",
-        "imgThumb": "xakovi_thumb.png",
-        "img": "jarax.png",
-        "journal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
-        "characterSheet": "Download Char Sheet"
-    },
-    {
-        "slug": "zero",
-        "title": "Jarax",
-        "imgThumb": "xakovi_thumb.png",
-        "img": "jarax.png",
-        "journal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
-        "characterSheet": "Download Char Sheet"
+        "slug": "xakovi",
+        "title": "Xakovi",
+        "imgThumb": "xakovi-thumb.png",
+        "img": "xakovi-thumb.png",
+        "journal": "Warlord of the mountain Valter, Xakovi leaves for Pormos to capture Dkors, a resilient and spirited people deemed perfect for tending dragons.",
+        "journal2": "Despite deals struck and heritage honored, Xakovi would find an unlikely home amongst the volatile atmosphere and barren grounds.",
+        "journal3": "After proving himself time and again as steward, watcher, and guardian, he will join forces with the most powerful Draeg to earn his greatest title, Versivo's Warlord, Warden of the Severed Plateau.",
+        "characterSheet": "http://defineyourlegacy.com/character-documents/Xakovi_CharSheet.pdf",
+        "journalLink": "http://defineyourlegacy.com//character-documents/XakovisJournal.pdf"
     }
-
 ];

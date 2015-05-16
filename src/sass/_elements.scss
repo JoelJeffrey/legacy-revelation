@@ -27,6 +27,22 @@ figure {
     figcaption {}
 }
 
+// scrollbar
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    background: #333;
+    
+}
+ 
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 10px rgba(00,00,00,0.5); 
+    background: #fff;
+}
+
 /* ul, ol {
     margin: 0;
     padding: 0;
