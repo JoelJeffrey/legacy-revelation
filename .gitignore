@@ -110,6 +110,7 @@ uploads/*
 *.local.py
 MANIFEST
 .vagrant
+production/
 celerybeat.pid
 *.sw[op]
 nohup.out
