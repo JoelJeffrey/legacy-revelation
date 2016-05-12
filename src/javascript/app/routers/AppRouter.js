@@ -6,7 +6,8 @@ module.exports = Marionette.AppRouter.extend({
     appRoutes: {
         '(/)': 'index',
         'patch-notes(/)': 'patchNotes',
-        'game-overview(/)': 'gameOverview',
+        'chronicle(/)': 'chronicle',
+        // 'game-overview(/)': 'gameOverview',
         'company(/)': 'company',
         'buy(/)': 'buy',
         'character(/)(:slug)(/)': 'showCharacters',

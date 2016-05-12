@@ -9,6 +9,7 @@ var BaseView = require('views/BaseView.js');
 var HomeView = require('views/HomeView.js');
 var PatchNotesView = require('views/PatchNotesView.js');
 var GameOverviewView = require('views/GameOverviewView.js');
+var chronicleView = require('views/ChronicleView.js');
 var CompanyView = require('views/CompanyView.js');
 var BuyView = require('views/BuyView.js');
 var characterData = require('../data/characterData');
@@ -67,10 +68,15 @@ module.exports = Backbone.Marionette.Controller.extend({
         app.modalRegion.show(this.patchNotesView);
     },
 
-    gameOverview: function() {
-        this.gameOverviewView = new GameOverviewView();
-        app.modalRegion.show(this.gameOverviewView);
+    chronicle: function() {
+        this.chronicleView = new chronicleView();
+        app.modalRegion.show(this.chronicleView);
     },
+
+    // gameOverview: function() {
+    //     this.gameOverviewView = new GameOverviewView();
+    //     app.modalRegion.show(this.gameOverviewView);
+    // },
 
     company: function() {
         this.companyView = new CompanyView();
