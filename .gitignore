@@ -107,6 +107,7 @@ uploads/*
 !collected-static/.gitkeep
 !uploads/README
 #
+sftp-config.json
 *.local.py
 MANIFEST
 .vagrant
