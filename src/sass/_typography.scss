@@ -7,6 +7,7 @@
 a {
     color: $linkColor;
     text-decoration: none;
+    font-size: 1.6rem;
     &:hover {
         color: $linkColorHover;
         text-decoration: underline;
@@ -17,7 +18,7 @@ a {
 // ----------
 p { 
     margin: 0 0 $baseLineHeight / 2; 
-    font-size: 1.6em;
+    font-size: 1.6rem;
 }
 blockquote {
     font-size: 1.6em;
