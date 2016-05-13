@@ -100,4 +100,19 @@
 		float: left;
 		width: 100px;
 	}
+	.story-image {
+		max-width: 300px;
+		margin: 0 auto;
+	}
+	.chronicle-return {
+		text-align: center;
+	}
+	.story-to-chronicle {
+		text-decoration: underline;
+		margin: 1.5rem;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
 }
