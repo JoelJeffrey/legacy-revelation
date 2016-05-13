@@ -8,7 +8,9 @@
             </div>
             <div class="story-description">
                 <h4>Story:</h4>
-                <p>{{story}}</p>
+                {{#each story}}
+                    <p>{{paragraph}}</p>
+                {{/each}}
             </div>
             <div class="chronicle-return">
                 <a href="/chronicle" class="story-to-chronicle">Back to Chronicle</a>

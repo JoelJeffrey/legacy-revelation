@@ -5,6 +5,10 @@ module.exports = BaseView.extend({
 
     template: template,
 
+    ui: {
+        storyDescription: ".story-description"
+    },
+
     templateHelpers: function() {
     },
 
@@ -14,6 +18,8 @@ module.exports = BaseView.extend({
 
     onShow: function() {
         setTimeout(this.fadeAnimation, 10);
+        console.log(this.ui.storyDescription.html())
+        this.ui.storyDescription.html().replace(/<p>/g, "<br>")
     },
 
     fadeAnimation: function() {
