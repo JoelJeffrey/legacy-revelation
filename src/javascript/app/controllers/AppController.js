@@ -9,7 +9,9 @@ var BaseView = require('views/BaseView.js');
 var HomeView = require('views/HomeView.js');
 var PatchNotesView = require('views/PatchNotesView.js');
 var GameOverviewView = require('views/GameOverviewView.js');
-var chronicleView = require('views/ChronicleView.js');
+var ChronicleView = require('views/ChronicleView.js');
+var StoryModalView = require('views/StoryModalView');
+var storyData = require('../data/storyData');
 var CompanyView = require('views/CompanyView.js');
 var BuyView = require('views/BuyView.js');
 var characterData = require('../data/characterData');
@@ -69,7 +71,7 @@ module.exports = Backbone.Marionette.Controller.extend({
     },
 
     chronicle: function() {
-        this.chronicleView = new chronicleView();
+        this.chronicleView = new ChronicleView();
         app.modalRegion.show(this.chronicleView);
     },
 
@@ -95,6 +97,15 @@ module.exports = Backbone.Marionette.Controller.extend({
         });
 
         app.modalRegion.show(this.characterModalView);
+    },
+
+    showStory: function(slug) {
+        var storyInfo = _.where(storyData, {slug: slug})[0];
+        this.storyModalView = new StoryModalView({
+            model: new Backbone.Model(storyInfo)
+        });
+
+        app.modalRegion.show(this.storyModalView);
     },
 
     defaultHandler: function(route) {

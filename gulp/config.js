@@ -20,7 +20,8 @@ module.exports = {
         settings: {
             // Required if you want to use SASS syntax
             // See https://github.com/dlmanning/gulp-sass/issues/81
-            sourceComments: 'map',
+            // sourceComments: 'map',
+            outputStyle: 'compressed',
             imagePath: '/images' // Used by the image-url helper
         }
     },

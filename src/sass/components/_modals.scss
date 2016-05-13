@@ -36,13 +36,13 @@
 			max-height: 83%;
 			position: relative;
 			line-height: 26px;
-			overflow-y: scroll;
 			overflow-x: hidden; 
 			-webkit-overflow-scrolling: touch;
 		}
 		h1 {
 			text-align: center;
 			margin: 20px 0;
+			min-height: 3rem;
 		}
 	}
 	.character-image {
@@ -71,11 +71,33 @@
 			text-decoration: none;
 		}
 	}
-	.chronicle-nav {
-		width: 150px;
-		float: left;
+
+	.chronicle-item {
+		padding: 1em 0;
 	}
-	.chronicle-content {
-		margin-left: 150px;
+
+	.chronicle-nav-title {
+		padding-left: 25px;
+		margin-top: 0;
+	}
+
+	.chronicle-nav {
+		margin-left: 100px;
+	
+		ul {
+			list-style: none;
+		}
+		a {
+			font-size: 1.8em;
+			text-decoration: underline;
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+	.chronicle-avatar {
+		float: left;
+		width: 100px;
 	}
 }

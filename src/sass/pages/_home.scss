@@ -3,6 +3,7 @@
 // ---------------------------
 .legacy-character-select-wrapper {
 	text-align: center;
+	display: none;
 	margin-top: 75px;
 	@extend %transition-all-slow;
 	@media (min-width: 1382px) {

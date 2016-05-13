@@ -11,6 +11,7 @@ module.exports = Marionette.AppRouter.extend({
         'company(/)': 'company',
         'buy(/)': 'buy',
         'character(/)(:slug)(/)': 'showCharacters',
+        'chronicle(/)(:slug)(/)': 'showStory',
         '*default': 'defaultHandler'
     },
 
