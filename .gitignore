@@ -107,6 +107,7 @@ uploads/*
 !collected-static/.gitkeep
 !uploads/README
 #
+.ftpconfig
 sftp-config.json
 *.local.py
 MANIFEST
