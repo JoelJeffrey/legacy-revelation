@@ -1,22 +1,22 @@
 module.exports = [
     {
-        "slug": "lerykaz-1",
-        "title": "Lerykaz",
+        "slug": "starlight",
+        "title": "Lerykaz: Starlight",
         "story": [
-            { 
-                paragraph: "Starlight filtered through the dark canopy of a forest on Xydak. Pools of blue-tinged light lit Lerykaz’ way as he shambled through the undergrowth, nearly tripping on thick roots that rose from the soil. Arms limp, eyes unfocused and crusted with dried tears, he shuffled on through the darkness. Putting one foot in front of the other took more effort than it ever should." 
+            {
+                paragraph: "Starlight filtered through the dark canopy of a forest on Xydak. Pools of blue-tinged light lit Lerykaz’ way as he shambled through the undergrowth, nearly tripping on thick roots that rose from the soil. Arms limp, eyes unfocused and crusted with dried tears, he shuffled on through the darkness. Putting one foot in front of the other took more effort than it ever should."
             },
-            { 
-                paragraph: "Lerykaz finally tripped, sending him tumbling forward over something hard and cool in the night air. Tracing the rough, furrowed surface with his hands Lerykaz could feel the material flaking off against his fingers. It was bark. Tracing the uneven surface, following the ghost of his hand in the starlight, he realized it was the base of a massive tree. The trunk rose into the night sky, vanishing into the darkness of space, its leaves blotting out the stars and merging with the void." 
+            {
+                paragraph: "Lerykaz finally tripped, sending him tumbling forward over something hard and cool in the night air. Tracing the rough, furrowed surface with his hands Lerykaz could feel the material flaking off against his fingers. It was bark. Tracing the uneven surface, following the ghost of his hand in the starlight, he realized it was the base of a massive tree. The trunk rose into the night sky, vanishing into the darkness of space, its leaves blotting out the stars and merging with the void."
             },
-            { 
-                paragraph: "There seemed to be a narrow gap between the root and its massive brother. Shouldering his knapsack, Lerykaz carefully rolled over the root and nestled himself into the tree’s base. There was still a trace of warmth left from the Orb’s touch during the day and he found himself settling further down into the ground to feel it." 
+            {
+                paragraph: "There seemed to be a narrow gap between the root and its massive brother. Shouldering his knapsack, Lerykaz carefully rolled over the root and nestled himself into the tree’s base. There was still a trace of warmth left from the Orb’s touch during the day and he found himself settling further down into the ground to feel it."
             },
-            { 
-                paragraph: "How long he slumped there staring at sparkling stars, dark leaves, and space beyond he could never say. He could only remember the sensation of being wedged in those tree roots, seemingly able to feel the ancient, thick foundation working its way deeper into the ground. They pulsed with life, he discovered, humming against his skin. The entire forest was alive. He had simply merged with the natural rhythm of the night: a gentle cool breeze that caressed his face and rustled the leaves in time with his breathing." 
+            {
+                paragraph: "How long he slumped there staring at sparkling stars, dark leaves, and space beyond he could never say. He could only remember the sensation of being wedged in those tree roots, seemingly able to feel the ancient, thick foundation working its way deeper into the ground. They pulsed with life, he discovered, humming against his skin. The entire forest was alive. He had simply merged with the natural rhythm of the night: a gentle cool breeze that caressed his face and rustled the leaves in time with his breathing."
             },
-            { 
-                paragraph: "Though distant, the sharp cries of yvichu at hunt matched the pinpricks of pain across his body. Blood, once tacky, was beginning to itch as it caked dry under his armor and clothes." 
+            {
+                paragraph: "Though distant, the sharp cries of yvichu at hunt matched the pinpricks of pain across his body. Blood, once tacky, was beginning to itch as it caked dry under his armor and clothes."
             },
             {
                 paragraph: "Even now, hours removed from the battle — It had been just this morning, hadn’t it? — he couldn’t remember exactly how it happened. The smell of dew was still in his nose, though it could have been the mustier, heavier scent that surrounded him in the tree’s base. Did it matter? He could remember moving through the forest, greaves shining from the dew and morning light. The tower had risen from the horizon perfectly straight, dominating the landscape."
@@ -41,32 +41,28 @@ module.exports = [
             },
             {
                 paragraph: "As Lerykaz gave into exhaustion his subconsciousness still remembered one thing: protect what you have saved. His arms and legs curled around his battered knapsack. Though thick and sturdy, the glow of forty vortexes still leaked out through a threadbare seam near the strap. All his father’s research sat there, waiting patiently for Lerykaz to awake and discover his inheritance."
-            },
-            {
-                paragraph: "As Lerykaz gave into exhaustion his subconsciousness still remembered one thing: protect what you have saved. His arms and legs curled around his battered knapsack. Though thick and sturdy, the glow of forty vortexes still leaked out through a threadbare seam near the strap. All his father’s research sat there, waiting patiently for Lerykaz to awake and discover his inheritance."
             }
-
         ],
-        "img": "../chronicle/L-pic.jpg"
+        "img": "../chronicle/lerykaz.jpg"
     },
     {
-        "slug": "lerykaz-2",
-        "title": "Lerykaz",
+        "slug": "tea",
+        "title": "Lerykaz: Tea",
         "story": [
-            { 
-                paragraph: "Lerykaz sipped at his tea, his ears pricked for his brother’s footsteps coming down the hall. Although he felt the warm, earthy liquid against his lips and tongue, it turned to ice as soon as it hit his stomach, or that’s how it seemed. Whether his hands were shaking from remaining exhaustion or frayed nerves, he couldn’t say." 
+            {
+                paragraph: "Lerykaz sipped at his tea, his ears pricked for his brother’s footsteps coming down the hall. Although he felt the warm, earthy liquid against his lips and tongue, it turned to ice as soon as it hit his stomach, or that’s how it seemed. Whether his hands were shaking from remaining exhaustion or frayed nerves, he couldn’t say."
             },
-            { 
-                paragraph: "He didn’t catch the door shutting, or his brother’s steps. It wasn’t until he heard the clinking of glass beads Lerykaz realized his brother was so close. Multiple strands, all glinting in the low light, hung from his brother’s neck and rattled against each other as he walked into the room." 
+            {
+                paragraph: "He didn’t catch the door shutting, or his brother’s steps. It wasn’t until he heard the clinking of glass beads Lerykaz realized his brother was so close. Multiple strands, all glinting in the low light, hung from his brother’s neck and rattled against each other as he walked into the room."
             },
-            { 
-                paragraph: "His younger brother had always been bigger than him, one of those quirks of biology the universe loves to throw out. Muscles carved from petrified wood covered his broad chest and he stood a full head taller than Lerykaz. His bright gold hair only hammered the difference home. His brother was the mighty Xydasian Cloudscraper reaching for the Orb with every branch. Lerykaz was the narrow shadow it cast on the ground." 
+            {
+                paragraph: "His younger brother had always been bigger than him, one of those quirks of biology the universe loves to throw out. Muscles carved from petrified wood covered his broad chest and he stood a full head taller than Lerykaz. His bright gold hair only hammered the difference home. His brother was the mighty Xydasian Cloudscraper reaching for the Orb with every branch. Lerykaz was the narrow shadow it cast on the ground."
             },
-            { 
-                paragraph: "His brother still hadn’t said anything since the night before when Lerykaz had stumbled through the front door, still spotted with blood and clasping his knapsack to his chest. He’d passed out. He could remember the floor coming up to meet him in the face." 
+            {
+                paragraph: "His brother still hadn’t said anything since the night before when Lerykaz had stumbled through the front door, still spotted with blood and clasping his knapsack to his chest. He’d passed out. He could remember the floor coming up to meet him in the face."
             },
-            { 
-                paragraph: "He’d woken up sometime this morning. The light coming through the window tried to split his head in half. His arms were bandaged. So was his chest." 
+            {
+                paragraph: "He’d woken up sometime this morning. The light coming through the window tried to split his head in half. His arms were bandaged. So was his chest."
             },
             {
                 paragraph: "A baby had been screaming when he awoke. It kept screaming the entire day. His head still hurt from it. Even the small glints of lights from his brother’s necklaces sent needles of pain digging into the back of his eyes."
@@ -190,26 +186,26 @@ module.exports = [
             }
 
         ],
-        "img": "../chronicle/L-pic.jpg"
+        "img": "../chronicle/lerykaz.jpg"
     },
     {
-        "slug": "lerykaz-3",
-        "title": "Lerykaz",
+        "slug": "screams",
+        "title": "Lerykaz: Screams",
         "story": [
-            { 
-                paragraph: "When he heard the cheers turn to screams, Lerykaz knew something was wrong." 
+            {
+                paragraph: "When he heard the cheers turn to screams, Lerykaz knew something was wrong."
             },
-            { 
-                paragraph: "It was the start of the quarterfinals at the arena, and the entire village had turned out for it. The streets were empty. He, Karyzel, and Elyria were the only people around, sitting outside the house waiting for Zakyrel to come home. Lerykaz hadn’t felt like dealing with the crowds. Elyria was planning on tending to his brother’s wounds, among other things." 
+            {
+                paragraph: "It was the start of the quarterfinals at the arena, and the entire village had turned out for it. The streets were empty. He, Karyzel, and Elyria were the only people around, sitting outside the house waiting for Zakyrel to come home. Lerykaz hadn’t felt like dealing with the crowds. Elyria was planning on tending to his brother’s wounds, among other things."
             },
-            { 
+            {
                 paragraph: "It had started out as just a few piercing notes above the crowd’s roar. Now it had turned into a calliope of fear whistling and shrieking through the air."
             },
-            { 
-                paragraph: "He left Karyzel with his brother’s latest beau — who had lasted the longest so far. Her eyes were wide under pink bangs when he told her to go inside. She nodded, looking toward the arena as she shut the door. She told Lerykaz to be careful." 
+            {
+                paragraph: "He left Karyzel with his brother’s latest beau — who had lasted the longest so far. Her eyes were wide under pink bangs when he told her to go inside. She nodded, looking toward the arena as she shut the door. She told Lerykaz to be careful."
             },
-            { 
-                paragraph: "And to take care of his brother." 
+            {
+                paragraph: "And to take care of his brother."
             },
             {
                 paragraph: "He ran. His boots slapped against the cobblestones, and there was the alien sensation of his hex band — deep sapphire blue — knocking against his wrist with each step. As he dropped into Bent time the sound was muted. The screams were softer, as though they were coming from miles away. Gradually the sound grew and preceded the first spectators as they came stumbling around the corner. They moved as though they were in deep water: slowly, clumsily, with every motion drawn out and exaggerated. Lerykaz could see the fear set into their eyes."
@@ -349,26 +345,344 @@ module.exports = [
 
         ],
 
-        "img": "../chronicle/L-pic.jpg"
+        "img": "../chronicle/lerykaz.jpg"
     },
     {
-        "slug": "methkog-1",
-        "title": "Methkog",
+        "slug": "home",
+        "title": "Lerykaz: Home",
         "story": [
-            { 
+            {
+                paragraph: "When he heard the cheers turn to screams, Lerykaz knew something was wrong."
+            },
+            {
+                paragraph: "It was the start of the quarterfinals at the arena, and the entire village had turned out for it. The streets were empty. He, Karyzel, and Elyria were the only people around, sitting outside the house waiting for Zakyrel to come home. Lerykaz hadn’t felt like dealing with the crowds. Elyria was planning on tending to his brother’s wounds, among other things."
+            },
+            {
+                paragraph: "It had started out as just a few piercing notes above the crowd’s roar. Now it had turned into a calliope of fear whistling and shrieking through the air."
+            },
+            {
+                paragraph: "He left Karyzel with his brother’s latest beau — who had lasted the longest so far. Her eyes were wide under pink bangs when he told her to go inside. She nodded, looking toward the arena as she shut the door. She told Lerykaz to be careful."
+            },
+            {
+                paragraph: "And to take care of his brother."
+            },
+            {
+                paragraph: "He ran. His boots slapped against the cobblestones, and there was the alien sensation of his hex band — deep sapphire blue — knocking against his wrist with each step. As he dropped into Bent time the sound was muted. The screams were softer, as though they were coming from miles away. Gradually the sound grew and preceded the first spectators as they came stumbling around the corner. They moved as though they were in deep water: slowly, clumsily, with every motion drawn out and exaggerated. Lerykaz could see the fear set into their eyes."
+            },
+            {
+                paragraph: "He dodged the first few, but many more were behind them packed so tightly he couldn’t weave through them even in bent time. He dropped back into real time and it was like falling into a thunderstorm. The mass’ shrieking rattled inside his head. Nothing was making sense. They were just running; a mass of bright clothes and fear rolling through the streets."
+            },
+            {
+                paragraph: "Two people nearly knocked Lerykaz down as they fled. He Blinked up to the nearest roof before he was trampled."
+            },
+            {
+                paragraph: "Sprinting forward, he Blinked from rooftop to rooftop without missing a beat. He’d barely tapped the first roof before darting forward, unseen, to the next. The last Blink was the longest yet and it set him down on the cobblestones next to the arena’s wall. Only a few stragglers were limping out of the nearest entrance. Whether pressing a hand to their face, stomach, or shoulder, all were stained with blood or it was oozing from a wound. They ambled forward, drunkenly swaying between steps, with a dazed expression plastered across their faces."
+            },
+            {
+                paragraph: "As Lerykaz jogged up to the entry gate he realized it wasn’t open, per se. Something had smashed in the tall wooden doors, leaving massive splinters scattered about the ground and a red stain on the jagged pieces that still hung from broken hinges. He didn’t see any sign of the four lawmen who usually stood guard at this gate — though the stains were probably all that was left."
+            },
+            {
+                paragraph: "The wreckage continued as he crept forward. Beams were strewn about, gouges dug into the loose silt that made the floor here. He spotted something that was once a lawman off in a corner. He didn’t look very closely."
+            },
+            {
+                paragraph: "Perfectly framed in the open door, out in the middle of the arena, was Zakyrel. He was crawling on his hands and knees for a sword. Even from this distance Lerykaz could see the blood dripping from multiple wounds. There was a flash of bright steel as an armored leg caught his brother in the stomach, flipping him through the air and landing on his back."
+            },
+            {
+                paragraph: "Huge. That was the first word that came to Lerykaz’ mind. Whoever was in that clanking, heavy armor towered over his brother. The sword in his hand should have been too heavy for one hand, yet there he was, singlehandedly raising it, ready to cleave his brother in half."
+            },
+            {
+                paragraph: "Lerykaz heard something about “vengeance,” but the booming words didn’t fully register in his mind. He was too busy looking for the nearest weapon. Taking that behemoth on empty-handed would be fatal."
+            },
+            {
+                paragraph: "Just a few feet away was a spear. He Blinked, fingers wrapping around the shaft as he appeared from thin air. Hefting the weapon he took aim. Headshot or torso?"
+            },
+            {
+                paragraph: "As time itself was Riven it slowed to a halt, and the rest of the world went dark as Lerykaz saw the future branch before him. Two options played out simultaneously."
+            },
+            {
+                paragraph: "The headshot missed. The sword fell. His brother died."
+            },
+            {
+                paragraph: "The torso shot connected. It struck right under the sword arm, piercing the thinner armor. His brother lived. At least for a few more seconds."
+            },
+            {
+                paragraph: "Lerykaz was gone the moment the spear left his fingers, flying toward its target. He Blinked again, coming out near a dead fighter, scooping up the fallen woman’s sword. There was a roar of pain: his shot connected."
+            },
+            {
+                paragraph: "He Blinked again. The next corpse still had a shield. It was Lerykaz’ now."
+            },
+            {
+                paragraph: "It was time to assess the situation. He dropped into Bent time, not missing a beat. Turning, the spear slowly shot through the air toward his face. The tip, flecks of blood trailing behind it, was inches from his nose. He juked right, batting the weapon away with his shield, and looked at the monster bearing down on him. Even with time slowed to a crawl the killer was running toward him faster than most people walk."
+            },
+            {
+                paragraph: "It took more concentration than he knew he had, but Lerykaz Blinked as soon as he fell back into real time. He later swore he felt the sword shave against the back of his neck.  He spun around, bringing the shield up. The giant sword split it in two, and only the strap bracket kept the blade from biting into his arm. An armored foot caught him in the chest, sending him flying through the air."
+            },
+            {
+                paragraph: "Lerykaz could see the blade’s bright edge coming around, the killer striding forward to lop him in half before he hit the ground. Fighting the pain of at least one busted rib, Lerykaz Blinked again, appearing on the ground and watching the blade slice through empty air."
+            },
+            {
+                paragraph: "Time Rived. If he rolled right he died. The sword would go through his side, spearing him to the ground. If he leapt to his feet and dived forward he’d live."
+            },
+            {
+                paragraph: "He leapt, he dived, and a hand clamped around his ankle. The behemoth flipped him over, aiming the sword at his heart."
+            },
+            {
+                paragraph: "Not gonna work."
+            },
+            {
+                paragraph: "Lerykaz Reflected time. It all wound back and he was on the ground again, staring at the mountain of steel as it thundered toward him. He couldn’t roll right, and he couldn’t dive away."
+            },
+            {
+                paragraph: "But could he attack?"
+            },
+            {
+                paragraph: "He grabbed a fistful of damp soil and flung it at the beast. Whether it contacted or not didn’t matter, as it gave the killer pause. Lerykaz jumped to his feet, spun, and lashed out with a one-two kick to the helmet."
+            },
+            {
+                paragraph: "It never connected."
+            },
+            {
+                paragraph: "The beast blocked it with his left arm, sword coming up at Lerykaz’ head."
+            },
+            {
+                paragraph: "He Blinked again, and the sword barely missed his throat. As he reappeared, grabbing at the two- handed sword of another fallen fighter, an unpleasant itching ran across his neck, as though the ghost of a blade was cutting into his skin."
+            },
+            {
+                paragraph: "Shaking it off, he took the heavy hilt in both hands. This is Dariel’s, he realized."
+            },
+            {
+                paragraph: "He would have loved to have known how the behemoth moved so quickly. Hardly had Lerykaz tightened his grip on the sword when there was a shadow over him. Spinning, bringing the blade up to block, Lerykaz lost his footing. The beast’s sword slammed against his own and the impact knocked him to the ground. Pain rippled across his back, and the busted rib snapped. Breath coming in quick gasps, pain digging into his chest, Lerykaz squirmed into the soft soil, setting the blade’s flat in his other hand and bracing for the next blow."
+            },
+            {
+                paragraph: "It never came."
+            },
+            {
+                paragraph: "Instead the killer stood over him, sword raised skyward for the coupe de grace, but it was still. Blood seeped from under the right arm, pattering against the ground, and that was the only sound Lerykaz heard."
+            },
+            {
+                paragraph: "For the first time he got a good look at the thing that had killed so many. The armor was dented across the legs, torso, and chest, but no blows had breached it. Two rows of spikes ran from the chest to the back, framing the squat helmet and its dark portals. Lerykaz had never seen anything like it before."
+            },
+            {
+                paragraph: "His eyes widened, focusing on the chest. There was a symbol painted there: bright orange, red, and blue, circled with white leaves. That he’d seen before."
+            },
+            {
+                paragraph: "It had been on his father’s armor."
+            },
+            {
+                paragraph: "A whistle shrieked, and others quickly joined it. The lawmen were regrouping."
+            },
+            {
+                paragraph: "The behemoth slowly lowered his sword, but turned so quickly it cast soil into Lerykaz’ face. It rumbled toward the ruined gate, sprinting for freedom, with its weapon held at the ready."
+            },
+            {
+                paragraph: "Lerykaz didn’t need Riven to realize following it meant death."
+            },
+            {
+                paragraph: "Adrenaline was doing its best to block pain from his broken rib and the scrapes and bruises pockmarking his body, but electric jolts still shot through him as he stumbled toward his brother. Zakyrel was stretched out on the ground, blood soaking into the dirt. His eyes were fixed on the sky and a smile twitched at the corners of his mouth. His chest was moving in time with shallow breaths. Too shallow."
+            },
+            {
+                paragraph: "Lerkyaz shook him, yelling at him to focus. He wasn’t going to die. Not today. He couldn’t. He was too tough for that, too stubborn."
+            },
+            {
+                paragraph: "Shredding his own shirt for bandages, Lerykaz worked to staunch the flow of blood across his brother’s chest. He never looked up from his work, and that is why he didn’t see Zakyrel’s hand slowly come up and grab his wrist."
+            },
+            {
+                paragraph: "Lerykaz started, head snapping around to stare at his brother. Zakyrel was grinning now and he tightened his grip on Lerykaz’ wrist, thumb scratching at the hex band he found there."
+            },
+            {
+                paragraph: "\“You do care,\” he croaked out."
+            },
+            {
+                paragraph: "Lerykaz stared at his brother for a moment then cracked a smile."
+            },
+            {
+                paragraph: "\“Were the matches that bad? You could’ve just asked for help.\”"
+            },
+            {
+                paragraph: "\“You’re an ass.\”"
+            }
+
+        ],
+
+        "img": "../chronicle/lerykaz.jpg"
+    },
+    {
+        "slug": "visit",
+        "title": "Lerykaz: Visit",
+        "story": [
+            {
+                paragraph: "When he heard the cheers turn to screams, Lerykaz knew something was wrong."
+            },
+            {
+                paragraph: "It was the start of the quarterfinals at the arena, and the entire village had turned out for it. The streets were empty. He, Karyzel, and Elyria were the only people around, sitting outside the house waiting for Zakyrel to come home. Lerykaz hadn’t felt like dealing with the crowds. Elyria was planning on tending to his brother’s wounds, among other things."
+            },
+            {
+                paragraph: "It had started out as just a few piercing notes above the crowd’s roar. Now it had turned into a calliope of fear whistling and shrieking through the air."
+            },
+            {
+                paragraph: "He left Karyzel with his brother’s latest beau — who had lasted the longest so far. Her eyes were wide under pink bangs when he told her to go inside. She nodded, looking toward the arena as she shut the door. She told Lerykaz to be careful."
+            },
+            {
+                paragraph: "And to take care of his brother."
+            },
+            {
+                paragraph: "He ran. His boots slapped against the cobblestones, and there was the alien sensation of his hex band — deep sapphire blue — knocking against his wrist with each step. As he dropped into Bent time the sound was muted. The screams were softer, as though they were coming from miles away. Gradually the sound grew and preceded the first spectators as they came stumbling around the corner. They moved as though they were in deep water: slowly, clumsily, with every motion drawn out and exaggerated. Lerykaz could see the fear set into their eyes."
+            },
+            {
+                paragraph: "He dodged the first few, but many more were behind them packed so tightly he couldn’t weave through them even in bent time. He dropped back into real time and it was like falling into a thunderstorm. The mass’ shrieking rattled inside his head. Nothing was making sense. They were just running; a mass of bright clothes and fear rolling through the streets."
+            },
+            {
+                paragraph: "Two people nearly knocked Lerykaz down as they fled. He Blinked up to the nearest roof before he was trampled."
+            },
+            {
+                paragraph: "Sprinting forward, he Blinked from rooftop to rooftop without missing a beat. He’d barely tapped the first roof before darting forward, unseen, to the next. The last Blink was the longest yet and it set him down on the cobblestones next to the arena’s wall. Only a few stragglers were limping out of the nearest entrance. Whether pressing a hand to their face, stomach, or shoulder, all were stained with blood or it was oozing from a wound. They ambled forward, drunkenly swaying between steps, with a dazed expression plastered across their faces."
+            },
+            {
+                paragraph: "As Lerykaz jogged up to the entry gate he realized it wasn’t open, per se. Something had smashed in the tall wooden doors, leaving massive splinters scattered about the ground and a red stain on the jagged pieces that still hung from broken hinges. He didn’t see any sign of the four lawmen who usually stood guard at this gate — though the stains were probably all that was left."
+            },
+            {
+                paragraph: "The wreckage continued as he crept forward. Beams were strewn about, gouges dug into the loose silt that made the floor here. He spotted something that was once a lawman off in a corner. He didn’t look very closely."
+            },
+            {
+                paragraph: "Perfectly framed in the open door, out in the middle of the arena, was Zakyrel. He was crawling on his hands and knees for a sword. Even from this distance Lerykaz could see the blood dripping from multiple wounds. There was a flash of bright steel as an armored leg caught his brother in the stomach, flipping him through the air and landing on his back."
+            },
+            {
+                paragraph: "Huge. That was the first word that came to Lerykaz’ mind. Whoever was in that clanking, heavy armor towered over his brother. The sword in his hand should have been too heavy for one hand, yet there he was, singlehandedly raising it, ready to cleave his brother in half."
+            },
+            {
+                paragraph: "Lerykaz heard something about “vengeance,” but the booming words didn’t fully register in his mind. He was too busy looking for the nearest weapon. Taking that behemoth on empty-handed would be fatal."
+            },
+            {
+                paragraph: "Just a few feet away was a spear. He Blinked, fingers wrapping around the shaft as he appeared from thin air. Hefting the weapon he took aim. Headshot or torso?"
+            },
+            {
+                paragraph: "As time itself was Riven it slowed to a halt, and the rest of the world went dark as Lerykaz saw the future branch before him. Two options played out simultaneously."
+            },
+            {
+                paragraph: "The headshot missed. The sword fell. His brother died."
+            },
+            {
+                paragraph: "The torso shot connected. It struck right under the sword arm, piercing the thinner armor. His brother lived. At least for a few more seconds."
+            },
+            {
+                paragraph: "Lerykaz was gone the moment the spear left his fingers, flying toward its target. He Blinked again, coming out near a dead fighter, scooping up the fallen woman’s sword. There was a roar of pain: his shot connected."
+            },
+            {
+                paragraph: "He Blinked again. The next corpse still had a shield. It was Lerykaz’ now."
+            },
+            {
+                paragraph: "It was time to assess the situation. He dropped into Bent time, not missing a beat. Turning, the spear slowly shot through the air toward his face. The tip, flecks of blood trailing behind it, was inches from his nose. He juked right, batting the weapon away with his shield, and looked at the monster bearing down on him. Even with time slowed to a crawl the killer was running toward him faster than most people walk."
+            },
+            {
+                paragraph: "It took more concentration than he knew he had, but Lerykaz Blinked as soon as he fell back into real time. He later swore he felt the sword shave against the back of his neck.  He spun around, bringing the shield up. The giant sword split it in two, and only the strap bracket kept the blade from biting into his arm. An armored foot caught him in the chest, sending him flying through the air."
+            },
+            {
+                paragraph: "Lerykaz could see the blade’s bright edge coming around, the killer striding forward to lop him in half before he hit the ground. Fighting the pain of at least one busted rib, Lerykaz Blinked again, appearing on the ground and watching the blade slice through empty air."
+            },
+            {
+                paragraph: "Time Rived. If he rolled right he died. The sword would go through his side, spearing him to the ground. If he leapt to his feet and dived forward he’d live."
+            },
+            {
+                paragraph: "He leapt, he dived, and a hand clamped around his ankle. The behemoth flipped him over, aiming the sword at his heart."
+            },
+            {
+                paragraph: "Not gonna work."
+            },
+            {
+                paragraph: "Lerykaz Reflected time. It all wound back and he was on the ground again, staring at the mountain of steel as it thundered toward him. He couldn’t roll right, and he couldn’t dive away."
+            },
+            {
+                paragraph: "But could he attack?"
+            },
+            {
+                paragraph: "He grabbed a fistful of damp soil and flung it at the beast. Whether it contacted or not didn’t matter, as it gave the killer pause. Lerykaz jumped to his feet, spun, and lashed out with a one-two kick to the helmet."
+            },
+            {
+                paragraph: "It never connected."
+            },
+            {
+                paragraph: "The beast blocked it with his left arm, sword coming up at Lerykaz’ head."
+            },
+            {
+                paragraph: "He Blinked again, and the sword barely missed his throat. As he reappeared, grabbing at the two- handed sword of another fallen fighter, an unpleasant itching ran across his neck, as though the ghost of a blade was cutting into his skin."
+            },
+            {
+                paragraph: "Shaking it off, he took the heavy hilt in both hands. This is Dariel’s, he realized."
+            },
+            {
+                paragraph: "He would have loved to have known how the behemoth moved so quickly. Hardly had Lerykaz tightened his grip on the sword when there was a shadow over him. Spinning, bringing the blade up to block, Lerykaz lost his footing. The beast’s sword slammed against his own and the impact knocked him to the ground. Pain rippled across his back, and the busted rib snapped. Breath coming in quick gasps, pain digging into his chest, Lerykaz squirmed into the soft soil, setting the blade’s flat in his other hand and bracing for the next blow."
+            },
+            {
+                paragraph: "It never came."
+            },
+            {
+                paragraph: "Instead the killer stood over him, sword raised skyward for the coupe de grace, but it was still. Blood seeped from under the right arm, pattering against the ground, and that was the only sound Lerykaz heard."
+            },
+            {
+                paragraph: "For the first time he got a good look at the thing that had killed so many. The armor was dented across the legs, torso, and chest, but no blows had breached it. Two rows of spikes ran from the chest to the back, framing the squat helmet and its dark portals. Lerykaz had never seen anything like it before."
+            },
+            {
+                paragraph: "His eyes widened, focusing on the chest. There was a symbol painted there: bright orange, red, and blue, circled with white leaves. That he’d seen before."
+            },
+            {
+                paragraph: "It had been on his father’s armor."
+            },
+            {
+                paragraph: "A whistle shrieked, and others quickly joined it. The lawmen were regrouping."
+            },
+            {
+                paragraph: "The behemoth slowly lowered his sword, but turned so quickly it cast soil into Lerykaz’ face. It rumbled toward the ruined gate, sprinting for freedom, with its weapon held at the ready."
+            },
+            {
+                paragraph: "Lerykaz didn’t need Riven to realize following it meant death."
+            },
+            {
+                paragraph: "Adrenaline was doing its best to block pain from his broken rib and the scrapes and bruises pockmarking his body, but electric jolts still shot through him as he stumbled toward his brother. Zakyrel was stretched out on the ground, blood soaking into the dirt. His eyes were fixed on the sky and a smile twitched at the corners of his mouth. His chest was moving in time with shallow breaths. Too shallow."
+            },
+            {
+                paragraph: "Lerkyaz shook him, yelling at him to focus. He wasn’t going to die. Not today. He couldn’t. He was too tough for that, too stubborn."
+            },
+            {
+                paragraph: "Shredding his own shirt for bandages, Lerykaz worked to staunch the flow of blood across his brother’s chest. He never looked up from his work, and that is why he didn’t see Zakyrel’s hand slowly come up and grab his wrist."
+            },
+            {
+                paragraph: "Lerykaz started, head snapping around to stare at his brother. Zakyrel was grinning now and he tightened his grip on Lerykaz’ wrist, thumb scratching at the hex band he found there."
+            },
+            {
+                paragraph: "\“You do care,\” he croaked out."
+            },
+            {
+                paragraph: "Lerykaz stared at his brother for a moment then cracked a smile."
+            },
+            {
+                paragraph: "\“Were the matches that bad? You could’ve just asked for help.\”"
+            },
+            {
+                paragraph: "\“You’re an ass.\”"
+            }
+
+        ],
+
+        "img": "../chronicle/lerykaz.jpg"
+    },
+    {
+        "slug": "young",
+        "title": "Methkog: Young",
+        "story": [
+            {
                 paragraph: "Long before he became the Harbinger of Asylum and known throughout Ocost, Methkog was a young man like the rest of us. He did not spring fully formed from the earth, clad in his heavy armor, heart burning with hatred, though some may think it. Methkog was born like any other human, and he found his armor on the plains of Asylum in the ruins of an old battlefield."
             },
-            { 
-                paragraph: "To be more accurate, he built his armor on the plains of that battlefield. It was another step in his education, and before his vile nature had fully formed." 
+            {
+                paragraph: "To be more accurate, he built his armor on the plains of that battlefield. It was another step in his education, and before his vile nature had fully formed."
             },
-            { 
+            {
                 paragraph: "Little was notable about this battle when it happened five years or so before Methkog stomped through the high grass on his scavenging mission. It was near the western coast of Bronien, back when the Briggarz made a final, concerted effort to drive the humans into the sea. They near succeeded, if not for the final, valiant effort of Commander Steinhurst and his two companies. His troops marched alongside the coast, nearly brushing the sea with their right sleeves, in order to strike at the Briggarz’ rear."
             },
-            { 
-                paragraph: "Brave Steinhurst, and his troops, knew it was a fatal task. Aside from their weapons and ammunition they carried nothing but the armor on their backs and a few pieces of bread in their pockets. Fighting to the last, they charged into the Briggarz’ rambling lines and caused enough havoc to stop the advance." 
+            {
+                paragraph: "Brave Steinhurst, and his troops, knew it was a fatal task. Aside from their weapons and ammunition they carried nothing but the armor on their backs and a few pieces of bread in their pockets. Fighting to the last, they charged into the Briggarz’ rambling lines and caused enough havoc to stop the advance."
             },
-            { 
-                paragraph: "This field where Methkog walked was well within human territory and just one of the first steps toward victory. Beta and Charlie company, along with Steinhurst, never received an award for their work, or even proper burial. Each man or woman received a shallow grave just inches from where they fell in battle. It was a hasty burial given by an army more concerned with survival but still trying to render thanks to comrades who bought more time with their lives. The small, dimpled, mounds of dirt were partially washed away. It was a pathetic graveyard." 
+            {
+                paragraph: "This field where Methkog walked was well within human territory and just one of the first steps toward victory. Beta and Charlie company, along with Steinhurst, never received an award for their work, or even proper burial. Each man or woman received a shallow grave just inches from where they fell in battle. It was a hasty burial given by an army more concerned with survival but still trying to render thanks to comrades who bought more time with their lives. The small, dimpled, mounds of dirt were partially washed away. It was a pathetic graveyard."
             },
             {
                 paragraph: "Yet it made for a scavenger’s dream."
@@ -437,26 +751,26 @@ module.exports = [
                 paragraph: "He was even smiling. That in itself would have scared anything away."
             }
         ],
-        "img": "../chronicle/M-pic.jpg"
+        "img": "../chronicle/methkog.jpg"
     },
     {
-        "slug": "methkog-2",
-        "title": "Methkog",
+        "slug": "blood",
+        "title": "Methkog: Blood",
         "story": [
-            { 
+            {
                 paragraph: "Grabthar was a rising city back then. Wheat surrounded it, carving a place out of Lamagen’s jungles thanks to decades of aggressive agriculture from the Khettee Karana Corporation."
             },
-            { 
-                paragraph: "This same corporation owned most of the farmland on Lamagen — and nearly half the arable land on Asylum — at the time. The farmers hadn’t yet realized they had so many sharp, deadly instruments and there were so few corporate managers on the planet. Had Methkog been of a different mind he might have turned into a freedom fighter having seen the way these humans toiled for their fellow man with little reward. Yet he wasn’t." 
+            {
+                paragraph: "This same corporation owned most of the farmland on Lamagen — and nearly half the arable land on Asylum — at the time. The farmers hadn’t yet realized they had so many sharp, deadly instruments and there were so few corporate managers on the planet. Had Methkog been of a different mind he might have turned into a freedom fighter having seen the way these humans toiled for their fellow man with little reward. Yet he wasn’t."
             },
-            { 
+            {
                 paragraph: "He had his eyes set on destruction for years by the time he landed on Lamagen. He was familiar with Asylum, its air defenses, and how closely he could skirt the sensor net on Has. It was the first time he’d been working of his own volition on the planet, however. He had his own objective."
             },
-            { 
-                paragraph: "On this day he was striding through the crowd, which flowed around him like a stream around a boulder. As a farming town Grabthar was accustomed to the large farmhand, but even the most hardheaded, beer-swilling men with the reasoning capacity of a bag of hammers had to admit Methkog was something else. He stood a full foot over everyone else as he wound his way through its brick streets. Merchants, clerks, wives, husbands, all about the street during the lunch hour yielded to him, and their eyes quickly glanced at muscles threatening to rip apart old flannel and denim." 
+            {
+                paragraph: "On this day he was striding through the crowd, which flowed around him like a stream around a boulder. As a farming town Grabthar was accustomed to the large farmhand, but even the most hardheaded, beer-swilling men with the reasoning capacity of a bag of hammers had to admit Methkog was something else. He stood a full foot over everyone else as he wound his way through its brick streets. Merchants, clerks, wives, husbands, all about the street during the lunch hour yielded to him, and their eyes quickly glanced at muscles threatening to rip apart old flannel and denim."
             },
-            { 
-                paragraph: "Methkog was about to turn onto the main road when Erril skipped up to him. The Outcast, an electric lime green streak in her hair, asked her boss if he had her latest report." 
+            {
+                paragraph: "Methkog was about to turn onto the main road when Erril skipped up to him. The Outcast, an electric lime green streak in her hair, asked her boss if he had her latest report."
             },
             {
                 paragraph: "He rumbled something resembling a “yes.” He knew there were 25,000 yils sitting in Grabthar’s bank. Protecting such treasure were 20 guards, give or take a few, and a company of rangers spread throughout the surrounding blocks. It would take most of the forces he had at the time to take them all down, and getting away wouldn’t be likely since the human forces on Has would see it all coming."
@@ -524,20 +838,20 @@ module.exports = [
             {
                 paragraph: "That stopped him. He walked back to the door, smiling. As he unlocked the door Erril surreptitiously slid a thin knife from her vortex. When the clerk opened the door she slid it home into his chest, just under the fourth rib. Grabbing the dying man by the shirtfront, Erril strode into the store and tossed him behind a clothing display to keep him out of sight. Taking a bright blue silk dress from a rack she cleaned her knife before stowing it back in her vortex. She dropped the dress on the clerk’s face."
             },
-            { 
+            {
                 paragraph: "It was a proud moment for Methkog, and one he would remember. Finding Erril on Pormos had been a stroke of luck."
             },
-            { 
-                paragraph: "It’s in the back, boss,” she said." 
+            {
+                paragraph: "It’s in the back, boss,” she said."
             },
-            { 
+            {
                 paragraph: "Methkog followed her through the store, taking in the displays of leather reins, iron hand tools, racks of clothing, and seeding and pesticide drones in their cases. He tucked five chrome-plated surveying lasers into his vortex, along with a particularly fine hammer, realizing they would make for a good bit of gambling cash. Erril helped herself to a short dress with a diamond pattern and a giant knife on display."
             },
-            { 
-                paragraph: "Walking to the store’s rear she cracked open the rear door and, satisfied no one was lurking in the alley, she threw it open. The hovercart, hidden under a tarp, was right where she’d left it." 
+            {
+                paragraph: "Walking to the store’s rear she cracked open the rear door and, satisfied no one was lurking in the alley, she threw it open. The hovercart, hidden under a tarp, was right where she’d left it."
             },
-            { 
-                paragraph: "The pirate lord eyed it as Erril pulled it through the door. Two lumpen bags sat on it, while the drone engine had been welded to the back." 
+            {
+                paragraph: "The pirate lord eyed it as Erril pulled it through the door. Two lumpen bags sat on it, while the drone engine had been welded to the back."
             },
             {
                 paragraph: "“Here’s the plan. We blow the wall in — the vault’s just on the other side of the dressing rooms — take out whoever’s left, grab the cash, blow the back wall out for a distraction, and leave through the store here,” Erril said, pulling a machine pistol from her vortex. She retrieved a second one and tossed it to her boss."
@@ -606,26 +920,26 @@ module.exports = [
                 paragraph: "By that time the pair was long gone, having rocketed from Asylum on Methkog’s personal shuttle. While sirens filled Grabthar’s air that afternoon Methkog heard only the sounds of clinking yils and Erril’s bubbly laughter as she tallied their haul."
             }
         ],
-        "img": "../chronicle/M-pic.jpg"
+        "img": "../chronicle/methkog.jpg"
     },
     {
-        "slug": "methkog-3",
-        "title": "Methkog",
+        "slug": "city",
+        "title": "Methkog: City",
         "story": [
-            { 
+            {
                 paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
             },
-            { 
-                paragraph: "Or their lives for that matter." 
+            {
+                paragraph: "Or their lives for that matter."
             },
-            { 
+            {
                 paragraph: "It was so convenient for the pirate king he could hardly believe it. A small storage outpost, nearly at the northern pole of Cryce, garrisoned with brand-new Makyul just out of training. He’d suspected a trap from the very beginning — why else would an entire species bred for war have such an exposed facility? He’d planned accordingly. Strike hard. Strike fast. Get out."
             },
-            { 
-                paragraph: "The initial mortar attack had brought the light blue beasts storming out of their bunkered facility like ants from a kicked mound. True to form they’d grabbed the nearest weapon, or object that worked as a weapon, and ran headlong into the triple lines of pirates dug into the snow and rock at the mountain’s base. The Makyul’s blind rage is so predictable without the proper training, Methkog had known, and it caused them to stampede into the mouth of fifteen roto-cannons. Each one fired bolts so quickly they cut down Makyul with a solid line of laser-powered death. Methkog counted at least six waves before snow stained with blue blood finally broke the clone’s red haze of hatred." 
+            {
+                paragraph: "The initial mortar attack had brought the light blue beasts storming out of their bunkered facility like ants from a kicked mound. True to form they’d grabbed the nearest weapon, or object that worked as a weapon, and ran headlong into the triple lines of pirates dug into the snow and rock at the mountain’s base. The Makyul’s blind rage is so predictable without the proper training, Methkog had known, and it caused them to stampede into the mouth of fifteen roto-cannons. Each one fired bolts so quickly they cut down Makyul with a solid line of laser-powered death. Methkog counted at least six waves before snow stained with blue blood finally broke the clone’s red haze of hatred."
             },
-            { 
-                paragraph: "They’d become more tactical. Energy spheres crowded the air over the pirate troops. They crackled as they lazily expanded, sizzling against fallen snow and any raider not crowded under hex cover. Blue lightning ran along a multitude of brightly colored shields that, millimeters thick, were the only thing between Methkog’s men and women and a painful, slow death, as they belly crawled forward." 
+            {
+                paragraph: "They’d become more tactical. Energy spheres crowded the air over the pirate troops. They crackled as they lazily expanded, sizzling against fallen snow and any raider not crowded under hex cover. Blue lightning ran along a multitude of brightly colored shields that, millimeters thick, were the only thing between Methkog’s men and women and a painful, slow death, as they belly crawled forward."
             },
             {
                 paragraph: "Judging by the screams he could tell some hadn’t managed to get the shields up in time, or their will was flagging. They wouldn’t have been worth keeping around anyway, he decided."
@@ -721,6 +1035,129 @@ module.exports = [
                 paragraph: "Methkog rode in the lead transport, slouching in the copilot’s seat. As the white sky of Cryce faded into the blackness of space, he ran his fingers over the dent in his helmet and scowled. He would have to do better next time."
             }
         ],
-        "img": "../chronicle/M-pic.jpg"
+        "img": "../chronicle/methkog.jpg"
+    },
+    {
+        "slug": "rounds",
+        "title": "Methkog: Rounds",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            },
+            {
+                paragraph: "Methkog rode in the lead transport, slouching in the copilot’s seat. As the white sky of Cryce faded into the blackness of space, he ran his fingers over the dent in his helmet and scowled. He would have to do better next time."
+            }
+        ],
+        "img": "../chronicle/methkog.jpg"
+    },
+    {
+        "slug": "bunker",
+        "title": "Methkog: Bunker",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/methkog.jpg"
+    },
+    {
+        "slug": "plummet",
+        "title": "Palanti-aarbo: Plummet",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/paarbo.jpg"
+    },
+    {
+        "slug": "worship",
+        "title": "Palanti-aarbo: Worship",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/paarbo.jpg"
+    },
+    {
+        "slug": "casino",
+        "title": "Palanti-aarbo: Casino",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/paarbo.jpg"
+    },
+    {
+        "slug": "pears",
+        "title": "Palanti-aarbo: Pears",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/paarbo.jpg"
+    },
+    {
+        "slug": "itch",
+        "title": "Palanti-aarbo: Itch",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/paarbo.jpg"
+    },
+    {
+        "slug": "walk",
+        "title": "Seszil: Walk",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/seszil.jpg"
+    },
+    {
+        "slug": "sliver",
+        "title": "Seszil: Sliver",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/seszil.jpg"
+    },
+    {
+        "slug": "lean",
+        "title": "Seszil: Lean",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/seszil.jpg"
+    },
+    {
+        "slug": "dust",
+        "title": "Seszil: Dust",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/seszil.jpg"
+    },
+    {
+        "slug": "wrong",
+        "title": "Seszil: Wrong",
+        "story": [
+            {
+                paragraph: "Rounds cracked through the air as Methkog advanced down the slope. Snow puffed into the air and cratered as the high-powered bullets plunged into the drifts. He marched down toward the battlefield, ignoring each increasing fusillade that tore the air like lightning. Newly decanted Makyul couldn’t aim to save their cloned souls."
+            }
+        ],
+        "img": "../chronicle/seszil.jpg"
     }
 ];
