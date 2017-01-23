@@ -1,3 +1,6 @@
+// italic = <em></em>
+// bold = <strong></strong>
+
 module.exports = [
     {
         "slug": "starlight",
@@ -19,7 +22,7 @@ module.exports = [
                 paragraph: "Though distant, the sharp cries of yvichu at hunt matched the pinpricks of pain across his body. Blood, once tacky, was beginning to itch as it caked dry under his armor and clothes."
             },
             {
-                paragraph: "Even now, hours removed from the battle — It had been just this morning, hadn’t it? — he couldn’t remember exactly how it happened. The smell of dew was still in his nose, though it could have been the mustier, heavier scent that surrounded him in the tree’s base. Did it matter? He could remember moving through the forest, greaves shining from the dew and morning light. The tower had risen from the horizon perfectly straight, dominating the landscape."
+                paragraph: "Even now, hours removed from the battle —<em> It had been just this morning, hadn’t it? </em>— he couldn’t remember exactly how it happened. The smell of dew was still in his nose, though it could have been the mustier, heavier scent that surrounded him in the tree’s base. Did it matter? He could remember moving through the forest, greaves shining from the dew and morning light. The tower had risen from the horizon perfectly straight, dominating the landscape."
             },
             {
                 paragraph: "He made it past the traps, the snares, the defenses he’d expected and those he hadn’t. He went up a staircase that never seemed to end, passed rooms where things hissed, groaned, and shrieked at his footsteps. None of that mattered. Not now. The fight itself had been vicious; the scorch marks across his chest, the rips in his armor, the thin slices across his forearms that seemed darker than the night sky, were all testament to that."
@@ -113,7 +116,7 @@ module.exports = [
                 paragraph: "Zakyrel didn’t move a muscle. He sat silently, staring at his brother. Their tea cooled and outside the traffic along the street clattered against the cobblestones."
             },
             {
-                paragraph: "\“That’s all? That’s all you have to say? ‘It just happened,’\” Zakyrel said, throwing his brother’s words back with a sneer. \“Having a kid? That just happens. Breaking a man’s legs in the arena? That just happens. Killing our father? No. No. That doesn’t just happen.\”"
+                paragraph: "\“That’s all? That’s all you have to say? ‘It just happened,’\” Zakyrel said, throwing his brother’s words back with a sneer. \“Having a kid? That just happens. Breaking a man’s legs in the arena? That just happens. Killing our father? No. No. That doesn’t just <em>happen</em>.\”"
             },
             {
                 paragraph: "His brother’s voice had dropped even further. It was a whisper cutting through the air like a throwing dagger. The tone was one of fury. Zakyrel would have been more comfortable bellowing at the top of his lungs so those on the other side of the village would hear it."
@@ -271,7 +274,7 @@ module.exports = [
                 paragraph: "He leapt, he dived, and a hand clamped around his ankle. The behemoth flipped him over, aiming the sword at his heart."
             },
             {
-                paragraph: "Not gonna work."
+                paragraph: "<em>Not gonna work.</em>"
             },
             {
                 paragraph: "Lerykaz Reflected time. It all wound back and he was on the ground again, staring at the mountain of steel as it thundered toward him. He couldn’t roll right, and he couldn’t dive away."
@@ -292,7 +295,7 @@ module.exports = [
                 paragraph: "He Blinked again, and the sword barely missed his throat. As he reappeared, grabbing at the two-handed sword of another fallen fighter, an unpleasant itching ran across his neck, as though the ghost of a blade was cutting into his skin."
             },
             {
-                paragraph: "Shaking it off, he took the heavy hilt in both hands. This is Dariel’s, he realized."
+                paragraph: "Shaking it off, he took the heavy hilt in both hands. <em>This is Dariel’s</em>, he realized."
             },
             {
                 paragraph: "He would have loved to have known how the behemoth moved so quickly. Hardly had Lerykaz tightened his grip on the sword when there was a shadow over him. Spinning, bringing the blade up to block, Lerykaz lost his footing. The beast’s sword slammed against his own and the impact knocked him to the ground. Pain rippled across his back, and the busted rib snapped. Breath coming in quick gasps, pain digging into his chest, Lerykaz squirmed into the soft soil, setting the blade’s flat in his other hand and bracing for the next blow."
@@ -474,7 +477,7 @@ module.exports = [
                 paragraph: "Cynmed’s main street went dark as time Rived. Leryakz could give the figure he’d found so far: 75,000. Zakyrel would curse, take him by the front of his shirt, and start shouting."
             },
             {
-                paragraph: "Or he could give a vague answer, keep his bother calm — calmer — and not get any unwanted attention."
+                paragraph: "Or he could give a vague answer, keep his bother calm —<em> calmer </em>— and not get any unwanted attention."
             },
             {
                 paragraph: "\“A lot,\” Lerykaz said, waving his hand vaguely. \“I didn’t bother to count more than I needed today.\”"
@@ -528,7 +531,7 @@ module.exports = [
                 paragraph: "\“What else did you find in those vortexes? It couldn’t just be money.\”"
             },
             {
-                paragraph: "Has he always been this sharp and I just hadn’t noticed?"
+                paragraph: "<em>Has he always been this sharp and I just hadn’t noticed?</em>"
             },
             {
                 paragraph: "\“What?\”"
@@ -681,7 +684,7 @@ module.exports = [
                 paragraph: "Lerykaz’ next breath caught in his throat, and the bottom fell out of his stomach."
             },
             {
-                paragraph: "No! Not now. I can’t go there."
+                paragraph: "<em>No! Not now. I can’t go there.</em>"
             },
             {
                 paragraph: "Time Reflected and Lerykaz frantically sought for a way to divert his brother."
@@ -1314,7 +1317,7 @@ module.exports = [
               paragraph: "Methkog pulled back, unbalancing the beast as the shield shifted. He brought the mace around, intending to sink it into the scales. It connected, but slid across. He swung around backhand, and struck something even harder. The impacts were some of the hardest blows he could deal, yet they weren’t sinking into his enemy’s flesh. His arm could only shudder impotently."
           },
           {
-              paragraph: "Damn this creature."
+              paragraph: "<em>Damn this creature.</em>"
           },
           {
               paragraph: "Something else was glowing besides his mace. Two spheres hung in the darkness, both possessing a rainbow sheen that trailed behind them as they shifted from side to side. Methkog had seen the same finish on pearls he’d ripped from wealthy women’s necks. The spheres rose into the air, nearly to the ceiling, and blinked."
@@ -1413,7 +1416,7 @@ module.exports = [
               paragraph: "The creature tossed its massive head upward."
           },
           {
-              paragraph: "Methkog glanced up. Creatures — Spawn — with fangs, tendrils, wings, hooks, tails, and horns covered the upper walls and ceiling. They scuttled over each other, buzzing and hissing as their bright eyes focused on him. Mandibles and teeth ground against each other as they anticipated dining on his flesh."
+              paragraph: "Methkog glanced up. Creatures —<em> Spawn </em>— with fangs, tendrils, wings, hooks, tails, and horns covered the upper walls and ceiling. They scuttled over each other, buzzing and hissing as their bright eyes focused on him. Mandibles and teeth ground against each other as they anticipated dining on his flesh."
           },
           {
               paragraph: "\“Kill me, die,\” the beast ground out."
@@ -1767,7 +1770,7 @@ module.exports = [
               paragraph: "Thanking the dragon descendants for their chips, and tossing a handful at Jared as a tip, Palanti-Aarbo hopped off his chair, asked the attendant to gather his winnings, and strode toward the cashier. The chicken swayed wildly with each exaggerated step. Half an hour later, after a stilted congratulation from the prissy head floor boss, Palanti-Aarbo had his yils in his account."
           },
           {
-              paragraph: "Yet he did not have satisfaction. It was too easy. He had been hoping to get caught, truth to tell. That would have been fun."
+              paragraph: "Yet he did not have satisfaction. It was too easy. He had been hoping to get caught, truth to tell. That would have been <em>fun</em>."
           },
           {
               paragraph: "He turned to the banker on the other side of the heavy iron bars there only for show. Each cashier window had a laser screen that crackled like real fire. The cashier turned this screen off as the diminutive priest wearing a chicken held out a hand."
@@ -1855,7 +1858,7 @@ module.exports = [
               paragraph: "\“I do not acknowledge your supposed god. Leave immediately.\”"
           },
           {
-              paragraph: "It occurred to Palanti-Aarbo that he needed to do more advertising. His temple had been open for three months by this point, and people still didn’t know Palanti. “Goddess, you see. I am her loyal priest and this man is one of her worshippers. You cannot take him to jail for exercising his religious rights and benevolent belief.”"
+              paragraph: "It occurred to Palanti-Aarbo that he needed to do more advertising. His temple had been open for three months by this point, and people still didn’t know Palanti. “<em>Goddess</em>, you see. I am her loyal priest and this man is one of her worshippers. You cannot take him to jail for exercising his religious rights and benevolent belief.”"
           },
           {
               paragraph: "\“Wait a second,\” screamed a voice from the other side of the cart. A Human wearing the tan, mud-splattered clothes and glinting ear stud of a Valter slave, stormed around the plinth of spilled pears. \“You’re saying this-this-this — thief — is going to get away with ruining all these pears? How is that fair? Someone— Ter — yeah, Ter — should strike you down now. Smite him! I—\”"
@@ -1876,7 +1879,7 @@ module.exports = [
               paragraph: "Palanti-Aarbo tried hard not to be impressed at the skill. He chose to be envious instead."
           },
           {
-              paragraph: "\“This Human belongs to Morthakite. You know who that is, priest?\”"
+              paragraph: "\“This Human belongs to Morthakite. You know who that is, <em>priest</em>?\”"
           },
           {
               paragraph: "\“I do, so—\”"
@@ -2042,7 +2045,7 @@ module.exports = [
               paragraph: "But then the prophet turned around, bent at the waist, dropped his pants, and let out the largest flatulence yet heard in the city."
           },
           {
-              paragraph: "Flabbergasted, the crowd stood stock still as the robed Draeg began dancing to a beat entirely of his own devising — for it was most certainly a he — and punctuated certain notes with a mighty blast of his only instrument. As the shock wore off, and the smell set in, the crowd began to disperse toward other prophets as they sought more familiar forms of worship."
+              paragraph: "Flabbergasted, the crowd stood stock still as the robed Draeg began dancing to a beat entirely of his own devising — for it was most certainly a <em>he</em> — and punctuated certain notes with a mighty blast of his only instrument. As the shock wore off, and the smell set in, the crowd began to disperse toward other prophets as they sought more familiar forms of worship."
           },
           {
               paragraph: "They were greatly disappointed, and disgusted."
@@ -2196,25 +2199,25 @@ module.exports = [
               paragraph: "But one Krysar does. Its name is Seszil."
           },
           {
-              paragraph: "It is plodding along with the other 149 genderless crystal constructs in this group, rocking from side to side just like the others as it contemplates what it is — who it is. These are the questions the growth minders intended for the new Krysars to contemplate as they stride onward in perfect unison. By first grappling with the questions of personality, existence, and purpose they will be able to form higher levels of thought and existence in progressively larger circles of understanding. It is the most efficient way to form higher levels of thought, according to Krysar teachings dating back to the first days after Sorcerer Svlod gave them consciousness and will."
+              paragraph: "It is plodding along with the other 149 genderless crystal constructs in this group, rocking from side to side just like the others as it contemplates <em>what</em> it is — who it is. These are the questions the growth minders intended for the new Krysars to contemplate as they stride onward in perfect unison. By first grappling with the questions of personality, existence, and purpose they will be able to form higher levels of thought and existence in progressively larger circles of understanding. It is the most efficient way to form higher levels of thought, according to Krysar teachings dating back to the first days after Sorcerer Svlod gave them consciousness and will."
           },
           {
               paragraph: "Yet Seszil’s mind is skipping those steps, scampering ahead and short circuiting those teachings."
           },
           {
-              paragraph: "Who are these other Krysars? What are they thinking? How do they see me?"
+              paragraph: "<em>Who are these other Krysars? What are they thinking? How do they see me?</em>"
           },
           {
-              paragraph: "How should I see them?"
+              paragraph: "<em>How should I see them?</em>"
           },
           {
               paragraph: "Seszil’s eyes brighten for a moment as he takes in the ranks of Krysars walking ahead of it."
           },
           {
-              paragraph: "Where does this road go? Why is it here? Why don’t we know where we’re going? If we’re going anywhere. Why are we in these lines? Why are we walking?"
+              paragraph: "<em>Where does this road go? Why is it here? Why don’t we know where we’re going? If we’re going anywhere. Why are we in these lines? Why are we walking?</em>"
           },
           {
-              paragraph: "What is around this road?"
+              paragraph: "<em>What is around this road?</em>"
           },
           {
               paragraph: "At this final thought, Seszil looks up. It can now see the finely powdered snow glowing in the Orb’s midday light. It can examine the swirling pattern these flakes take as the wind spins, tosses, and twirls them through the air. Its gaze swings down until it reaches the natural wall rising up on the road’s right side as it slices through the mountain."
@@ -2223,7 +2226,7 @@ module.exports = [
               paragraph: "Its gaze snaps up to the left, staring at the other wall and then following the mountain’s slope as it ascends into the sky. Seszil immediately begins calculating the fastest route to climb up."
           },
           {
-              paragraph: "Why not make your own path when the road you are on has no destination?"
+              paragraph: "<em>Why not make your own path when the road you are on has no destination?</em>"
           },
           {
               paragraph: "Increasing its pace, angling left to stay between two ranks of Krysars, Seszil walks toward the sheer wall."
@@ -2238,7 +2241,7 @@ module.exports = [
               paragraph: "In short order Seszil finds itself clambering over the top, scattering old, ice-laden snow into the air as it levers itself up. It turns, gazing out over the road, and lets out a quick, stuttering clack of a surprised Krysar."
           },
           {
-              paragraph: "Cryce — it’s beautiful."
+              paragraph: "<em>Cryce — it’s beautiful.</em>"
           },
           {
               paragraph: "The storm clouds and their endless blizzard speed across the horizon as a shifting mix of dark grey, nearly black, and dirty silver slashes across the sky. Below, past the road, the mountain falls away in a perfectly smooth plane of pure white that sparkles in the Orb’s radiance. Ten thousand Krysar crystals, carefully wrought, could never match these exquisite pinpoints of light on the mountain, Seszil knows. A valley runs far below, and it snakes through the mountain range, lumpen with the final result of a hundred landslides underneath this vantage point. Everything is fashioned on such a large scale that it overawes Seszil’s fresh mind. It stares at the sight for hours, standing stock still in the deep snow."
@@ -2247,7 +2250,7 @@ module.exports = [
               paragraph: "As the Orb drops through the sky, its light falls into Seszil’s eyes, and it realizes too much time has passed. It needs to continue its journey."
           },
           {
-              paragraph: "Wherever it may take me."
+              paragraph: "<em>Wherever it may take me.</em>"
           },
           {
               paragraph: "Seszil clambers down by following its toe and handholds from the trip up. Not knowing how much longer the road goes on, where it runs, or even if it truly comes to an end, it breaks off into a sprint. High stamina means the lone sound of crystal feet clattering against stone goes on for hours and thinly echoes off the snow-crusted cliffs."
@@ -2262,19 +2265,19 @@ module.exports = [
               paragraph: "The road straightens and Seszil realizes the light is coming from a word hanging high in the air: Welcome."
           },
           {
-              paragraph: "Welcome to where? What acts created this word and keep it there?"
+              paragraph: "<em>Welcome to where? What acts created this word and keep it there?</em>"
           },
           {
               paragraph: "Behind the flickering green word are dots of light. Seszil realizes this as it walks forward, still staring up at the word. The other dots are buildings. Tall buildings rise toward the mountaintops, carving through the air and shimmering as other lights cast out new designs for all to see."
           },
           {
-              paragraph: "This must be artwork. Amazing."
+              paragraph: "<em>This must be artwork. Amazing.</em>"
           },
           {
               paragraph: "Sezil’s eyes finally draw down, taking in the space ahead as the road continues into the city — yes, it decides, this is a city — and it sees a group of Krysars standing in the road’s center. They are looking at Seszil."
           },
           {
-              paragraph: "Certainly I’m not the most interesting thing here when there are such wonders in the air itself."
+              paragraph: "<em>Certainly I’m not the most interesting thing here when there are such wonders in the air itself.</em>"
           },
           {
               paragraph: "Seszil slowly walks forward, noting how there are nine other Krysars in the road. Six hold energy batons it can dimly hear crackling in the clear air. The other three Krysar stride forward in a triangle formation, and Seszil notices each one has a soft glowing light about their shoulders."
@@ -2328,7 +2331,7 @@ module.exports = [
               paragraph: "\“Welcome to Cybek, young Krysar. Tomorrow your Rubric of Skill and Rubric of Vocation begin.\”"
           },
           {
-              paragraph: "I cannot wait."
+              paragraph: "<em>I cannot wait.</em>"
           }
         ],
         "img": "../chronicle/seszil.jpg"
@@ -2350,7 +2353,7 @@ module.exports = [
               paragraph: "Seszil looks back up and sees the cutout’s occupant — old or new, Seszil doesn’t know — slither back into the shelter, sheathing a giant, double-edged sword."
           },
           {
-              paragraph: "What a permanent way to determine occupancy. Requires less paperwork, however."
+              paragraph: "<em>What a permanent way to determine occupancy. Requires less paperwork, however.</em>"
           },
           {
               paragraph: "\“You disapprove of our me’ods, pilgrim?\”"
@@ -2383,7 +2386,7 @@ module.exports = [
               paragraph: "\“He would have done ‘e same to me.\”"
           },
           {
-              paragraph: "\“Death is life on Sareste.\”  I didn’t think it was so literal."
+              paragraph: "<em>\“Death is life on Sareste.\”  I didn’t think it was so literal.</em>"
           },
           {
               paragraph: "Seszil cranes its head up, nearly standing on its toes as it tries to look the youth in the eyes. The Maroe stares back at the Krysar, eyes dark, maw firmly shut, and arms crossed above the cut. Seszil lets the moment drag on, waiting for the Maroe to blink, flinch, or realize he is bleeding all over himself. There isn’t even the slightest twitch from its leathery wings."
@@ -2428,7 +2431,7 @@ module.exports = [
               paragraph: "Seszil follows Igarosh, and watches as he flutters and slithers through the crowds of Maroe doing the same thing. Fights break out at random intervals, with fists, pottery, mugs, knives, and swords doing far more talking than their owners. Stalls crash and crumble in the larger melees, while thin throwing knives dart through the air like bugs."
           },
           {
-              paragraph: "How does anything get done around here? Does this only happen at night?"
+              paragraph: "<em>How does anything get done around here? Does this only happen at night?</em>"
           },
           {
               paragraph: "The Krysar voices its question aloud."
@@ -2461,7 +2464,7 @@ module.exports = [
               paragraph: "Seszil will watch the midnight dances preceding every Maroe raid on the Agoa with awe. The drums will pound in its ears and rattle its crystals against each other. Howls will echo endlessly down the canyons, pouring into the night air, and filling the Krysar’s soul. On those nights, seeing blades casting warped reflections of firelight, Seszil will begin to understand how such murderous creatures can be so graceful. Watching the entwining, writhing Maroe preparing for their next battle, and perhaps their own death, will send a singular thought running through Seszil’s mind."
           },
           {
-              paragraph: "One day I will move like that."
+              paragraph: "<em>One day I will move like that.</em>"
           }
         ],
         "img": "../chronicle/seszil.jpg"
@@ -2477,31 +2480,31 @@ module.exports = [
               paragraph: "Both Maroe have carved out a wide berth, and the rest of the market waits for them to finish their battle. Even this removed from the fight, Seszil has an unimpeded view, as after 50 years even the youngest Maroe knows the strange crystal thing on two legs is important whether or not it can kill anyone."
           },
           {
-              paragraph: "This is the sixth fight today, and the Orb is just now overhead. This will be a busy day, and not the way these poor merchants hoped. Shame."
+              paragraph: "<em>This is the sixth fight today, and the Orb is just now overhead. This will be a busy day, and not the way these poor merchants hoped. Shame.</em>"
           },
           {
               paragraph: "Seszil glances at the ruined items broken and trampled into the dirt, estimating how much it’s all worth, but stops."
           },
           {
-              paragraph: "Doesn’t matter now, does it? Paying for it all didn’t change a thing. If anything it encouraged them."
+              paragraph: "<em>Doesn’t matter now, does it? Paying for it all didn’t change a thing. If anything it encouraged them.</em>"
           },
           {
               paragraph: "A bone crunches off in the distance, and Seszil focuses back on the fight. Umber’s left arm hangs limp against her side, swaying in the currents her wings generate. She darts back from Burgundy, the larger, mace-wielding Maroe intent on keeping his position. Umber hesitates, brings her sword up into a one-handed guard, and braces herself."
           },
           {
-              paragraph: "Sixth death today, then. That makes…62 since the last full moon. They’re getting more aggressive this year. That’s quite concerning."
+              paragraph: "<em>Sixth death today, then. That makes…62 since the last full moon. They’re getting more aggressive this year. That’s quite concerning.</em>"
           },
           {
               paragraph: "As the mace rises into the air, Burgundy pauses, clearly gathering his strength to Smite his opponent. The air ripples around the wounded Umber as the other uses Pressure to keep her pinned in one place."
           },
           {
-              paragraph: "Ah. Clever, that."
+              paragraph: "<em>Ah. Clever, that.</em>"
           },
           {
               paragraph: "Yet the Pressure isn’t enough to keep Umber completely still. Dropping her sword, she sneaks her hand around, loosens a pouch at the small of her back, and a thick stream of flash dust spills across her cupped palm. The sparkling material trails Umber’s hand as she puts everything into a wide throw. Burgundy’s maw widens just before the dust explodes in a dazzling display of colors. Burgundy and the crowd screech in pain as the flash sears their eyes, but Seszil only leans back to enjoy the fluttering sparks and beautiful contrails of light."
           },
           {
-              paragraph: "Cleverer still, that one."
+              paragraph: "<em>Cleverer still, that one.</em>"
           },
           {
               paragraph: "With a flick of its tail, Umber blindly beats her wings to gain some altitude. Burgundy’s mace barely misses her, slams to the ground, and detonates against the dirt. Dust fountains into the air, mixing brown soil with the flash dust’s glittering remnants."
@@ -2510,13 +2513,13 @@ module.exports = [
               paragraph: "Broken arm trailing behind her, the younger Maroe quickly ascends and disappears over the ravine’s top, leaving the victor to shriek and beat the air with his wings."
           },
           {
-              paragraph: "A good show, and yet hardly worth the cost to everyone else. This needs to change."
+              paragraph: "<em>A good show, and yet hardly worth the cost to everyone else. This needs to change.</em>"
           },
           {
               paragraph: "Teaching the Maroe advanced construction techniques, how to effectively treat their wounds, and bettering the care of their whelps improved things around the periphery, but Seszil’s intent to change the Maroe’s core identity was constantly frustrated. The fights continued, and with each generation, the Krysar began to realize, they were getting increasingly reckless. Turnover on the Marovets is becoming nearly constant, and work on Ohu Mond’s most important infrastructure is beginning to slow. The situation is only more acute in the outlying cities."
           },
           {
-              paragraph: "It’s time for something grand. If they can’t — won’t — stop fighting each other, then it needs to be more than just mere violence. It needs a greater purpose attached to it."
+              paragraph: "<em>It’s time for something grand. If they can’t — won’t — stop fighting each other, then it needs to be more than just mere violence. It needs a greater purpose attached to it.</em>"
           },
           {
               paragraph: "Calling the Over Marovet to council takes more effort than in prior years, thanks to the increasing distrust. Now, as each of the seven members enter the domed chamber where two ravines intersect, they stare at each other warily. Each still leaves their weapons behind and drinks of the Archmazan potion to cut off their Smite and Pressure abilities, so any fights will involve only fists and claws. However, as Seszil can attest after fleeing multiple sessions, fists and claws are still effective weapons."
@@ -2549,7 +2552,7 @@ module.exports = [
               paragraph: "The Over Marovet members glance at each other. Their wings collectively sway from side to side, fluttering in the shadows."
           },
           {
-              paragraph: "They’re dithering. Unsure. Time to sweeten the pot."
+              paragraph: "<em>They’re dithering. Unsure. Time to sweeten the pot.</em>"
           },
           {
               paragraph: "\“Often there are bets placed on the outcome of each fight, your graces, in addition to an admission fee to the arena. The Over Marovet could certainly claim a cut of both to finance its ongoing operation.\”"
@@ -2573,7 +2576,7 @@ module.exports = [
               paragraph: "\“We understand,\” Krazguno says, clenching and unclenching his hand."
           },
           {
-              paragraph: "Ah. Perhaps I went a bit far in my obsequiousness."
+              paragraph: "<em>Ah. Perhaps I went a bit far in my obsequiousness.</em>"
           },
           {
               paragraph: "Slithering from their cutouts, the Over Marovet begins debating the proposal in pairs and shifting small groups. As odd, whispered consonants rustle along the wall, circling Seszil and filling the chamber, the quiet debate goes on for some time."
@@ -2582,13 +2585,13 @@ module.exports = [
               paragraph: "Six Maroe return to their cutouts. Krazguno rests in front of his, drawing himself up to his full height."
           },
           {
-              paragraph: "\“‘e Over Marovet approves your proposal, Krysar,\” he says, adopting the deeper intonation when the senior member speaks for the group. \“We will explore how to carry out this tournament in a barred session. You will wait in the greeting chamber, should we have need of you.\”"
+              paragraph: "\“‘e Over Marovet approves your proposal, Krysar,\” he says, adopting the deeper intonation when the senior member speaks for the group. \“We will explore how to carry out this <em>tournament</em> in a barred session. You will wait in the greeting chamber, should we have need of you.\”"
           },
           {
               paragraph: "Seszil bows deeply again, putting more focus into making it as smooth as possible. When it effortlessly turns on one heel after straightening back up, a quick flash of giddiness runs through its mind."
           },
           {
-              paragraph: "Practice is paying off."
+              paragraph: "<em>Practice is paying off.</em>"
           },
           {
               paragraph: "Two guards flow under the low door Maroe prefer, but before they reach Seszil it is already moving past them, nodding in a familiar manner. It smoothly plants one foot on the other side of the door, ducks down, and swings its body through to the other side in one easy motion. Standing at its full height, Seszil brushes a nonexistent speck of dirt from its shoulder and steps aside as the guards glide out."
@@ -2597,7 +2600,7 @@ module.exports = [
               paragraph: "When the guards move back to their assigned stations, the Krysar returns to the low opening, crouching down to listen for the familiar sounds of Maroe fists striking Maroe flesh. After a long while, the Krysar pulls back. The sounds never come."
           },
           {
-              paragraph: "They’re actually considering it. Interesting. There could be something to this tournament idea after all."
+              paragraph: "<em>They’re actually considering it. Interesting. There could be something to this tournament idea after all.</em>"
           }
         ],
         "img": "../chronicle/seszil.jpg"
@@ -2613,7 +2616,7 @@ module.exports = [
               paragraph: "Seszil stands behind the seven Over Marovet members in the council’s special box — right above the fighting floor — and takes it all in. Two cycles of the moon later and this vision has come true."
           },
           {
-              paragraph: "Now it only has to work. At least they’re still interested."
+              paragraph: "<em>Now it only has to work. At least they’re still interested.</em>"
           },
           {
               paragraph: "As the Orb rises overhead two heavy gongs echo out into the stadium, silencing all conversation. Two trap doors carved into the ground pop open, disgorging two fighters and a pair of guards for each. The guards, heavily armed and armored, escort the pair to the round arena’s center. One Maroe — Seszil cannot remember her name — freely slithers toward the starting point, grasping a spear in one hand. The other, a smaller, completely anonymous male, is forced along by two guards. They drop him at the starting point, throw a short sword in front of him, and retreat."
@@ -2631,7 +2634,7 @@ module.exports = [
               paragraph: "Laugher shatters the air. Most of the audience is pointing at the corpse and shaking their heads in bemusement, Seszil notes, but plenty are disappointed as well."
           },
           {
-              paragraph: "Welcome to the world of Draeg dining, people of Ohu Mond. You cannot start a banquet with a main course. Appetizers must come first."
+              paragraph: "<em>Welcome to the world of Draeg dining, people of Ohu Mond. You cannot start a banquet with a main course. Appetizers must come first.</em>"
           },
           {
               paragraph: "The victor glances up at the Over Marovet’s box and bows, spreading her wings and hands. Krazguno returns the gesture on behalf of the entire group."
@@ -2643,7 +2646,7 @@ module.exports = [
               paragraph: "Seszil ignores the Over Marovet’s narrowed glances, and chooses not to hear their mutterings about competence."
           },
           {
-              paragraph: "Perhaps this will teach a lesson about pacing themselves as well. One can only hope."
+              paragraph: "<em>Perhaps this will teach a lesson about pacing themselves as well. One can only hope.</em>"
           },
           {
               paragraph: "The next few fights are barely elevated from an Ohu Mond street brawl. Pairs of Maroe angrily thrash about with swords, axes, maces, knives, and the odd poleax as they try to dismember their opponents as violently as possible. Unaccustomed to having fighting space, and with no obstacles or civilians in their way, the fighters show no restraint. Blood fountains out, wings get lopped off, and someone inevitably meets Nihil on the other side — both fighters in one case — but it’s all over so fast it doesn’t entertain. Seszil sees boredom in the swaying wings above the Over Marovet box, and even inside it. Krazguno has resorted to tapping his fingers against the stone wall and fixing Seszil with a hard stare."
@@ -2655,7 +2658,7 @@ module.exports = [
               paragraph: "The Krysar can only trace its jaw with a thin, fragile finger, wishing it could smirk like a Maroe."
           },
           {
-              paragraph: "The main course is served, everyone. Ah. I do hope you enjoy it."
+              paragraph: "<em>The main course is served, everyone. Ah. I do hope you enjoy it.</em>"
           },
           {
               paragraph: "After their escorts leave, and the lone gong sounds, Mnarzam and Ivargash stand still as statues, their wings not even twitching. Both hold giant swords, and the heavy points rest against the blood-spotted sand on the arena floor. Both are barely breathing as they wait for the smallest opportunity."
@@ -2667,10 +2670,10 @@ module.exports = [
               paragraph: "The bright orblight precludes any Shade use, and the speed with which Mnarzam and Ivargash move takes Smite off the table. It is only when Ivargash brings his blade down, sinking it into his opponent’s pauldron, that Reave comes into play. Mnarzam thrusts his sword forward and hunter green hex pierces the air. Ivargash jukes, avoiding the thrust, and responds by igniting his own deep blue hex. He counters with his extended blade, grappling Mnarzam’s green with blue."
           },
           {
-              paragraph: "Blood begins to fleck the sand as the fight continues, hex and steel leaving gashes and punctures in both flesh and armor. Mnarzam manages to get Ivargash backed into the arena wall, and when the trapped Maroe dives and rolls to avoid a particularly particularly strong slash, the hunter green hex annihilates part of the wall. The crowd ripples as spectators dodge the attack, but one unfortunate soul gets in the blade’s way. His upper and lower halves tumble to the arena floor."
+              paragraph: "Blood begins to fleck the sand as the fight continues, hex and steel leaving gashes and punctures in both flesh and armor. Mnarzam manages to get Ivargash backed into the arena wall, and when the trapped Maroe dives and rolls to avoid a particularly strong slash, the hunter green hex annihilates part of the wall. The crowd ripples as spectators dodge the attack, but one unfortunate soul gets in the blade’s way. His upper and lower halves tumble to the arena floor."
           },
           {
-              paragraph: "Hm. I hadn’t considered that. Rather unfortunate, really."
+              paragraph: "<em>Hm. I hadn’t considered that. Rather unfortunate, really.</em>"
           },
           {
               paragraph: "The weakening screams of the dying Maroe fill the arena. The audience is rapt, Seszil realizes. Every single one is leaning forward, silent in contemplation of the scene before them. Even the spectators near the collateral damage have returned to their seats, ignoring the splashes of blood and gore."
@@ -2679,7 +2682,7 @@ module.exports = [
               paragraph: "The Krysar had expected cheers and roars, but this is near reverence."
           },
           {
-              paragraph: "Unexpected, that, and it doesn’t appear we need to worry about crowd safety overmuch."
+              paragraph: "<em>Unexpected, that, and it doesn’t appear we need to worry about crowd safety overmuch.</em>"
           },
           {
               paragraph: "Steel continues slicing through dust clouds and Maroe flesh as the fight goes on. Mnarzam and Ivargash weaken from blood loss and exertion, while shock begins to work its way into their bones and erode their Will. Mnarzam’s chestplate is torn away. A deep gash runs across his chest, exposing pink muscle and white bone. Ivargash is no better off, as a deep cut to his tail has left him dependent on his wings for movement. He hops and dips across the arena floor, leaving eddies of sand in his wake."
@@ -2694,7 +2697,7 @@ module.exports = [
               paragraph: "Mnarzam doesn’t wait a moment. Thrashing his wings and speeding behind his opponent, Mnarzam swings his sword, chest straining to power the heavy steel through the air and Ivargash’s back. The heavily wounded Maroe drops to the ground on his side silently, blood fanning out from the deep cut."
           },
           {
-              paragraph: "His tail is still. His spine is severed."
+              paragraph: "<em>His tail is still. His spine is severed.</em>"
           },
           {
               paragraph: "Mnarzam circles his longtime opponent, adjusting his grip on his sword while Ivargash prepares to meet his fate. There are no words between them; only a single nod."
@@ -2724,7 +2727,7 @@ module.exports = [
               paragraph: "The crowd ignites. Hundreds of voices take up the call, ravaging the air with a pitch so high Seszil cannot make out individual voices. It’s the singular sound of ending a life and adding glory to yours. Seszil can feel the sound waves press against its crystals, seep into their small gaps, and bathe every atom of its being with appreciation."
           },
           {
-              paragraph: "They may not cheer for me, but I gave this to them. I am why they scream like this."
+              paragraph: "<em>They may not cheer for me, but I gave this to them. I am why they scream like this.</em>"
           },
           {
               paragraph: "Maroe pound their chest and beat their wings as guards and members of the Healing Marovet rush toward Ivargash. Although he still holds the sword aloft, it wavers in ever growing circles as his life begins to follow the Will, adrenaline, and blood leaving his body. The healers carefully place him on a stretcher, sure to hand the sword to a guard, and quickly hurry Ivargash away."
@@ -2736,7 +2739,7 @@ module.exports = [
               paragraph: "There are so many victory bonfires burning in Ohu Mond that night their glow stretches from one side of the crater’s rim to the other. Seszil stares up at the dark orange glow, and it’s refracted a dozen times inside its crystalline eyes. Standing in the middle of the arena, seeing the pinpricks of light hanging in the sky over it all brings the realization home."
           },
           {
-              paragraph: "I did something, and it was grand."
+              paragraph: "<em>I did something, and it was grand.</em>"
           },
           {
               paragraph: "Dried pools of blood still dot the sand, and in the darkness they are only deeper shadows. It is a stark contrast to the city, where there are no fights this evening. Drums sound out, bonfires crackle, tankards clank against each other, and Maroe rehash the fight as drinks flow through their systems. Never mind Ivargash died before making it to the hospital; he will live on for generations as the first great tournament victor."
@@ -2745,7 +2748,7 @@ module.exports = [
               paragraph: "Seszil crouches down, running its hand through the sand, scooping it up and letting it flow through its fingers."
           },
           {
-              paragraph: "I planted an idea here today, and it has taken root. May it grow over the decades and its fruit save these people."
+              paragraph: "<em>I planted an idea here today, and it has taken root. May it grow over the decades and its fruit save these people.</em>"
           }
         ],
         "img": "../chronicle/seszil.jpg"
@@ -2782,7 +2785,7 @@ module.exports = [
               paragraph: "Setting off for the raid had been a moment of great anticipation for the Briggarz. Cones of explosions roared into the air as the horde fired at the sky, shouting, shaking their fists, and only barely listening to Barla’s shouted orders before they all set out. Seszil heard something about not killing too many Humans and took it as a good sign."
           },
           {
-              paragraph: "I was far too optimistic."
+              paragraph: "<em>I was far too optimistic.</em>"
           },
           {
               paragraph: "A sub-settlement far removed from Shermanton, Cushing’s Point is the largest farming area on Ilex, and, thanks to it being on the other side of the landmass, it was far removed from any Briggarz attacks. At least it was until Seszil remembered the small settlement’s light defenses. The Krysar had toured the area when it first arrived on Ilex and decided it was the best place to conduct the raid. While Seszil followed the Briggarz horde as it looped far beyond the Shermanton sensor grid, trudging through the swamp in a poor imitation of stealth, it thought its plan would work."
@@ -2794,7 +2797,7 @@ module.exports = [
               paragraph: "Standing at what should have been the launching off point, counting the moments as they flow by, Seszil cannot bring itself to walk toward Cushing’s Point. It can still hear the screams and chatter of gunfire. Randomly spaced throughout are the shrieks and cries of Gravemen doing their work."
           },
           {
-              paragraph: "I don’t want to see that. I don’t know what I expected. Restraint obviously doesn’t exist with these creatures."
+              paragraph: "<em>I don’t want to see that. I don’t know what I expected. Restraint obviously doesn’t exist with these creatures.</em>"
           },
           {
               paragraph: "It is now midday and the screams are long gone. Thick coils of smoke drift into the air, obscuring the Orb and casting a premature twilight across what is left of Cushing’s Point. Seszil still stands in the same place it has since the attack began, seemingly rooted to the ground as well as any tree. Its fists are clenched tight."
@@ -2806,7 +2809,7 @@ module.exports = [
               paragraph: "Barla is particularly gory, with thick cascades of blood down her slipshod armor’s front. Seszil realizes the objects jostling on her chest are three Human heads strung together and slung about her neck."
           },
           {
-              paragraph: "Sweet Svlod."
+              paragraph: "<em>Sweet Svlod.</em>"
           },
           {
               paragraph: "\“Ice man, we are victorious,\” Barla shouts as she stops in front of the Krysar. \“You give us this day. We are mighty!\”"
@@ -2824,7 +2827,7 @@ module.exports = [
               paragraph: "\“What?\” is the only thing Barla can get out."
           },
           {
-              paragraph: "\“I said, you are all idiots. Morons. Bloodthirsty morons at that,\” Seszil shouts, warming to its subject. \“You reduced that village to ash. And for what? It served no purpose. You destroyed their stores, burnt their food — the food you need — to cinders, and killed every Human that would be able to grow more. You’ve effectively destroyed yourselves today. If you want something to eat, may I suggest the barrels of your cannons?\”"
+              paragraph: "\“I said, you are all idiots. Morons. Bloodthirsty morons at that,\” Seszil shouts, warming to its subject. \“You reduced that village to ash. And for what? It served no purpose. You destroyed their stores, burnt their food — the food <em>you need</em> — to cinders, and killed every Human that would be able to grow more. You’ve effectively destroyed yourselves today. If you want something to eat, may I suggest the barrels of your cannons?\”"
           },
           {
               paragraph: "All the Briggarz look at each other and the befuddlement on their face is plain. Slowly, each begins to look at Barla, who quickly realizes she is on the spot to respond."
@@ -2869,7 +2872,7 @@ module.exports = [
               paragraph: "Seszil snatches the arc cannon up, cradles it in its arms, and fires again. The weapon shoots out of its grip, flying backward, and buries itself up to the trigger guard in the soft earth."
           },
           {
-              paragraph: "Muscles may not be as overrated as I once thought."
+              paragraph: "<em>Muscles may not be as overrated as I once thought.</em>"
           },
           {
               paragraph: "The blast itself catches Barla in the side, spinning her as though she were on a spit, before she hits the ground again."
@@ -2896,7 +2899,7 @@ module.exports = [
               paragraph: "Seszil turns from the latest round of useless carnage, and keeps placing one foot in front of the other as it walks away. Its shuttle is at the Briggarz camp. It will be gone from Asylum within hours, and it hopes it will never return."
           },
           {
-              paragraph: "Sareste was a country holiday compared to this awful place."
+              paragraph: "<em>Sareste was a country holiday compared to this awful place.</em>"
           }
         ],
         "img": "../chronicle/seszil.jpg"
