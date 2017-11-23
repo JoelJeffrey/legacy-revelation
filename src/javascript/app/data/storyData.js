@@ -3,6 +3,722 @@
 
 module.exports = [
     {
+        "slug": "march",
+        "title": "Adjucanis: March",
+        "story": [
+          {
+              paragraph: "The Guarphaord Wardens marched out of Filistion, and Adjucanis led them across the desert."
+          },
+          {
+              paragraph: "It was late, and the Orb sank low into the sky, hovering just over the phalanx's collective shoulders, lengthening the shadows until they stretched on to the dusky horizon. Mustered with an hour's notice, the Wardens advanced toward Ephraa, the latest Agoan city to come under Maroe attack. Twenty strong Guarphaords strode in step behind Adjucanis, and as he stared out into the night his clawed hands twitched as he imagined tearing those flying scavengers apart."
+          },
+          {
+              paragraph: "It was early morning when they reached Ephraa. Adjucanis, still at the head, strode into the ruined city, and his Wardens followed. Broken towers, their sides torn open to the fresh orblight, loomed over the Guarphaords. Collapsed homes and stores cast jagged, dark shadows across the streets and squares."
+          },
+          {
+              paragraph: "When the Guarphaords entered the city's central plaza, Maroe exploded into the pale red sky, wings beating, tails writhing as they swarmed into a formation. They poured out of ruined temples, shattered windows, and caves of rubble. At least 100 pairs of wings clawed the air and maws screamed obscenities at the fatigued Wardens. Yet, to a one, the Guarphaords charged forward, their armor glinting in the orblight. Adjucanis was well ahead, screaming his battle cry, as the horde of Maroe plummeted out of the sky with swords, axes, and halberds drawn and thirsting for more blood."
+          },
+          {
+              paragraph: "As the Orb tracked across the sky, Maroe dead began to far outnumber Guarphaord casualties. Stray hex slashes tore at the ground. Blood sank deep into the sand. The weak cries of the injured were lost among the clash of blades and crack of whips. Slowly, it morphed into a running battle. Adjucanis led his Wardens in a calculated withdrawal, slowly giving ground to draw the Maroe out of Ephraa and into the open. A forest of Augmented hex strikes trailed behind the Wardens as they pulled back, and a constellation of point explosions filled the sky."
+          },
+          {
+              paragraph: "Still, the Maroe pursued — borne aloft as much by bloodlust as the morning air."
+          },
+          {
+              paragraph: "It was when the Orb reached its height, and only the strongest were left standing on both sides, that Adjucanis found himself facing Izugross, the raid's leader. With his chestplate trimmed with Agoan bones and wings that were more scar tissue and slashes than any sort of flesh, Adjucanis recognized him immediately. As the stench of blood and offal surrounded Adjucanis, and smoke still rolled from the remains of Ephraa, he swore this would be the last time Izugross led a raid."
+          },
+          {
+              paragraph: "Unfortunately, it was a familiar oath."
+          },
+          {
+              paragraph: "In the blink of an eye, Izugross closed the distance and aimed his massive sword at the Guarphaord's neck. The move initiated a familiar, and lethal, dance between the two as they spun, blocked, struck, and parried while they sought an edge over the other."
+          },
+          {
+              paragraph: "It was when Izugross performed his most powerful Smite attack he had available, and missed, that the familiar dance took a horrific turn."
+          },
+          {
+              paragraph: "Adjucanis had easily dodged the blow, as he Bent time and was Daring against all Pressure. The attack flowed around him, crushing the surrounding earth. The Guarphaord gazed at Izugross, silently daring the Maroe to do his worst. Izugross complied, and unleashed his most powerful Smite yet. When the heavy sword and its powerful Hex strike sank deep into the ground, blasting the crater still deeper, Adjucanis gave it little thought other than how he had some advantage being on high ground."
+          },
+          {
+              paragraph: "Izugross beat the air with his wings, spiraling upward. The Maroe somersaulted, tucked his wings in, and dove toward Adjucanis."
+          },
+          {
+              paragraph: "The crater erupted. The shockwave threw Adjucanis to the ground, and a pillar of dust and debris exploded into the air. A roar so loud, so deep, it rattled Adjucanis' teeth to their roots, issued from the thinning cloud."
+          },
+          {
+              paragraph: "Wings, massive wings, ripped the air and scattered the dust to the furthest corners of Sareste."
+          },
+          {
+              paragraph: "Looking up, Adjucanis saw his longtime foe clenched in a jaw that had more teeth than any natural creature. The Maroe weakly beat his sword against the beast's russet scales, but it did no damage against the craggy hide. The jaws twitched and Izugross disappeared down the monster's gullet. His sword pinwheeled through the air before driving deep into the earth blade first."
+          },
+          {
+              paragraph: "The beast roared again, and the ground shattered as it rose up on at least four legs. It shook off sloughs of soil and rock and roared again. Buildings in Ephraa already damaged in the raid gave in at this latest aural assault. Adjucanis barely heard the collapsing stone his ears were ringing so loudly."
+          },
+          {
+              paragraph: "He looked around him. Wounded Maroe were trying to slither or fly away one by one, while his fellow Wardens evacuated the wounded as they were trained."
+          },
+          {
+              paragraph: "Adjucanis could only sit there in wonder while the beast ponderously turned, gnarled claws sinking into the ground and rattling the land, before it moved toward what was left of Ephraa. It passed over Adjucanis, ignoring such a small threat, and its massive bulk blotted out the Orb and the sky, leaving him in dark shadow while the beast passed overhead. He could see the rock-like scales shifting and twitching with each titanic step, and he wondered how any weapon could hope to pierce them."
+          },
+          {
+              paragraph: "More stones collapsed, crashing into ever larger deltas of rubble, as the beast lumbered through Ephraa. Adjucanis watched its progress, and saw how the thick tail whipped to and fro, dashing the city into memory. Seeing the crescent of destruction in its wake brought the Guarphaord Warden out of his shock."
+          },
+          {
+              paragraph: "\"Such threats should not be alight in this world,\" Adjucanis murmured to himself. \"I shall destroy it, those of its ilk, and all those foolish enough to ally with such an evil. I shall tear them from this system with these claws unto my extinguishment or their total annihilation. So I swear.\""
+          }
+        ],
+        "img": "../chronicle/adjucanis.jpg"
+    },
+    {
+        "slug": "wardens",
+        "title": "Adjucanis: Wardens",
+        "story": [
+          {
+              paragraph: "Night had fully swallowed Filistion by the time Adjucanis returned to his base. His Wardens occupied the hospital or their barracks as they recovered from their wounds. Priests gave last rites to the extinguished and interred them under blue flickering torchlight as Guarphaords had done for centuries. As the shrouded fallen were lowered into graves, Adjucanis fell into his bunk to embrace his own blissful sleep."
+          },
+          {
+              paragraph: "The next day, as the Wardens assembled for their morning training — leaving gaps in their ranks to honor the dead — Adjucanis stood at rest in his superior's office. Although he looked out the high window atop the commander's spire, he did not see the bejeweled golden domes of Filistion, the gilded series of walls, or the hazy desert beyond. He could only see the Titan of Ephraa, as the Wardens had started calling it, rising out of the ground."
+          },
+          {
+              paragraph: "The beast's roar still echoed in his ears, and the tremors still rattled his bones. Somewhere, gods willing somewhere far away, that vicious spawn of chaos was still roaming the land, destroying all before it."
+          },
+          {
+              paragraph: "THe must extinguish it. Soon."
+          },
+          {
+              paragraph: "Cerburel sat the datapad on his desk, and the clink brought Adjucanis out of his thoughts. The Warden commander of Filistion had read the report twice by now, and having Adjucanis stand at parade rest while be browsed the document a third time was one of his preferred methods for making his subordinates squirm when he felt it was necessary. His sharp claws tapped against the black marble desktop shot through with gold veins."
+          },
+          {
+              paragraph: "Cerburel finally spoke, his voice deep and rolling as it flowed through the wide office."
+          },
+          {
+              paragraph: "\"It seems as though you've discovered something new, Adjucanis. No Guarphaord in living memory has seen the sort of creature you describe.\""
+          },
+          {
+              paragraph: "Adjucanis nodded once."
+          },
+          {
+              paragraph: "\"Despite your losses, despite Ephraa being annihilated, I cannot fault you and your actions during the engagement. This was certainly outside anything Wardens have encountered and we are not trained to engage with such…behemoths. I see no reason to discipline you for this, or to recommend any form of commendation. You did your duty well, as is expected. You are dismissed.\""
+          },
+          {
+              paragraph: "Cerburel waved his hand at the arched doorway, but Adjucanis remained standing stock still. The Warden commander cocked a thin, furred eyebrow."
+          },
+          {
+              paragraph: "\"Unless you have something else to add?\""
+          },
+          {
+              paragraph: "\"I intend to extinguish the Titan of Ephraa.\""
+          },
+          {
+              paragraph: "The last syllable hung in the air before silence swallowed it whole. It went on for so long both Guarphaords heard their own pulses tapping at their temples, and their ears buzzed as they tried to catch some small shred of sound."
+          },
+          {
+              paragraph: "\"Why would you do this? How would you accomplish this?\" Cerburel quietly asked."
+          },
+          {
+              paragraph: "\"I have sworn an oath. I do not know how I will kill the beast, but I will wipe it from Sareste.\""
+          },
+          {
+              paragraph: "Cerburel leaned forward. His eyes narrowed further as he considered the implications of a Warden taking an oath. Such things were hallowed, unbreakable once a Warden pledged his or her life to a cause. They would follow their course until succeeding or joining the extinguished in the afterlife."
+          },
+          {
+              paragraph: "\"To whom did you swear this oath? Which extinguished comrade?\""
+          },
+          {
+              paragraph: "\"I swore it upon myself, commander.\""
+          },
+          {
+              paragraph: "\"Did you now?\" Cerburel leaned back. \"How convenient.\""
+          },
+          {
+              paragraph: "\"Sir?\""
+          },
+          {
+              paragraph: "\"That is hardly a truly binding oath, Adjucanis. You are a Warden of Filistion and your duty is to protect this city and all those under our hegemony while your life still burns brightly. Swearing an oath upon yourself does not bind you to another or override your commitment to me, your fellow Wardens, and the glowing embers of Filistion. You will remain here and continue to serve and protect. Now. Dismissed.\""
+          },
+          {
+              paragraph: "Cerburel jabbed a long, sinewy finger at the door. Adjucanis did not move."
+          },
+          {
+              paragraph: "\"The titan is a threat to all on Sareste. I have seen it firsthand and it must be extinguished and sent to the darkest reaches of afterlife.\""
+          },
+          {
+              paragraph: "Unfolding from his chair, Cerburel looked Adjucanis squarely in the eyes."
+          },
+          {
+              paragraph: "\"Is the titan an imminent threat to Filistion?\""
+          },
+          {
+              paragraph: "\"No, however, it—\""
+          },
+          {
+              paragraph: "\"Is the titan at our walls? Is it burrowing beneath our city? Is it flying overhead, blocking out the Orb itself?\""
+          },
+          {
+              paragraph: "\"It is not, yet—\""
+          },
+          {
+              paragraph: "\"Then it is not a threat to our city, or our people, and until Amigen's blessing returns to Ephraa, it is a wild beast — an unfortunate byproduct of our gods' work. We shall eliminate it if it appears on our horizon. Until then we shall not seek further trouble. You. Are. Dismissed.\""
+          },
+          {
+              paragraph: "Adjucanis silently turned and stalked toward the door. Palming the control panel to open it, he turned, calmly looking his superior in the eye."
+          },
+          {
+              paragraph: "\"You lack vision, Cerburel. A threat is not merely what crosses our horizon.\""
+          },
+          {
+              paragraph: "\"You forget yourself, Adjucanis. I am your superior.\""
+          },
+          {
+              paragraph: "\"In rank only. It is no contest on the field of battle, or above the neck.\""
+          },
+          {
+              paragraph: "With that, Adjucanis let the door softly slide shut behind him. A moment later, he heard the sharp crack of a datapad flying against the door."
+          }
+        ],
+        "img": "../chronicle/adjucanis.jpg"
+    },
+    {
+        "slug": "barracks",
+        "title": "Adjucanis: Barracks",
+        "story": [
+          {
+              paragraph: "It was the night of a new moon when Adjucanis crept out of the barracks."
+          },
+          {
+              paragraph: "Clouds tracked overhead, a faint gray against the starlight-dotted sky. The city shone with a dull, blue-tinted light as the Warden quietly sprinted from shadow to shadow, seeking shelter from any prying eyes or patrols as he zigzagged to the easterly gate. The clack of Guarphaord claws and talons against the pavement pursued Adjucanis through the streets and alleys. With no moon to follow overhead, he was unsure how much time passed before he found himself crouched behind a shuttered fruit stand, staring at the four guards posted at the gate. They seemed extraordinarily alert tonight, as their ears twitched in the weak breeze, and they continually adjusted their grips on their whips and cannons."
+          },
+          {
+              paragraph: "The hot breath on his neck was a total shock."
+          },
+          {
+              paragraph: "\"You're never going to get through there unseen.\""
+          },
+          {
+              paragraph: "Years of training kept Adjucanis from shouting, turning, and slashing his claws against the interloper's face. He recognized the voice: Avalroth."
+          },
+          {
+              paragraph: "\"What are you doing here?\" he hissed."
+          },
+          {
+              paragraph: "\"Shouldn't I be asking you the same thing? You've been scurrying through the streets like a fresh cadet coming back from the pub,\" she said, her voice soft in Adjucanis' ear. \"You wouldn't know stealth if it danced on a harpsichord, kicked you in the head, and sang 'I'm the stealthiest Warden in all of Sareste.'\""
+          },
+          {
+              paragraph: "\"Go away.\""
+          },
+          {
+              paragraph: "\"I can't do that, I'm afraid. You've aroused my curiosity and I intend to get satisfaction for it.\""
+          },
+          {
+              paragraph: "Adjucanis finally turned around and saw the smug expression on Avalroth's face he expected. Her carefully trimmed eyebrows arched in amusement, and her whiskers twitched with anticipation. He'd seen the same look when they ambushed a Maroe encampment the month before."
+          },
+          {
+              paragraph: "\"I need to get through the gate.\""
+          },
+          {
+              paragraph: "\"That I assumed. Why?\""
+          },
+          {
+              paragraph: "\"That is my business.\""
+          },
+          {
+              paragraph: "\"I may want to help you and make it my business if I know what it is.\""
+          },
+          {
+              paragraph: "\"I don't need your help.\""
+          },
+          {
+              paragraph: "\"You think a flaming sack of dung just happened to land in the middle of that last patrol when they were poking around your dumpster? You must give me some credit.\""
+          },
+          {
+              paragraph: "Adjucanis frowned. His claws ticked against his palm as he considered that."
+          },
+          {
+              paragraph: "\"I have sworn to extinguish the Titan of Ephraa,\" he said."
+          },
+          {
+              paragraph: "Avalroth's eyes widened, glinting in what little light came from the dark heavens. She waited a moment, seemingly studying him as she leaned in closer. Finally, she sighed."
+          },
+          {
+              paragraph: "\"You're serious.\""
+          },
+          {
+              paragraph: "\"Yes.\""
+          },
+          {
+              paragraph: "\"I would have thought you'd seen enough of that thing back in Ephraa,\" she said, slumping back against the cold metal wall. \"How do you intend to kill it?\""
+          },
+          {
+              paragraph: "Adjucanis returned his gaze to the four guards. Avalroth leaned forward, waiting for an answer."
+          },
+          {
+              paragraph: "\"You don't have a plan, do you?\""
+          },
+          {
+              paragraph: "The other Guarphaord stayed silent. Avalroth pushed his shoulder, quietly demanding an answer."
+          },
+          {
+              paragraph: "\"Now is the time for leaving, not for questions,\" he said."
+          },
+          {
+              paragraph: "\"Are you that determined to kill yourself?\""
+          },
+          {
+              paragraph: "Adjucanis turned, fixing Avalroth in place with a glare as sharp as his claws."
+          },
+          {
+              paragraph: "\"That monster cannot be allowed to burn so brightly on this planet. It is evil. It must be extinguished before others are killed.\""
+          },
+          {
+              paragraph: "With another sigh, Avalroth bent forward into a crouch. She waved her hand back down the dark alley. \"Follow me, then, if you're so set on this fool's adventure. You won't make it far in the desert on foot.\""
+          },
+          {
+              paragraph: "Avalroth led Adjucanis through a network of alleys and narrow roads he never knew existed. They slunk through the piles of dust and refuse most glowing embers of Filistion never saw, and by the time they arrived at the speeder-pool, he knew it would be days before his fur was clean again."
+          },
+          {
+              paragraph: "\"See that speeder over there? The one on the far left?\""
+          },
+          {
+              paragraph: "Adjucanis followed her pointed finger, and spotted a small, single-rider speeder propped up against a stack of crates."
+          },
+          {
+              paragraph: "\"They think it's broken, but it's not. I rewired the ignition so only I could start it,\" Avalroth said, her voice filling with the joy of sharing a secret and showing off her skills. \"It's the fastest one here, because Saffericious reworked the drive core and upped the inertia dampers. Still hasn't figured out what I did to the ignition, though.\""
+          },
+          {
+              paragraph: "Sharp, bright teeth flashed in the night as Avalroth smiled."
+          },
+          {
+              paragraph: "\"Anyway. Here's the key. Take my speeder. It'll get you out of here fast enough to slip the patrols — and lose the titan if you come to your senses.\""
+          },
+          {
+              paragraph: "She pressed a small, cold piece of metal into Adjucanis' palm. Her touch was quick, fleeting, and when Adjucanis turned to object, she was gone."
+          },
+          {
+              paragraph: "\"I must learn how she does that,\" he muttered to himself."
+          },
+          {
+              paragraph: "Adjucanis managed to reach the modified speeder without alerting the few techs working the nightfall shift. Straddling the machine, he slid the custom key home and turned."
+          },
+          {
+              paragraph: "The engine came to life, bellowing and snarling like a trapped tiger. It reverberated off the hard, gilded buildings of Filistion and reached the ears of every patrol in the sector."
+          },
+          {
+              paragraph: "Somewhere, Adjucanis knew, Avalroth was laughing at him."
+          },
+          {
+              paragraph: "Shouts came from the techs, directing the first patrol on the scene. The Wardens sprinted across the courtyard, the medics among them already conjuring a bright, clear light over Adjucanis. Twisting the throttle, Adjucanis felt the speeder shudder so violently it seemed ready to tear itself apart, and then it shot forward so fast the air tore at his eyes."
+          },
+          {
+              paragraph: "He fought the controls as viciously as he did Izugross in their many battles. For all his tampering, Saffericious did not improve the air brakes or increase steering power to match what the drive core could do. Adjucanis didn't so much steer the speeder through corners as vaguely aim it and hope he didn't ricochet off a pillar. Before he had full control of the crazed machine, three patrols were in hot pursuit, and searchlights from the city's walls tracked the streets with pools of illumination. He knew the gates would have slammed shut by this point, triggered by the general alarm. Somewhere, his own phalanx of Wardens were streaming out of their barracks, grabbing their whips and sprinting for their stations. His time was running short."
+          },
+          {
+              paragraph: "Sliding through a wide turn, Adjucanis found himself on Amigen's Boulevard, the wide, straight street running down Filistion's North-South axis. He pinned the throttle, reaching new heights of eye-watering speed, and prayed for inspiration."
+          },
+          {
+              paragraph: "The golden wall rose, growing taller every second as Adjucanis rocketed down the boulevard. Through aching, squinted eyes he could see the small shapes of a patrol — no, a phalanx — gathered before the southerly gate. He couldn't barrel through them. At these speeds he couldn't maneuver. The gate was closed."
+          },
+          {
+              paragraph: "Inspiration came to him: over the wall."
+          },
+          {
+              paragraph: "Adjucanis Bent time. Although the speedometer said 147, the speeder was moving no faster than a purposeful walk. He dismounted, sprinting toward the phalanx of Wardens, who may have been encased in ice for as slowly as they moved."
+          },
+          {
+              paragraph: "Claws glowing, Adjucanis sliced at the air. Trails of emerald Augmented hex began floating behind him. He kept at it, ignoring the glacially slow pace of his comrades running toward him, and hearing the hollow, low-pitched, drawn-out growl from the approaching speeder."
+          },
+          {
+              paragraph: "He built a mesh of hex slashes, leaping, flipping, and twisting to finish his work. It had to be enough. He was out of time."
+          },
+          {
+              paragraph: "Chest burning as he sprinted back to the speeder, which was listing slightly to one side as it began to realize it had no rider, Adjucanis threw his legs over it and clutched the controls."
+          },
+          {
+              paragraph: "He made it just in time."
+          },
+          {
+              paragraph: "Bent time ended, and the speeder's howl boxed his ears like a mace. It bucked, wove, and Adjucanis fought to straighten its course in time to meet his makeshift ramp. The emerald hex held under the tremendous speed, and the speeder blasted into the air. The ground fell away, and the wall seemed to lean forward for him, urging the Guarphaord to sail over it."
+          },
+          {
+              paragraph: "Then it seemed to lean back, falling into place."
+          },
+          {
+              paragraph: "Adjucanis began falling too."
+          },
+          {
+              paragraph: "Gritting his teeth, he fired the inertia damper."
+          },
+          {
+              paragraph: "To his comrades below, it was as if a skyburst bomb detonated directly above them. Air pressure tore at their skin and fur. The roar ruined their ears. The sheer force stunned them all. Windows shattered and dust engulfed the entire phalanx."
+          },
+          {
+              paragraph: "When it cleared, and they looked up, the sky held only a thin, fading line of purple light arcing over the wall's ramparts."
+          },
+          {
+              paragraph: "As the Wardens stared at the sky in a sense of wonder, Adjucanis now stared at the approaching hard earth with an equal sense of horror. The drive core glowed a vibrant violet as he charged the dampers for another blast. When the Sareste-bound comet seemed ready to crater the unyielding, hard-packed sands outside Filistion's walls, Adjucanis fired the damper."
+          },
+          {
+              paragraph: "\"Amigen, let me stay amongst the glowing embers of this land,\" Adjucanis shouted over the speeder's scream and explosion of air."
+          },
+          {
+              paragraph: "His frantic prayer was answered. The blast spun the speeder through four full rotations as it skidded away from the city. Sand, sky, walls, and the horizon blended together while Adjucanis wrestled for control. He jammed his claws down, leaving calligraphic swirls of Augmented hex behind him as the speeder shuddered to a stop."
+          },
+          {
+              paragraph: "Control reasserted, Adjucanis did not look back at the now-awake city he had once served so faithfully. He leaned forward, chest against the speeder's control panel, and gave it full throttle. The Titan of Ephraa did not look back on what it left in its wake. Neither would he."
+          }
+        ],
+        "img": "../chronicle/adjucanis.jpg"
+    },
+    {
+        "slug": "desert",
+        "title": "Adjucanis: Desert",
+        "story": [
+          {
+              paragraph: "A plume of dust rose into the air, trailing Adjucanis as he rode into Sareste's desert. After picking up the titan's trail in Ephraa, he traveled northwest, following the massive prints set into the shifting sands. Even with the constant wind shaping and rearranging the dune's peaks and valleys, the Guarphaord could still follow the beast's path."
+          },
+          {
+              paragraph: "It was on the third day he saw a low-hanging cloud on the horizon. It was light brown, the color of sand whipping through the air. Ordinarily, Adjucanis would think he was following a large army on the march to lay siege to a city, but this day he knew he had found the Titan of Ephraa. According to his map, he was halfway to the Agoan city of Jeruder. Adjucanis hugged the speeder tighter and opened the throttle. Adrenaline sang along his nerves, reverberated down his spine, and pricked the fur across his body. He was on the hunt."
+          },
+          {
+              paragraph: "Swinging out into a wide arc, Adjucanis intended to cut the beast off. He made quick work of it, blasting across the desert and reaching the dust cloud's ragged edge in no time. Sand scratched at his muzzle and eyes as he accelerated past the cloud's main body, staying at least 100 yards away from the dust, looking for the monster's head."
+          },
+          {
+              paragraph: "It was as hideous as he remembered."
+          },
+          {
+              paragraph: "The beast's head, neck, and shoulders rose out of the dust cloud like the prow of a ship cutting through fog. Now, Adjucanis realized it had six thick, heavily scaled legs, and the front four churned up so much sand it blocked out the rest of its form. It was as though the titan crafted itself from the dirt and sand of Sareste, molding it all into a physical form as it traveled across the world, billowing evil behind it. Fangs, whole and broken, jutted out of its blunt snout, and three pairs of eyes swiveled to scan the landscape. When they alighted on Adjucanis for a moment, his throat clenched with fear, but the titan only looked back to the horizon. Its stride made the ground shudder, and for the first time Adjucanis truly grasped the scale of the challenge before him."
+          },
+          {
+              paragraph: "Avalroth's question rang in his mind. Perhaps he really did have some sort of death wish. Yet, here he was, keeping pace with a creature that could easily annihilate Jeruder. He had an oath to keep."
+          },
+          {
+              paragraph: "The speeder howled as he leaned over, narrowing the gap but staying ahead of the titan. Pulling his point cannon from his vortex, Adjucanis aimed it overhead at the titan's neck. His finger curled around the trigger as he muttered a prayer to Amigen."
+          },
+          {
+              paragraph: "\"Let me extinguish this beast so the lights of others may burn for your glory.\""
+          },
+          {
+              paragraph: "He fired, the explosions tracking along the beast's neck as he swung under it. Scales blacked and blew apart, showering the desert floor."
+          },
+          {
+              paragraph: "The titan roared, cracking the air with its cry. Adjucanis resisted the urge to cover his ears as he circled around for another volley."
+          },
+          {
+              paragraph: "It was staring right at him. The six massive eyes were wide, their diamond-pupils thin slits in the bright orblight. Another roar issued from the beast's maw, and the air pressure threatened to knock Adjucanis off the speeder. He hunkered down, aimed, and fired."
+          },
+          {
+              paragraph: "The blasts went high. He shot the beast square in the nose."
+          },
+          {
+              paragraph: "Shaking its head, the titan slashed at the sand with its front claws. Although it was a slow, ponderous attack Adjucanis easily dodged, he was unprepared for its scope. The massive claw ripped into the desert, tearing a small canyon into Sareste and throwing a solid wall of sand into the sky. Adjucanis twisted the throttle, aiming to get out from under the sand's shadow, but it was too much. A mountain of hard sand crashed down upon him, plummeting him into coarse darkness. His arms churned as he tried to exhume himself from the shifting grit."
+          },
+          {
+              paragraph: "Daylight was a welcome thing to see. He erupted from the newborn dune, heaving, gasping, and coughing to get his breath back and the sand out of his mouth. He cast about, looking for the titan, and saw it had resumed its course for Jeruder."
+          },
+          {
+              paragraph: "\"I am but a gnat flinging itself against its hardened scales,\" Adjucanis said to himself, his voice hoarse. \"I must find a better way.\""
+          },
+          {
+              paragraph: "Crawling across the dune's spine, Adjucanis began digging for the speeder. He uncovered the control yoke, and when he pulled on it the entire assembly came off in his hands. More digging revealed smashed stabilizers and missing inertia dampers. Avalroth's speeder was dead."
+          },
+          {
+              paragraph: "Glancing between the shattered speeder and the titan's retreating form, Adjucanis quickly hatched a plan. He sliced the still-glowing power unit assembly from the frame, ripped out a length of wiring, and fashioned a harness. Shouldering his new makeshift weapon, the Guarphaord sprinted across the sands."
+          },
+          {
+              paragraph: "Running in the beast's wake only meant more sand filled his fur and tore at his eyes, but he didn't feel the stinging pain anymore. When the titan's tail whipped overhead, cutting a clear swath through the dust cloud, Adjucanis pulled his whip from his vortex. He prayed the tail would dip low enough to give him a solid target."
+          },
+          {
+              paragraph: "After numerous prayers, the tail dipped."
+          },
+          {
+              paragraph: "Adjucanis' whip shot out, cracking the air and wrapping around a misshapen scale. He tugged, ensuring it was a tight hold, and began climbing up his whip. Drafts in the titan's wake spun him around countless times, wrecking his equilibrium and threatening to upend his stomach, but still Adjucanis tenaciously climbed on. His arms and legs burned with effort, and he forced himself to regulate his breathing, seeing each upward heave as its own individual effort. When he finally reached the undulating, hard surface of the titan's tail, Adjucanis found himself coughing a prayer of thanks. There was no time to pause, he thought, as the sand swirled around him. Jeruder was getting ever closer."
+          },
+          {
+              paragraph: "As he ran across the titan's back, wind-driven sand tore through his fur, burying itself into his skin. As Adjucanis passed through the dark shadows beneath the titan's twitching, useless wings, new aerial riptides threatened to throw him off the beast's back. He broke through the awful dust cloud by squeezing between the cluster of short and blunt, long and sharp horns atop the titan's head. Carefully holding the drive core, Adjucanis slid down the crackling scales between the monster's eyes."
+          },
+          {
+              paragraph: "Scrambling across the wide snout, which pitched sideways as the titan twitched, Adjucanis pulled a length of golden wire from his vortex, secured it around a small horn and jumped."
+          },
+          {
+              paragraph: "Swinging through the air, Adjucanis aimed for one of the intact fangs glinting in the titan's open maw. He gripped tightly on the wire, stopped his descent, and ran across the hard, wet fangs while forcing any thoughts about how they could tear him apart deep into the back of his mind."
+          },
+          {
+              paragraph: "There was a gap between the two teeth furthest back — a space large enough to hold the power supply. Carefully sliding the pack off his shoulders, Adjucanis wedged it between the fangs and gently stamped on it with his foot to secure it. Job done, he climbed back up the titan's snout, ignoring the pain raging from his palms to his biceps. There would be time to meditate on his wounds later — the first spires of Jeruder were coming into view."
+          },
+          {
+              paragraph: "\"I am out of time,\" he said to the wind rustling his fur."
+          },
+          {
+              paragraph: "He burst out of his crouch, running back up the titan's snout toward its left eyes. Whereas the beast had previously tolerated the thing crawling around on its scales, it now tried to refocus on the fuzzy shape moving toward its face."
+          },
+          {
+              paragraph: "Adjucanis' claws glinted under the Orb's glow. They reflected the orblight half a dozen times, leaving gold, gleaming trails behind him as he slashed at the Titan of Ephraa's eyes."
+          },
+          {
+              paragraph: "All three popped, spewing sulfurous clay across Adjucanis. It overpowered his senses, filling his nose and mouth with the taste of something long since dead and rotted. He couldn't stop himself now: he dropped to his knees and vomited."
+          },
+          {
+              paragraph: "Howling in pain, the titan shook its head violently. Whatever grasp Adjucanis had on the scales beneath him loosened, during his retching and when the titan threw its head back, the Warden went flying out into thin air."
+          },
+          {
+              paragraph: "The wind rushing around him brought Adjucanis back to the present. He somersaulted, fell back on a training lesson from ages before, and slashed at the air with his claws. Emerald hex strikes filled the air and Adjucanis leapt from one to the other at oblique angles, scrubbing off speed and forming a lattice that descended toward the sand below. By the time he tucked and rolled along the crest of a sand dune, the first Augmented hex strikes had begun to fade away."
+          },
+          {
+              paragraph: "Adjucanis leapt to his feet, ignoring the heavy sand plastered on him thanks to the beast's blood. He let himself smile in satisfaction as the Titan of Ephraa tossed its head and carved the ground with its claws while bellowing in agony."
+          },
+          {
+              paragraph: "His vortex glowed again, and Adjucanis retrieved his backup point cannon. He adjusted the sight, aimed at the titan's mouth, and fired."
+          },
+          {
+              paragraph: "The explosion charred part of the beast's tongue. It turned, focusing its three remaining eyes on the cause of its wounds. Roaring again, it charged at the lone Guarphaord atop a sand dune."
+          },
+          {
+              paragraph: "Adjucanis took aim again, seeking out the power unit's purple glow. It was a bright pool of light in the otherwise dark, endless tunnel charging at him."
+          },
+          {
+              paragraph: "Rivulets of sand ran down the dune as the titan thundered closer."
+          },
+          {
+              paragraph: "Adjucanis breathed in."
+          },
+          {
+              paragraph: "The titan's graveyard breath filled his lungs."
+          },
+          {
+              paragraph: "Adjucanis breathed out, stopping halfway."
+          },
+          {
+              paragraph: "The titan's fangs blotted out the Orb and cast shadow over the dune."
+          },
+          {
+              paragraph: "Adjucanis fired."
+          },
+          {
+              paragraph: "With a crack heard for miles around, the power unit exploded. The titan's jaws disappeared into a purple supernova, and the shockwave knocked Adjucanis to the ground. Air pressure squeezed him into the demolished dune. Then Orb shone on him again, and with blinking eyes he searched for the Titan of Ephraa."
+          },
+          {
+              paragraph: "As purple blotches of light cleared from his vision, Adjucanis could see the beast resting just feet from him. The titan had collapsed, head plowing into the sand."
+          },
+          {
+              paragraph: "What was left of the head, Adjucanis corrected himself."
+          },
+          {
+              paragraph: "Half the monster's snout was gone, leaving a blackened, twisted, oozing mass of putrid flesh behind. The remaining fangs were shattered, jagged stumps. Most of the titan's head was gone, including its ruined eyes, and the claylike blood oozed from the fatal wound, forming slow rivers of gore inching across the sand."
+          },
+          {
+              paragraph: "As he stared at it, Adjucanis could see something pulsing within the titan's skull. The blood seemed to flow from a cavity holding the mass."
+          },
+          {
+              paragraph: "Adjucanis launched himself through the air, claws at the ready for an Onslaught against the monster's brain. The Guarphaord tore through the exposed orange matter, leaving great arcs of gelatinous clay behind him. Blotting out the odor, not caring if he reeked of it for the rest of his life, Adjucanis slashed deeper into the brain. The titan twitched mightily, thrashing at the sands with its tail and beating the air with its stunted wings. The sudden movement threw Adjucanis against something hard: the titan's skull. A shiver ran through the bone. Sulfur flooded the Warden's nose. Then fresh air filled his lungs."
+          },
+          {
+              paragraph: "What was once solid bone dissolved into sand. Overhead, pinpricks of light lanced through a heavy cloud of sand, which slowly sank to the desert floor or drifted off to the horizon on a gentle breeze. Adjucanis looked about him, absentmindedly running his claws through his fur — it was packed with sand. There wasn't a drop of the liquid clay on him."
+          },
+          {
+              paragraph: "The titan, he realized, dissolved around him at its moment of death."
+          },
+          {
+              paragraph: "\"Amigen, I give you thanks for allowing me to fulfill my oath,\" Adjucanis said, kneeling down. \"May your light one day return to Ephraa, which deserves such vengeance wrought in its name. May such an awful beast never again threaten Sareste. May I continue to serve you faithfully until I reach my end and my light … is … extinguished.\""
+          },
+          {
+              paragraph: "The last words of his prayer slurred together as exhaustion rippled through Adjucanis' body. Darkness poured from the ground itself as he fell forward."
+          },
+          {
+              paragraph: "Orblight, now dim with the red hue of twilight, leaked through Adjucanis' fluttering eyelids. Long shadows stretched out before him, but they were too thin for dunes. He forced himself up on his elbows — it seemed to take every scrap of his strength."
+          },
+          {
+              paragraph: "An Agoa, its mane still shimmering in the last of the Orb's gaze, crouched down."
+          },
+          {
+              paragraph: "\"We witnessed your battle, brave Warden,\" he said, extending a hand. \"We owe you our deepest thanks and so much more besides. Come with us to Jeruder, the city you saved, so we may honor you.\""
+          },
+          {
+              paragraph: "Adjucanis clasped the Agoan's proffered hand and pulled himself up. Standing, he decided, was certainly his greatest challenge yet. All the same, he waved off the scout party's offer of a stretcher to bear him into the city. He entered this battlefield of his own accord, and he would leave the same way. If he held his head at just the right angle, the Agoans might think it was the regal stride of a victor rather than that of a Warden whose muscles were begrudgingly obeying orders."
+          }
+        ],
+        "img": "../chronicle/adjucanis.jpg"
+    },
+    {
+        "slug": "gate",
+        "title": "Adjucanis: Gate",
+        "story": [
+          {
+              paragraph: "When Adjucanis collapsed in front of Filistion's southerly gate four days after he killed the Titan of Ephraa, he could say only one thing, \"Water.\""
+          },
+          {
+              paragraph: "It was another two days, and countless units of saline solution and blood plasma, before the only rogue Warden in the city's history regained consciousness. Instead of seeing the bright lights of the hospital overhead as he expected, Adjucanis was greeted with the veined marble ceiling of a jail cell."
+          },
+          {
+              paragraph: "Turning his head to one side brought another marble wall into view. Turning it the other way brought marble bars into view, along with a guard sitting across the hall, idly picking his teeth. Adjucanis tried to call out to him, but could only cough as his unused larynx rebelled."
+          },
+          {
+              paragraph: "\"Welcome back to the land of the living, Adjucanis,\" the guard said, looking along his narrow, pointed snout. The crocodile grunted. \"You've been out for several days. Some thought you would never awake.\""
+          },
+          {
+              paragraph: "\"Why here?\" Adjucanis asked."
+          },
+          {
+              paragraph: "\"Here? Ah, you mean the cell. Commander Cerburel wasn't inclined to keep you in the hospital. Actually, he wasn't inclined to let you keep your head when you stumbled back through the gate, but the city council interceded. Your actions at Jeruder and intercepting that Maroe raid on its way to Filistion balanced out you abandoning us. The commander thought this was a more appropriate, ah, accommodation for you while they debated what to do with you.\""
+          },
+          {
+              paragraph: "\"You are Jardiocus, yes?\""
+          },
+          {
+              paragraph: "\"I am.\""
+          },
+          {
+              paragraph: "\"Well met, Jardiocus.\""
+          },
+          {
+              paragraph: "The guard tapped his blunt claws to his low forehead in an informal salute. \"Well met, Adjucanis.\""
+          },
+          {
+              paragraph: "Memories of leaving Jeruder, literally running into a Maroe raiding party, fighting tooth and claw in the middle of the desert, losing another speeder, and the ages-long walk back to Filistion tumbled through Adjucanis' mind before he blinked once, perhaps twice, and surrendered himself to sleep."
+          },
+          {
+              paragraph: "A clanging brought him back to consciousness. It echoed in the small cell and drilled into his skull, bouncing around and forcing Adjucanis' eyes open. He looked to the bars, expecting to find Cerburel there with a long dagger. Instead it was a hunched Ibis with disheveled feathers. The tall bird gazed at him with one large, round eye. He wore the long, deep red robes of a scholar."
+          },
+          {
+              paragraph: "\"Hello, Adjucanis. I am Percervral, the master historian of Filistion. Perhaps you've heard of me?\" The bird cocked his head to one side."
+          },
+          {
+              paragraph: "\"I'm afraid I have not.\""
+          },
+          {
+              paragraph: "\"Not surprising. Few in this city even know I exist, let alone know my name.\" Percervral sighed, eyes flicking back and forth over the jailed Warden. \"I have little time, unfortunately. I had to bribe your guard friend with a sack of jerky and box of tooth whitener just to get five minutes alone with you. You're under strict guard.\""
+          },
+          {
+              paragraph: "\"So I've gathered.\""
+          },
+          {
+              paragraph: "\"Indeed. But! Enough pleasantries. Everyone is talking about you killing the Titan of Ephraa. It is impressive. Very impressive.\" Percervral held up his gnarled hands. \"However, I am not here to congratulate you. I'm here to tell you what you killed. No one knew what it was. Not you. Not Cerburel. Not the Maroe at Ephraa. I had to dig deep into the city's archives, down into rooms not visited in generations. Locks were rusted. Water dripped from the ceilings. Dirty place, down there."
+          },
+          {
+              paragraph: "\"I found it in one of the last books Historian Escurtrius wrote before she died. She was the first master historian — a most impressive cataloguer. She spoke with a veteran of the Spawn Extinguishment. Have you heard of this?\""
+          },
+          {
+              paragraph: "Adjucanis shook his head. He found himself edging in his cot back toward the wall. The gleam in Percervral's eyes was something bordering on madness."
+          },
+          {
+              paragraph: "\"It's such a rare thing to get a firsthand account of that. It's almost a legend. The Races of Old created these Robots to fight Spawn, creatures of chaos from beyond Ocost. They ravaged our planets. Killed millions. Escurtrius wrote they could be small as sheep or large as cities like the Titan of Ephraa.\" Percervral clicked his beak. \"Tell me. How many more Spawn were there when you killed the titan? Six? A dozen? Twice that? I must know.\""
+          },
+          {
+              paragraph: "\"Just the titan,\" Adjucanis said, still wondering if the bars were meant to keep him in or Percervral out."
+          },
+          {
+              paragraph: "\"The one? How strange.\""
+          },
+          {
+              paragraph: "Adjucanis asked the question before he realized it was passing his lips."
+          },
+          {
+              paragraph: "\"Should there have been more?\""
+          },
+          {
+              paragraph: "\"More? More? Certainly there should have been more. Where you find one Spawn you find a multitude. One that size could attract hundreds — thousands,\" Percervral said, fluttering his robe. \"They are still with us. Yes. They could be small, hiding in a forest on Xydak, or massive as the one at Ephraa and hiding under Cryce's snows.\""
+          },
+          {
+              paragraph: "A heavy knock sounded at the hall door. Percervral's head snapped around, and he nodded."
+          },
+          {
+              paragraph: "\"Our time is up. Congratulations on your accomplishment, Adjucanis. It is indeed one for our histories.\" Percervral bowed at the waist and then strode down the hall, only to quickly scurry back, shoving his beak against the bars. \"How strange. I suppose I did come to congratulate you after all. Congratulations.\""
+          },
+          {
+              paragraph: "With that, the historian scuttled back up the hallway in a rustle of robes, leaving Adjucanis alone with visions of Spawn crawling the walls of Filistion and pouring down its streets."
+          },
+          {
+              paragraph: "Cerburel did not appear before the cell bars for another two days. When he did, Adjucanis noted with some amusement the commander was wearing his ceremonial gilded headdress and chest plate. However, the pair of gold and erril hybrid concussive shotguns holstered at Cerburel's waist erased the smirk from Adjucanis' lips. The two jackals stared at each other, standing on opposite sides of the cell bars and silently daring the other to speak first."
+          },
+          {
+              paragraph: "Seeing as he had nowhere else to be, Adjucanis didn't see himself breaking the impasse."
+          },
+          {
+              paragraph: "\"The city council has made a decision, Adjucanis. They have instructed me to offer you a position in your former phalanx as a Warden in order to fill its ranks from the disaster at Ephraa. You will serve as a Warden for the rest of your days and will never again attain a leadership role,\" Cerburel said, his voice tight."
+          },
+          {
+              paragraph: "Adjucanis said nothing."
+          },
+          {
+              paragraph: "\"My initial impulse to banish or execute you immediately was deemed rash by the council. I must admit they were right. Killing the Titan of Ephraa aside, you singlehandedly engaged a Maroe raid bound for Filistion. We were unaware of its existence until a patrol found the remains. It was an impressive feat — much as the Agoans of Jeruder argue your performance there may have saved their city,\" Cerburel continued, as he began tapping his claws against a shotgun's grip. \"You can accept this offer or you can leave Filistion to find life elsewhere. You will not be allowed to stay here unless you are a Warden. The council allowed me that much, at least. I require an answer now. Either you serve Filistion — though your oath is hardly worth the breath it's carried on at this point — or you leave. There is no time for consideration.\""
+          },
+          {
+              paragraph: "Adjucanis nodded, looking Cerburel squarely in the eyes."
+          },
+          {
+              paragraph: "\"I've been told I killed a Spawn,\" he said, the word still awkward in his mouth."
+          },
+          {
+              paragraph: "Cerburel's eyebrow cocked. He stopped tapping on the grip."
+          },
+          {
+              paragraph: "\"So Percervral managed to talk to you, did he? I repeatedly denied his requests, but apparently I have other Wardens who do not follow my orders.\""
+          },
+          {
+              paragraph: "\"He said there are more Spawn out there.\""
+          },
+          {
+              paragraph: "\"So he told me. Were there other <em>Spawn</em> near Jeruder?\""
+          },
+          {
+              paragraph: "\"No. There were not.\""
+          },
+          {
+              paragraph: "\"Have you seen any others? Any additional mythological creatures storming our gates?\""
+          },
+          {
+              paragraph: "Adjucanis' glare could have incinerated plate steel."
+          },
+          {
+              paragraph: "\"No,\" Cerburel said, \"I thought not. The Maroe, however, <em>are</em> out there. You know this intimately. You can protect this city and <em>its people</em> from an existential threat to their very lives. Your skills — dare I say your talents — cannot, should not, be wasted on pursuing ancient ghosts long since past.\""
+          },
+          {
+              paragraph: "\"I swore an oath.\""
+          },
+          {
+              paragraph: "\"To yourself. We have discussed this.\""
+          },
+          {
+              paragraph: "\"Yes. We have.\""
+          },
+          {
+              paragraph: "Cerburel huffed impatiently. He leaned forward, nearly pressing his head to the bars as Percervral did days before. \"What is your answer?\""
+          },
+          {
+              paragraph: "\"If there are still Spawn in Ocost then I must destroy them. I have sworn to annihilate anything related to the beast at Ephraa, and I will do so,\" Adjucanis said, never hesitating. \"If that means I must leave Filistion, then so be it.\""
+          },
+          {
+              paragraph: "\"Oath-breaker,\" Cerburel spat."
+          },
+          {
+              paragraph: "Stepping back from the bars, Cerburel waved at the guards down the hall. One carried a knapsack, while the other unlocked Adjucanis' cell. The two guards flanked him while Cerburel led them out of the cell block, across the training yard, and through the streets of Filistion."
+          },
+          {
+              paragraph: "Citizens pointed and whispered as Adjucanis walked past, and he purposefully ignored what they were saying. Even still, the phrases \"rogue Warden,\" \"titan killer,\" and \"banished disgrace\" filtered through to his ears. Cerburel marched the group down Amigen Boulevard and Adjucanis realized he was being sent out through the southerly gate — appropriate, at least."
+          },
+          {
+              paragraph: "His former phalanx was standing guard there, and none of them met his gaze as they lined up on opposite sides of the open gate. Each one stood at attention, eyes fixed at something just above Adjucanis' head as he walked by. Cerburel stopped just before the threshold and turned to his former Warden."
+          },
+          {
+              paragraph: "\"You officially renounce your position with Filistion's Wardens and break your oath with her people?\" he intoned."
+          },
+          {
+              paragraph: "\"I do indeed,\" Adjucanis said, never shrinking from the words. He refused to look ashamed or remorseful for what he needed to do."
+          },
+          {
+              paragraph: "Cerburel nodded, and as he walked past Adjucanis he leaned in close."
+          },
+          {
+              paragraph: "\"Then don't bother coming back,\" Cerburel hissed."
+          },
+          {
+              paragraph: "With that, the Warden Commander shoved Adjucanis through the gate. The doors immediately began swinging shut, and within moments they came together with a definitive clunk."
+          },
+          {
+              paragraph: "Adjucanis shouldered the knapsack, feeling the containers of bread and water knocking against his grieves and bracers. He set off into Sareste's desert under the Orb's bright light, never once looking back."
+          }
+        ],
+        "img": "../chronicle/adjucanis.jpg"
+    },
+	{
         "slug": "starlight",
         "title": "Lerykaz: Starlight",
         "story": [
@@ -2903,5 +3619,604 @@ module.exports = [
           }
         ],
         "img": "../chronicle/seszil.jpg"
+    },
+    {
+        "slug": "snow",
+        "title": "Zyr: Snow",
+        "story": [
+          {
+              paragraph: "Something moved in the snow-lit twilight, shifting through the gaps between falling snowflakes and barely leaving a print behind in the fallen snow. Each flake, the dying breaths of the latest blizzard to sweep over this part of Cryce, twisted around the dark form, gliding over a surface nearly identical to the blued haze reflected from the snow, but still half a tint too light."
+          },
+          {
+              paragraph: "The cloaked Pterri fought gravity, using Traction to inch down the steep slope, feeling another section of snow give way and slide down the mountain with each step. Zyr's armor protected him from the deep cold, but he could still feel the barest chill seeping through the layers to brush his gray skin. The HUD in his helmet counted down the cubits until he would reach his target: a vent built into the mountain's side large enough to shimmy through."
+          },
+          {
+              paragraph: "With 10 meters left to go, Zyr crouched and released his Traction ability. He slid down, cut through the white powder, and picked up speed. As the distance dwindled, Zyr threw a hand out behind him, and when the mountain disappeared from underneath him, and his equilibrium dropped down into open air, his fingers clamped onto hard crystal. The Pterri easily swung back, clung to the crystal vent grate, and felt the miniature avalanche he started crash around him on its way to the valley floor kilometers beneath him."
+          },
+          {
+              paragraph: "Zyr could see his reflection in the grate's thick crystal teeth. His elongated helmet stretched out even further in the sparkling material. It didn't last long, though, as he activated the sonic plate in his gauntlet and shattered the material with a high-pitched blast."
+          },
+          {
+              paragraph: "Crawling through the vent system took longer than he expected. Thanks to the Krysar's preferences for crystal construction — not to mention the kilometers of thick rock and snow atop the facility — the scouting team could only map out the first few levels. As he descended, Zyr's map became spotty and ever more useless. As the mission clock ticked over the two hour mark, the Pterri operative had no idea how far he had gone or how much more was left. With time ticking away, he could only descend."
+          },
+          {
+              paragraph: "At one intersection, as he took the larger shaft off to the right, its purpose became apparent. Rather than carrying heat or cool air, this shaft was a discharge route — he could feel the power crackling along the crystal surface, and while his energy armor kept him grounded, Zyr could feel the energy buzzing in his teeth and chattering them together."
+          },
+          {
+              paragraph: "The full blast came at him from behind. It was an immense noise, like a mountaintop crumbling into a valley, and the shaft around Zyr turned a bright blue. Glancing over his shoulder, he saw a webbed mass of energy bolts blasting toward him."
+          },
+          {
+              paragraph: "There was nowhere to go."
+          },
+          {
+              paragraph: "Pain washed over him — every nerve aflame and twitching as the massive voltage fried his armor, gear, and skin. Zyr thrashed against the crystal shaft, striking out jaggedly as the power tore through his frame."
+          },
+          {
+              paragraph: "He lost his grip and he fell, dropping through the electrical storm. When he slammed into the shaft's base it was with a cracking thud, as his left shoulder broke and his armor crumpled. Zyr could barely feel the impact, however, as it couldn't run along his burnt-out nerves. Blood flecked against the inside of Zyr's helmet as he struggled for breath. His lips formed the only word he needed now."
+          },
+          {
+              paragraph: "\"Rewind.\""
+          },
+          {
+              paragraph: "In an instant, he was whole. His arm unbroken, lung intact, and nerves fully functional, Zyr scurried down a side shaft. He wasn't keen to count coup with death a second time."
+          },
+          {
+              paragraph: "Zyr later arrived at a wide vertical shaft and peered down. A grate at least twice the thickness of the one outside was at the bottom. So far as Zyr could tell, nothing smoking, burning, or aiming to fry him was on the other side."
+          },
+          {
+              paragraph: "Activating Traction again, Zyr clambered down the shaft, stopping just above the grate. He leaned out, peering through the bars at the dim, blue room beyond."
+          },
+          {
+              paragraph: "His helmet cycled through a variety of spectrums. Crystal matrix computers, assembly drones, delicate soldering lasers, sonic sculptors, chemical synthesizers and a deactivated rocket engine waited in the long room beneath him, but nothing was active. A thought flickered in Zyr's mind about introducing the rocket engine to the tactical evaluator who planned this mission, but he snuffed it out with a grunt."
+          },
+          {
+              paragraph: "Security remained the open question. Zyr had no idea what awaited him on the other side of the grate, and the idea made his hands unconsciously clench against the smooth crystal."
+          },
+          {
+              paragraph: "As the seconds ticked by on his mission clock, Zyr shook his head, reached out, and clasped the grate. Tightening his grip, he fired the sonic plates at their half-power setting. The crystal shattered, straining the noise cancelers in his helmet. As the shards fell to the floor, Zyr released Traction, and he tumbled forward through the newly opened gap."
+          },
+          {
+              paragraph: "As he hit the floor the lighting snapped to red. Twin whirrs coming from the ceiling heralded two automatic drones. They trained their barrels on Zyr and fired a volley."
+          },
+          {
+              paragraph: "The air cracked as the first tungsten slug fired a millisecond earlier than its twin, and Zyr was ready. He Countered the first round, instantly Absorbing it into his gauntlet and firing it back at the drone. It exploded, sending crystal shards flying through the air. Zyr immediately performed Encore, repeating his counter and absorption technique to send the second tungsten round back to its drone. Its remains scattered across the lab, pockmarking and puncturing equipment."
+          },
+          {
+              paragraph: "Now the red lighting pulsed, and Zyr could only assume that meant a general alarm was now going through the facility. Time was working against him now."
+          },
+          {
+              paragraph: "He sprinted toward the sealed door, shattering it with a sonic blast. Leaping over the jagged remains, he reached for his vortex. It shimmered, releasing a handful of transparent pellets crackling with sealed energy. At each hallway intersection, he threw a few down the hallway. The pellets skipped, scattered, and broke as they careened along the crystal. Their released energy cascaded along the walls, transmitting their findings back to Zyr's helmet."
+          },
+          {
+              paragraph: "As he dodged, Countered, and Absorbed tungsten rounds from dozens of automatic turrets, the picture became clear: a large lab was just beneath him."
+          },
+          {
+              paragraph: "Zyr fought his way toward a wider corridor, or what his map said was a corridor. When he rolled out of the hallway, he realized it was a lecture hall. Row after row of seats were molded into the crystal floor, all flowing toward a raised dais with a holo display. Zyr leapt and rolled toward the lowest point — the section just before the dais. Tungsten rounds zipped past his head, some coming so close his energy armor crackled against them, others biting at the crystal and sending shards bouncing off his helmet."
+          },
+          {
+              paragraph: "As he neared the dais, a drone zipped so low it flew between his outstretched legs. Its barrel moved with a certain grace, spinning into position as the drone pirouetted in midair. It fired."
+          },
+          {
+              paragraph: "Landing flat on his stomach, Zyr cranked his sonic gauntlets to their maximum setting, placed them flat against the floor, and fired."
+          },
+          {
+              paragraph: "The world broke, becoming a twisting storm of mirrored fragments."
+          },
+          {
+              paragraph: "Zyr fell straight down, surrounded by sharpened, whirling crystal daggers. While his energy sensors had correctly told him the main lab was under the lecture hall, they hadn't come close to estimating the distance — he was at least 15 stories above the lab and fast approaching the hard stone floor."
+          },
+          {
+              paragraph: "Somersaulting, Zyr aimed his sonic gauntlets at the far wall and fired. The recoil rocketed him backward, slamming him into the mountain's granite core and knocking the breath from his lungs. Not wasting a moment, Zyr used Traction and dangled from the wall by one hand."
+          },
+          {
+              paragraph: "The Pterri estimated he stopped around halfway through the drop. Below him, the floor glittered with powered crystal and odd shards continued to rain down from on high. As he scanned the area, Zyr realized a single Kryar was standing directly beneath him. Blue laserlight pulsed in the Krysar's hands — so bright Zyr's helmet darkened his visor a fraction. The Pterri could only assume it was a master wright, and that called for caution."
+          },
+          {
+              paragraph: "Sliding down the sheer wall, Zyr let himself build up momentum before fully releasing Traction and kicking off from the stone. He arced through the empty air, twisted, and activated his vortex. The small disc gleamed and Zyr drew forth a Pterri combat sword with sonic overlay."
+          },
+          {
+              paragraph: "Spinning around, and falling now, Zyr grasped the sword in both hands and aimed the tip down. It was only a moment before the blade sunk into the Krysar's translucent collar crystal and the hilt threatened to jump out of Zyr's hands. Planting his feet solidly against the floor, he tore the blade clean through the master Krysar, splitting it in half from shoulder to hip. Except for cracking apart, the master wright never made a sound."
+          },
+          {
+              paragraph: "While thin red light faded from the dying Krysar's eyes, Zyr took stock of his surroundings and realized he was exactly where he needed to be. Set into the opposite wall, towering over the Pterri, were crystalline matrix computers. Each column, a delicate web of finely spun glass, pulsed with silver light. They spanned the entire opposite wall and ran so far back into the mountain's base Zyr thought he could see the curvature of Cryce. This was the brain of the Krysar, he realized, as he approached the network."
+          },
+          {
+              paragraph: "Zyr's vortex glowed as he pulled a crystalline memory rod from its depths. Sliding it into a column's base produced an instant effect: the entire crystal matrix glowed green, and the memory rod projected a holographic display, awaiting a command."
+          },
+          {
+              paragraph: "He tapped out the necessary commands, selected the files that he needed, and a few that were simple guesswork, and waited. Column after column glowed green for a moment before setting off in an eye-searing, strobing display of green flashes as they processed the requests at near lightspeed. Within seconds, the memory rod glowed green, and Zyr extracted it from the column."
+          },
+          {
+              paragraph: "He'd been ordered to sabotage the computer with a brace of sonic grenades, but Zyr didn't see the point. Given the computer's vast scale — grander than he'd even imagined — a few grenades meant nothing. Only an orbital strike had any hope of destroying the entire computer."
+          },
+          {
+              paragraph: "Toward that end, he approached a column several rows back. Working quickly, he sat a thick black box into the center, hiding it underneath the strands of glass. Plugged into the memory port, such as it was, the homing beacon would only draw power and send out its coded, high-frequency signal when triggered, which ensured neither the Krysar nor Zyr's superiors would ever discover the device. That was all he wanted, for the moment. His battleship, when Zyr had one, would do the rest."
+          },
+          {
+              paragraph: "By the time a Krysar transport rolled up to the facility's entrance, Zyr was already climbing back up the mountainside, fighting snowdrifts with as much determination as the destroyed swarms of automated turrets he left scattered in his wake. His mission clock had only minutes left as he fought the increasing wind and shifting snowbanks. A blizzard was returning to this northern area of Cryce and his evac window would slam shut when it arrived."
+          },
+          {
+              paragraph: "When the Krysar squads found their decapitated master crystalwright, Cixarli, the Pterri commando had freed his shuttle pod and rocketed into space. The spot transmitted his mission's success to the cloaked destroyer in stationary orbit above the planet, but what it didn't mention was how it had copied the memory rod's contents onto a Pterri standard memory blade."
+          },
+          {
+              paragraph: "Zyr twirled the small slice of aluminum and silicon between his fingers as the pod approached the destroyer. One day he would have the power to bring the Krysar to heel, and if they didn't bow to him, Zyr would give them oblivion in return."
+          }
+        ],
+        "img": "../chronicle/zyr.jpg"
+    },
+    {
+        "slug": "ravine",
+        "title": "Zyr: Ravine",
+        "story": [
+          {
+              paragraph: "The Frade Market was nestled in a thin ravine shooting off the central iron mine. Before it morphed into a smooth tunnel leading to homes and hovels, its walls arced out from the narrow market floor as a gradual V before opening up to Pormos' mustard sky."
+          },
+          {
+              paragraph: "So little natural light filtered down through this crack in the earth that an enterprising Dkor set up polished sections of steel and glass along the opening's rim; and as the Orb tracked across the sky, mirrorkeepers would slowly ply their muscles to the gears and cogs, follow the blazing ball of light, and beam its reflection downward where dozens of smaller mirrors set into alcoves continued the relay. In this method, one mirror at a time, the Frade Market operated without a single generator or battery, which would only get stolen by cursed Vijari anyway. Although it was within the Dkor tendency for practical thinking, it was a luxury no other city had copied."
+          },
+          {
+              paragraph: "Beneath this lattice of pure white light, a cloaked Pterri commando silently slid through the throngs of Dkors filling the market. Zyr easily sidestepped miners meandering about their business between shifts as he scanned the stalls and storerooms cut into the ancient rock. His helmet rotated through the spectrums — thermal, magnetic, delta, visual — on a regular basis as he hunted the Vijari assassin Larasab."
+          },
+          {
+              paragraph: "\"Are we sure she's going to show, Zyr?\" Vena's voice lapped against his ears, bringing him back from the patrol's tedium."
+          },
+          {
+              paragraph: "\"The tactical evaluator said she was in this sector. She'll come to us. Out of curiosity, if nothing else. We made enough noise during insertion.\""
+          },
+          {
+              paragraph: "\"May we be faster on the draw, then.\""
+          },
+          {
+              paragraph: "\"Agreed.\""
+          },
+          {
+              paragraph: "Two Dkors locked horns, bellowing obscenities as each tried to throw the other to the ground. Avoiding them, Zyr glanced down and saw a flattened basket of imported greens — something worth fighting over on Pormos."
+          },
+          {
+              paragraph: "\"Not much different than us. Fighting over scraps,\" Zyr muttered."
+          },
+          {
+              paragraph: "\"Careful, comrade. Others may be listening in,\" Vena quietly reminded him."
+          },
+          {
+              paragraph: "Zyr nodded to himself as he continued walking down the market floor. Although this patrol was well on the far side of monotonous by this point, it was curiously peaceful as well. The mine's clanking, grinding, and even blasting was oddly rhythmic. Aside from the odd fights, or screams from the whipping post, the market generated a type of white noise that left him alone with his thoughts, which centered on how he should best deal with the assassin and her band of followers. Orders were to kill them all, of course, but it could be useful to have a Vijari assassin or two in his debt for future use, if he could ensure it. There would eventually come a time when someone needed to die and he couldn't personally slip them the blade. Perhaps even Larasab herself would be interested in —"
+          },
+          {
+              paragraph: "\"She's here. Cover. Now.\""
+          },
+          {
+              paragraph: "Zyr dashed to an empty stall, swiftly rolled over the counter, and crouched under the thick stone."
+          },
+          {
+              paragraph: "\"Where? Are you sure?\""
+          },
+          {
+              paragraph: "Vena sent the coordinates. He heard his squadmate's breathing quicken into a rasp."
+          },
+          {
+              paragraph: "\"I think so. It's Vijari shaped, and I can make out a Fortuna Skull Piercer. Her preferred rifle. Has shredder and poison mods.\""
+          },
+          {
+              paragraph: "\"But is it <em>her?</em>\""
+          },
+          {
+              paragraph: "Vena paused. Even the rasping in Zyr's ear went silent as his squadmate stared at the possible target through a high-powered scope."
+          },
+          {
+              paragraph: "\"It's crouched behind a mirror. Scanning,\" the sharpshooter muttered. \"Overlaying X-ray and color enhancement. Yes. The facial tattoos are a match: they're yellow and running straight down from her eyes. Do I engage?\""
+          },
+          {
+              paragraph: "\"Is she alone?\""
+          },
+          {
+              paragraph: "Zyr could hear the rocks crunching under Vena's boots as the other Pterri scanned the area."
+          },
+          {
+              paragraph: "\"Affirmative,\" Vena said. \"I don't see any other targets along the wall — just mirrorkeepers.\""
+          },
+          {
+              paragraph: "\"Has she marked me?\""
+          },
+          {
+              paragraph: "The pause here was longer. Zyr could imagine his squadmate taking Larasab's position, rifle angle, posture, and even temperature into account as she arrived at an answer."
+          },
+          {
+              paragraph: "\"Affirmative.\""
+          },
+          {
+              paragraph: "Zyr realized how close he had come to getting a titanium slug in his head, and his skin crawled. If the Vijari had gotten that close without him realizing it, she must be good. He needed to be better now."
+          },
+          {
+              paragraph: "\"Permission to engage, sir?\""
+          },
+          {
+              paragraph: "It took a moment for Zyr to realize it was the second time Vena had asked that."
+          },
+          {
+              paragraph: "\"Negative. Observe for the moment.\""
+          },
+          {
+              paragraph: "\"Sir?\""
+          },
+          {
+              paragraph: "Zyr heard the confused tone and wracked his mind thinking how he could get the Vijari out of this alive and still come out on top. Was there a way? There had to be. He was Zyr, after all. He could do anything."
+          },
+          {
+              paragraph: "\"Has she marked you?\""
+          },
+          {
+              paragraph: "He needed to buy a little more time."
+          },
+          {
+              paragraph: "Dkors were thinning out on the market floor now. Given the mirrors he could see, their angles, and the light's thinness, the day was coming to an end."
+          },
+          {
+              paragraph: "\"No. She has not marked me. Her attention is on you. Do I engage? The shot is clear.\""
+          },
+          {
+              paragraph: "Not that it mattered, Zyr thought to himself. The tactical evaluator said nothing about minding civilian casualties."
+          },
+          {
+              paragraph: "The thought instantly crystallized in his mind. It sparkled both in brilliance and simplicity."
+          },
+          {
+              paragraph: "\"Engage in 30 seconds. I will provide a distraction to ensure full success.\""
+          },
+          {
+              paragraph: "\"That's not needed, sir, I—\""
+          },
+          {
+              paragraph: "\"That is an order.\""
+          },
+          {
+              paragraph: "Vena went silent, and so did Zyr. While his squadmate lined up the shot, surely with her finger carefully curled around the trigger, Zyr relaxed, called upon his Spell ability and reached out to the tons of stone surrounding him. He could feel its weight, the tension of gravity holding it together, and brushed the stress cracks left behind from the tunneling. Not much iron was left here, it was true, but so much potential remained."
+          },
+          {
+              paragraph: "Zyr breathed the word so quietly Vena couldn't be entirely sure she'd actually heard it."
+          },
+          {
+              paragraph: "\"Engage.\""
+          },
+          {
+              paragraph: "Two sections of wall collapsed, streaming down toward the market floor in twin avalanches of boulders and cracking sheets of stone. Mirrors caught in the path skipped atop the sliding masses, but quickly went under, while the screams of mirrorkeepers never made it past the debris burying them."
+          },
+          {
+              paragraph: "Vena's shot shattered the mirror rather than Larasab's head as her own alcove plummeted to the ground. Traction and muscle memory from boot camp allowed her to stay atop each boulder that barreled down, and she was, effectively, able to tread rock in order to keep from going under and getting crushed like the dozens of working Dkors below."
+          },
+          {
+              paragraph: "Zyr was in motion before the first pebble was loose. He pushed through the wall behind him, opening a path ahead as he churned his legs and arms, using his Spell and mastery of base materials to propel himself through solid rock. His visor had a lock on Larasab's position, and Zyr angled himself through the earth, rocketing himself forward like a torpedo through its tube. When his fingers brushed the outer layer of rock, Zyr blew it apart, sending flechettes of solid stone through the air and blasting the Vijari out into thin air. Arcing her back, she quickly flipped around, facing her new opponent. Shouldering her Skull Piercer, she snapped off a shot at the Pterri commando leaping out overhead."
+          },
+          {
+              paragraph: "Zyr countered, absorbed the shot with one palm, and fired it back out with the other. The round cracked against the Skull Piercer's stock, and the rifle flew from Larasab's grasp."
+          },
+          {
+              paragraph: "She fell, tumbling through the air, clutching for her weapon as it spiraled away from her into the thick dust. Larasab twirled, righting herself as she dropped toward the hard stone floor, and easily landed among the scattered dust and debris. A long, curved knife that had spilled more blood than most armies appeared in her hand."
+          },
+          {
+              paragraph: "Landing behind her, Zyr fired a blast to Larasab's knee. The Vijari dodged, leapt, spun, and brought the knife around in an overhead slash. Zyr stepped back, watched the blade slice through empty air, and slammed his fist into Larasab's nose. Blood fountained out, coating the assassin's lips. She staggered back, righted her stance, and smiled at her attacker."
+          },
+          {
+              paragraph: "Cocking his head, Zyr looked upon the Vijari's chipped teeth that would be as yellow as her tattoos if not for the tint of blood across them. She was made of sterner stuff than he'd been told."
+          },
+          {
+              paragraph: "As this thought crossed his mind, Larasab tossed a small pouch into the air between her and the Pterri commando. Zyr countered, immediately shooting it down with an energy blast. It exploded into a ball of hot, white fire. Zyr's visor went nearly black to protect his eyes as he flinched away from the supernova. Stumbling forward, cursing himself for shooting flash dust, he tried keeping his focus on Larasab. Where was she?"
+          },
+          {
+              paragraph: "He crouched down, ears and helmet amplifiers pricked for the sound of a knife slashing through the air. The first titanium round struck him between the shoulders."
+          },
+          {
+              paragraph: "She'd found her rifle, he realized."
+          },
+          {
+              paragraph: "A second snap shot plowed into the base of Zyr's neck, buckling the armor plate. He dove forward."
+          },
+          {
+              paragraph: "A third round cracked into hard stone, burrowing into the wall right at head height."
+          },
+          {
+              paragraph: "Coming back up, throwing knife in hand, only clouds of dust and broken rocks were in front of him. Switching to infrared mode, Zyr could see puddles of heat running across what was once the market floor, and he considered pursuit."
+          },
+          {
+              paragraph: "Then Vena began shouting over the radio."
+          },
+          {
+              paragraph: "\"What in the fleet's function just happened?\""
+          },
+          {
+              paragraph: "Twin gunshot wounds meant Zyr didn't need to make his voice hoarse to sell the lie: the pain was already doing that."
+          },
+          {
+              paragraph: "\"She got away. Had a bomb in the walls,\" he took a long breath and hoped Vena would buy it. \"She knew we were coming. Had it all prepared.\""
+          },
+          {
+              paragraph: "\"This is the last time someone gets to know we're coming. Do we pursue?\""
+          },
+          {
+              paragraph: "\"Affirmative, comrade.\""
+          }
+        ],
+        "img": "../chronicle/zyr.jpg"
+    },
+    {
+        "slug": "chase",
+        "title": "Zyr: Chase",
+        "story": [
+          {
+              paragraph: "Larasab fled north out of Frade, and Zyr gave chase."
+          },
+          {
+              paragraph: "He and Vena had barely brushed the dust from their armor, and shot him full of meds, before they were out of the ruined Frade market and speeding across the salt flats of Pormos. The Pterri aimed their stealth speeders at the small jagged mountaintop right on the horizon, and as the Orb slowly sank into night, the mountain rose up into the darkness. Though the mountain was unnamed, it dominated the area as equally as any labeled peak."
+          },
+          {
+              paragraph: "The Orb was the thinnest line of burgundy off to Zyr's side now, and the light was just enough to put his helmet's night vision at a disadvantage, which was why he never saw the first laser bolt core his speeder's stabilizer. There was no fighting gravity or inertia this time: the speeder wobbled, dug its front into the hard Pormos earth, and started a somersault."
+          },
+          {
+              paragraph: "Zyr jumped before the speeder cartwheeled off into the night. He twisted in the air, landing on his shoulder and scrubbing his momentum with a series of rolls."
+          },
+          {
+              paragraph: "Blue, red, purple, and green laserfire streaked over him, blasting through the night air faster than lightning. The Pterri slid to a halt, and as he got up on one knee absorbed a laser bolt meant for his head and returned it to the attacker's own face. Glancing around, Zyr saw he and Vena were surrounded. Dozens of Vijari were clambering from cracks in the ground, aiming for anything taller than them: like two Pterri."
+          },
+          {
+              paragraph: "Zyr dug his fingers into the hardened salt and heaved his shoulders. A shockwave ripped through the dense Pormos mineral, exploding in a perfect circle well away from the two commandos. Salt and shocked Vijari fountained into the air. Their screams trailed them into the air as they pinwheeled skyward and just as quickly followed them back down as gravity took hold of their small bodies."
+          },
+          {
+              paragraph: "Adrenaline crackling through his system, Zyr didn't wait for bones to shatter against hard soil. Drawing his sword from its vortex, he followed through in a quick arc, lopping the nearest Vijari in half. Both pieces glowed bright green in the helmet's night vision, and so too did the thick gouts of blood and ribbons of gore that spilled out along the ground. Racing ahead, countless slashes worked the same violent deeds against more Vijari, and Zyr's energy armor sizzled as it burned the blood and flesh off its surface. Off to his right, the Pterri could see his comrade down on one knee, quickly racking up headshots in the finest game of skeet ever played on Pormos."
+          },
+          {
+              paragraph: "Night vision flaring to his left, Zyr turned and Absorbed another laser bolt. He shot it out his right hand, behind him, and heard a rewarding scream in return. Bringing the sword up with both hands, he cleaved one of Larasab's raiders up to her collarbone. He pushed the twitching corpse off with a boot, heard footsteps behind him, spun, and brought the blade down."
+          },
+          {
+              paragraph: "This Vijari was ready. He stopped the blow with a pair of long, fang-like knives much like Larasab's, but he quickly disengaged, rolling behind the Pterri as the momentum from his own strike caused him to stumble forward. Rocks skittered and air hissed as the Vijari leapt up, slashing at Zyr's neck. The blades bit into hardened steel, screeching against the energy barrier and leaving twin gouges in their wake right above the crater from Larasab's shot."
+          },
+          {
+              paragraph: "Zyr did a roll of his own, going to the right, coming up in a guard. His Vijari opponent landed on both feet, clicked his heels together, and bowed. Even though the night vision's green glow fused his opponent's features together, Zyr could make out the wide grin."
+          },
+          {
+              paragraph: "He charged forward, sword ready to spear the short bastard."
+          },
+          {
+              paragraph: "As Zyr expected, the Vijari juked right, neatly dodging the attack, and he swung one knife around for another slice to the Pterri's neck."
+          },
+          {
+              paragraph: "Zyr Countered, stopping hard, knocking the knife to one side with his elbow, and planting his heel in the Vijari's head with a roundhouse kick. The impact shuddered Zyr's entire body, but it sent the Virjari spiraling through the air."
+          },
+          {
+              paragraph: "The wiry-framed assassin hit the ground. Forcing himself up on one knee, he tried to bring his knives up, but found that difficult with a meter of titanium blade lancing through his chest. He coughed once, twice, and dropped to the ground."
+          },
+          {
+              paragraph: "Zyr flicked his wrist, calling his sword back from its latest victim. Surveying the scene, he took deep satisfaction in how he and Vena had performed."
+          },
+          {
+              paragraph: "Dozens of dead Vijari scattered the small plateau Zyr crafted with his shockwave, and dozens more lay in shallow ditches and destroyed crags. Cleansing the blood from his blade, the Pterri commando returned the sword to its vortex and turned toward Vena, who was approaching him. When Zyr's visor switched to thermal, he could see the heat bleeding off Vena's rifle; the waves of red bled into purple and then dissolved into the cold, blue night."
+          },
+          {
+              paragraph: "\"Shall we, Vena?\" Zyr asked, nodding at the mountain in the distance. Nightfall in Pormos badlands was so complete the peak was only visible because it was a black shadow against a blinking backdrop of stars."
+          },
+          {
+              paragraph: "\"Affirmative. However, they got my speeder as well.\""
+          },
+          {
+              paragraph: "\"We can run,\" Zyr said as he cracked his knuckles. \"The blood of our enemies will light the way.\""
+          }
+        ],
+        "img": "../chronicle/zyr.jpg"
+    },
+    {
+        "slug": "den",
+        "title": "Zyr: Den",
+        "story": [
+          {
+              paragraph: "Zyr and Vena cut and shot their way through the narrow caves that formed Larasab's den. Vijari appeared from every dark crevice, while hidden laser grids, mines, flechette launchers, and half a dozen other nasty devices impeded their downward progress. Although he could sense they were getting deeper, thanks to the musty dampness he could still smell over the tang of blood, Zyr knew they weren't making good time. Larasab could easily flee through a hidden exit and be halfway across Pormos by the time they eliminated her forces."
+          },
+          {
+              paragraph: "Vena, however, lost her patience first. The moment when she swung her rifle by the barrel and broke a Vijari's head open with the stock, Zyr knew to get out of her way. All her thrashing — wielding a rifle in one hand and a sword in the other — finally allowed him to slip into the shadows unnoticed."
+          },
+          {
+              paragraph: "Stumbling upon one larger tunnel, Zyr stalked down it, sword held at the ready. At the far end, yellow light spilled across the shadows. Turning the corner, he found Larasab."
+          },
+          {
+              paragraph: "It was a large chamber, and strings of small electric orbs hung haphazardly from the circular walls. The Vijari assassin lounged upon a small plinth in the center with her Fortuna Skull Piercer leaned against her shoulder like a familiar lover. Larasab nuzzled its barrel as she stared at the Pterri commando."
+          },
+          {
+              paragraph: "Zyr edged into the room, glancing about. Before he could speak, a clacking voice ricocheted off the stone walls."
+          },
+          {
+              paragraph: "\"Do put that down. She won't attack you. Not yet, at present.\""
+          },
+          {
+              paragraph: "A Krysar unfolded itself from behind Larasab and stepped around the plinth. Although its usual shimmer was dull from shuffling through the caves, its red eyes still shone brightly. Two electric blue crystals crackled within its shoulders."
+          },
+          {
+              paragraph: "\"I am known as Fexzii, the engineer. I crafted those plans you stole from Cryce,\" the Krysar said, extending a hand. \"Now you must return them to me, Pterri.\""
+          },
+          {
+              paragraph: "Zyr didn't need to explain how they were locked away in a ship with the home fleet. He certainly didn't need to say where his personal copy was hidden. His only reaction was shifting his stance to face the Krysar."
+          },
+          {
+              paragraph: "\"I will not fight you, commando. I know you killed Cixarli by cracking him in twain. I possess not even a fraction of his power, and I am not remotely a threat. However, she is. I have employed her and she is prepared to kill you.\""
+          },
+          {
+              paragraph: "At this, Zyr's composure cracked and laughter burst forth. The stone walls amplified its harshness, and as it echoed upon itself, it sounded like the avalanche he created just hours ago. He finally gathered enough composure to speak."
+          },
+          {
+              paragraph: "\"No one trusts a Vijari.\""
+          },
+          {
+              paragraph: "\"I have put my faith in this one.\""
+          },
+          {
+              paragraph: "\"Why?\""
+          },
+          {
+              paragraph: "Larasab cleared her throat. It sounded like a dying animal sucking air through a chest wound. \"It said I could kill some Pterri. While I couldn't turn that down, parasite, I'd actually be doing something important — not crawling through caves or plinking targets for profit. I'd have a purpose. You don't even know what that is, do you? You just follow orders and die.\""
+          },
+          {
+              paragraph: "Zyr stiffened. Larasab saw the sword jump up in his hand and she laughed."
+          },
+          {
+              paragraph: "\"You're a brainless parasite. You scuttle around without any free will. <em>I'm</em> building something.\" She hocked and spat something brown onto the floor, slowly rising up to stand on the plinth. \"We're sick of you bastards dropping out of the sky, taking whatever you want, wherever you want. You're not gods. It's time for your race to bleed.\""
+          },
+          {
+              paragraph: "Of all the things Pterri training covered, debate was not one of them. Zyr could no more form a verbal defensive position or craft a cutting repartee than he could flap his arms and fly back to the fleet. He gritted his jaw, realizing all his thoughts about acquiring Larasab as an instrument were melting away."
+          },
+          {
+              paragraph: "\"Hand over the orbital platform plans. No one need die,\" the Krysar said."
+          },
+          {
+              paragraph: "\"I don't have them,\" Zyr growled."
+          },
+          {
+              paragraph: "\"Yes, you do.\""
+          },
+          {
+              paragraph: "\"They are with the fleet. You cracked crystal.\""
+          },
+          {
+              paragraph: "\"They are in your helmet, Pterri. I know they are in your personal equipment.\""
+          },
+          {
+              paragraph: "To his credit, Zyr didn't move a muscle. The Krystal had no way of knowing where Zyr had hidden his plans. It was a bluff."
+          },
+          {
+              paragraph: "\"It's a new coding technique,\" Fexzii continued. \"There is a strain of code embedded in the data and it has low-level awareness. This code knows when its data is duplicated, which activates a homing signal. The signal is here in this cavern — in your helmet. Please do not continue to argue. It is a wasted effort.\""
+          },
+          {
+              paragraph: "Larasab smiled, and crusted blood flaked away from her scarred lips. \"Hand it over, parasite. I bet you're not supposed to have it anyway. You Pterri eat manuals and crap regulations. Can't fart without permission. Do it or I'll—\""
+          },
+          {
+              paragraph: "In an instant, Larasab shouldered her rifle and aimed somewhere to Zyr's left. Judging by the absolute silence around him, with not even the echoing of boots on stone, Zyr knew Vena had slipped into the room."
+          },
+          {
+              paragraph: "\"Comrade, what is going on?\" she asked, using the private channel between their helmets."
+          },
+          {
+              paragraph: "\"The Krysar complicates things,\" Zyr replied, working to buy time while trying not to wonder what Vena had overheard."
+          },
+          {
+              paragraph: "\"This is a clean sweep. No survivors.\""
+          },
+          {
+              paragraph: "\"Yes, but this one is an engineer.\""
+          },
+          {
+              paragraph: "Fexzii's glowing eyes flicked from one Pterri to the other. It couldn't hear their conversation, but Zyr could guess it knew they were talking about it."
+          },
+          {
+              paragraph: "\"Time is of the essence, so return the designs. Your forces destroyed them on Asylum, then you attacked Cryce and forced a lockdown. Further delays cannot occur now.\""
+          },
+          {
+              paragraph: "Silence stretched out after the Krysar's last statement. Zyr's pulse throbbed within his temples, and vibrated in his clenched hands. He could see Larasab's gaze flicking between him and Vena, wondering who she should shoot first. Vena was totally quiet, and Zyr knew her finger was around that rifle's trigger, pulling it against the sear point, ready to fire. He opened his mouth to give the engagement order, and that was when the floor buckled."
+          },
+          {
+              paragraph: "Two shots blasted into the air, careening off hard rock as the cavern bucked and dove like a raft on ocean waves. Zyr fell, landing hard, and his sword skittered from his grasp. It disappeared into the flickering darkness as the orbs danced, bucked, and broke against the flexing walls. Dust cascaded through the air and the familiar sound of breaking rock filled Zyr's ears. As he clung to the floor, fighting vainly to keep part of it level with his Spell, he finally heard the explosions. He could feel them, too, ripping through the ground, annihilating tunnels and blasting the mountain to shreds. As chunks of the ceiling began crashing to the unstable floor, Zyr could tell the explosions were getting louder and stronger."
+          },
+          {
+              paragraph: "Vena started screaming something incomprehensible. Boulders now dropped from the ceiling, and Zyr rolled across the rippling floor to avoid getting crushed. He had no idea where Larasab and the Krysar went. It didn't matter anymore."
+          },
+          {
+              paragraph: "The lights blew out. Darkness swallowed them whole. Cracking stone mixed with the growing crash of detonations, and Zyr realized what was going on."
+          },
+          {
+              paragraph: "He was on the receiving end of an orbital strike."
+          }
+        ],
+        "img": "../chronicle/zyr.jpg"
+    },
+    {
+        "slug": "blasted",
+        "title": "Zyr: Blasted",
+        "story": [
+          {
+              paragraph: "Air flooded Zyr's lungs as he breached the thick layer of blasted salt and rubble that was once Larasab's mountain hideout. Dirt and small rocks fountained up as he shoved his way free, using what little stamina for Spell he had left to exhume himself from Pormos' newest crypt."
+          },
+          {
+              paragraph: "Falling backward, ignoring the sharp stones, he just enjoyed the sensation of being able to breathe again. His chest shuddered with each breath as he reintroduced his body to oxygen."
+          },
+          {
+              paragraph: "Overhead, two cruisers went toe-to-toe in close orbit, their capital ship-class laser cannons lighting up Pormos' midnight sky with murderous lightning. One was his cruiser — his home — slugging it out with an unknown opponent. Zyr rested there, watching the two ships maneuver around each other, trading alternative volleys of laser blasts and trying to avoid each broadside while smaller ships darted between them, and then he felt a tremor in the rocky soil underneath."
+          },
+          {
+              paragraph: "Spreading his hands flat against the ground, he gathered his energy and sent a pulse through salt, soil, and solid rock. Something was moving."
+          },
+          {
+              paragraph: "\"Vena,\" he whispered to himself."
+          },
+          {
+              paragraph: "Rolling stiffly to his knees, Zyr planted his hands, dug his fingers into the rock, and pulled on earth as hard as he could. The ground shifted, rocks and boulders rolled away, and finally the dirt and cracked salt rippled out from deep beneath the surface. Within a few moments, Vena's dented helmet appeared, its ruined finish still somehow glinting in the pale laserlight from on high."
+          },
+          {
+              paragraph: "Vena floundered to get out of the rising soil, and it took Zyr a moment to realize she was only using one arm. Vena clawed herself out with one hand, while the other clasped glimmering Krysar crystal."
+          },
+          {
+              paragraph: "Panting, cursing, and scrabbling, Vena hauled what was left of Fexzii out behind her. Both the Krysar's legs had broken above the knee, leaving it with sharp shards to hopelessly tear at the ground, and its left arm was broken off at the elbow. Zyr gave it credit, as Fexzii began to awkwardly crawl away, digging furrows into the upturned earth with its shattered legs and levering itself forward on its good arm. Leaving his companion to gasp for breath as he did earlier, Zyr walked over to the Krysar and kicked it over on its back."
+          },
+          {
+              paragraph: "\"Explain that,\" Zyr demanded, pointing at the battle overhead."
+          },
+          {
+              paragraph: "The Krysar stared into the night sky, its red eyes still burning as the flashes of green and blue played across its dusty, chipped face. It clacked softly, the Krysar version of a sigh."
+          },
+          {
+              paragraph: "\"That is the ship intended to get us off Pormos, and the one that tried to kill us all. It is a Human cruiser — the group I advise. When I offered them assistance as part of the Mission for Universal Advancement, we hit upon the idea of orbital platforms to protect Asylum from you. It was logical. Pterri hold too much sway in this system. You cannot continue to act as a check on all other species.\""
+          },
+          {
+              paragraph: "Vena had stopped gasping and coughing, but she was still on her side. Zyr took a long look at her and noticed how her legs trailed off behind her at an odd angle. At the very least her back was broken, he concluded. Her gaze flicked up to Zyr, but he said nothing. The Krysar's clicking voice filled the void between the two commandos."
+          },
+          {
+              paragraph: "\"I often wondered why you stole the plans for yourself, Pterri. You are not a scientist. You have no forces of your own. Yet you allowed Larasab to escape and pursued her here. You did not strike her down instantly, or engage. You hesitated quite obviously,\" Fexzii said, idly running its crystalline fingers through Pormos' rocky soil. \"You have a greater plan. I cannot ascertain what you intend to do, specifically, but you are working counter to your orders and certainly counter to what the fleet is instructed. Perhaps I could have worked with you in some mutually beneficial capacity had I realized this earlier. Unhappily, it is too late.\""
+          },
+          {
+              paragraph: "Fexzii turned to look at Vena, and his glowing eyes brightened."
+          },
+          {
+              paragraph: "\"He will kill you next, Pterri. Prepare yourself in your accustomed fashion. Thank you for allowing me to see the night sky and its glittering stars one last time.\""
+          },
+          {
+              paragraph: "Zyr dropped to one knee and blasted the Kyrsar's head into a thousand shards with his sonic gauntlet. The high-pitched crack raced across the blasted wasteland and its thin echo bounced off the furthest peaks."
+          },
+          {
+              paragraph: "Silently standing, Zyr strode over to Vena and dropped down beside her. She was looking away from him, visor still trained on the decapitated Krysar and the glitter of fragments fanning out from its collapsed shoulders. Zyr, for his part, gazed skyward, and saw how the Human ship was trying to outrun the Pterri cruiser. Oxygen, fuel, and a half dozen other vital liquids were venting from the Human ship's hull, while the Pterri ship closed in for the kill. Small, weaker, blasts of laserfire erupted at odd moments from the Human ship, leading Zyr to assume their reactor was damaged."
+          },
+          {
+              paragraph: "\"Get over with it, Zyr. I will not beg.\""
+          },
+          {
+              paragraph: "\"Yes, but this one is an engineer.\""
+          },
+          {
+              paragraph: "\"I wasn't expecting you to.\""
+          },
+          {
+              paragraph: "\"Why?\" Vena asked, squirming on the ground so she could finally look up at the black sky. However, her gaze turned toward the dark horizon where the Orb would rise in the morning. \"Why betray the fleet? The mission?\""
+          },
+          {
+              paragraph: "Zyr leaned back, digging his hands into the soil again. He focused on the battle overhead, which was over. The Human ship was drifting, slowly succumbing to Pormos' gravity as the Pterri cruiser lined up for the coup de grace. For some reason he couldn't bring himself to simply turn his head and look at Vena. He found that odd, since it was such a simple action."
+          },
+          {
+              paragraph: "\"I'm betraying the home fleet and its mission. Not our fleet. Not our true mission.\""
+          },
+          {
+              paragraph: "Finding the words to explain how their fleet should thrive in Ocost rather than blindly serve faraway masters under the thumb of deluded overlords was beyond Zyr. One day, he knew, that would change if he was to ever gain any influence and loyal forces of his own. In the meantime, a good comrade — a worthy commando — would have to die thanks to his own inadequacy."
+          },
+          {
+              paragraph: "\"I don't understand,\" Vena whispered."
+          },
+          {
+              paragraph: "\"I know,\" Zyr said, just as quietly."
+          },
+          {
+              paragraph: "Using his Spell, Zyr forced Pormos' soil to start crawling over Vena's numb legs and still arms. She kept staring off into the horizon, never making a sound, as the ground opened up beneath her and pulled her back down. There were no last words and no parting gestures before she sunk deep into the planet's crust. It was the death of a Pterri commando accepting the end."
+          },
+          {
+              paragraph: "Fexzii's corpse disappeared a moment later, which left Zyr alone with his ambitions and regrets. He looked down at the empty space where Vena had lain, and in that instant a bright orange light blanketed the land."
+          },
+          {
+              paragraph: "Overhead the shattered remains of a Human cruiser flash froze in the vacuum of space and its debris began to streak through the highest reaches of Pormos' atmosphere. Zyr watched as the long arcs of sparkling light burned through the night sky, slashing away the darkness. He couldn't help but wonder if a Pterri ship would leave the same trails of fire behind when it exploded."
+          },
+          {
+              paragraph: "\"The home fleet will rend space itself and burn like a thousand stars by the time I am through. I swear it.\""
+          }
+        ],
+        "img": "../chronicle/zyr.jpg"
     }
 ];
